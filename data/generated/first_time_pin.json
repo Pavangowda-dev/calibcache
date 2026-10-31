@@ -1,0 +1,41 @@
+{
+  "intent_id": "first_time_pin",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "styles": {
+    "formal": [
+      "Could you please tell me how to set a UPI PIN for the bank account I just added?",
+      "I have added a new bank account in PayLoom. How do I set its UPI PIN?",
+      "Please guide me on creating a UPI PIN for my newly linked bank account.",
+      "How can I set up a UPI PIN for a fresh bank account added to my app?",
+      "I need help setting the UPI PIN for the account I recently added. What is the process?"
+    ],
+    "casual": [
+      "how do i set up upi pin for my new bank account?",
+      "new account add kiya hai, pin kaise set karu?",
+      "set upi pin for added bank account ka option kaha hai?",
+      "added bank acc ka upi pin kaise create karna hai?",
+      "hi, naye bank account ka upi pin kaise banaun?",
+      "freshly added account ke liye pin set karna hai, kaise?"
+    ],
+    "typos": [
+      "How do I set a UPI PIN for a newly aded bank account",
+      "I just addd a bank account how can I set the UPI pin",
+      "Please tell me how to set upi pin for my new bank acount",
+      "How can i create UPI PIN for the bank accout I linked",
+      "Need help to set UPI pin after adding a new bank acount"
+    ],
+    "hinglish": [
+      "mujhe naye bank account ke liye upi pin kaise set karna hai",
+      "naya bank account add kiya hai uska pin kaise banaye",
+      "added account ka upi pin set karne ka process kya hai",
+      "bank account link karne ke baad upi pin kaise create karte hain",
+      "meri newly added bank account ke liye upi pin kaise lagau"
+    ],
+    "minimal_edit": [
+      "How do I set a UPI PIN for a newly added bank account?",
+      "How do I set a UPI PIN for my newly added bank account?",
+      "How do I set the UPI PIN for a newly added bank account?",
+      "How do I set up a UPI PIN for a newly added bank account?"
+    ]
+  }
+}

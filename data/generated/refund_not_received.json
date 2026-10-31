@@ -1,0 +1,41 @@
+{
+  "intent_id": "refund_not_received",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "styles": {
+    "formal": [
+      "The merchant has already approved my refund, but I have still not received it. What should I do now?",
+      "My refund was approved by the merchant some time ago, yet it has not been credited to my account. Please advise on the next step.",
+      "The merchant confirmed the refund, but I do not see the amount in my bank account. How can I raise this issue?",
+      "I have not received the refund even though the merchant has approved it already. Kindly tell me how to proceed.",
+      "Please help me with a refund that the merchant approved earlier but is still not showing in my account."
+    ],
+    "casual": [
+      "merchant approved refund but i havent got it yet, what now?",
+      "refund is approved by merchant but not received in my account",
+      "hi, my refund got approved long back but still missing. how do i raise this?",
+      "merchant said refund done but money not credited yet",
+      "still no refund even after merchant approval, what should i do?",
+      "refund approved by seller but not showing in bank"
+    ],
+    "typos": [
+      "merchant ne refund approve kar diya tha but abhi tak nahi aaya",
+      "refund approved hai but amount abhi tak credit nahi hua pls help",
+      "merchant refund ko approve kar chuka hai par mujhe nahi mila",
+      "myn refund aaya nahi though merchant approved it already",
+      "refund approve ho gaya tha fir bhi account me nahi dikha"
+    ],
+    "hinglish": [
+      "merchant ne refund approve kar diya hai but abhi tak account me nahi aaya, kya karun?",
+      "refund approve ho chuka hai lekin mujhe receive nahi hua, help kaise raise karu?",
+      "merchant bol raha hai refund done hai par paise nahi aaye, kya next step hai?",
+      "hi, merchant ne refund approve kiya tha par abhi tak credit nahi hua, dispute kaise raise karna hai?",
+      "refund approve ho gaya tha lekin account me reflect nahi ho raha, kya karna chahiye?"
+    ],
+    "minimal_edit": [
+      "A merchant approved my refund long ago but I still have not received it. What do I do?",
+      "The merchant approved my refund long ago but I still have not received it. How do I raise this issue?",
+      "A merchant approved my refund long ago but I still have not received it. Please tell me what to do next.",
+      "The merchant approved my refund long ago but I still have not received it. Can you help me raise a dispute?"
+    ]
+  }
+}

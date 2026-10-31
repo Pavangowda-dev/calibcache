@@ -1,0 +1,41 @@
+{
+  "intent_id": "success_not_received",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "styles": {
+    "formal": [
+      "Hello, my payment shows successful in PayLoom, but the recipient says they have not received it. Could you please advise what I should do?",
+      "I can see the payment was successful, but the other person is saying the money has not reached their account. How should I proceed?",
+      "My UPI transfer shows successful, yet the receiver has not received the funds. Please let me know the next steps.",
+      "The transaction is marked successful on my side, but the beneficiary says the amount is not credited. What can I do now?",
+      "Could you help me with a successful payment that the receiver says has not been received? I need to know how to resolve this."
+    ],
+    "casual": [
+      "payment shows successful but they say they didnt get it what should i do",
+      "i sent money and it says success but receiver has no credit",
+      "my upi payment went through but the other person says nothing received",
+      "showing successful on my side but money not in their account",
+      "paid successfully in payloom but they still cant see it",
+      "transaction success but recipient says no money received"
+    ],
+    "typos": [
+      "my paymnet shows successfull but they say they didnt recive it",
+      "payment is succcessful but the other person says money not credited what now",
+      "i sent the money and it shows sucess but receiver says not got it",
+      "successful on my end but recipent hasnt received the fund",
+      "transcation completed but they say no money came"
+    ],
+    "hinglish": [
+      "mera payment successful dikh raha hai but saamne wale ko paisa nahi mila",
+      "upi se paise bheje aur success aaya par receiver bol raha hai receive nahi hua",
+      "payment successful hai lekin dusre bande ke account me credit nahi hua",
+      "mera transaction success ho gaya but receiver kehta hai paisa nahi aaya",
+      "paise bhej diye par saamne wale ko abhi tak nahi mile kya karun"
+    ],
+    "minimal_edit": [
+      "My payment shows successful but the person says they did not receive the money. What should I do?",
+      "My payment shows successful but the person says they did not receive the money. Why?",
+      "My payment shows successful but the person says they did not receive the money. Can I get it back?",
+      "My payment shows successful but the person says they did not receive the money."
+    ]
+  }
+}

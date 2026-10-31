@@ -1,0 +1,41 @@
+{
+  "intent_id": "change_pin",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "styles": {
+    "formal": [
+      "Could you please tell me how to change my UPI PIN in PayLoom?",
+      "I would like to update my UPI PIN. What is the process?",
+      "Please guide me on changing the UPI PIN for my bank account.",
+      "How can I change my UPI PIN from the app?",
+      "I need help changing the UPI PIN linked to my account."
+    ],
+    "casual": [
+      "how do i change my upi pin",
+      "need to change my upi pin in payloom",
+      "where can i update my upi pin",
+      "can i change my upi pin from settings",
+      "tell me the steps to change upi pin",
+      "i want to change my bank account upi pin"
+    ],
+    "typos": [
+      "how do i chnge my upi pin",
+      "need to upadate my upi pin in the app",
+      "where can i change my uip pin",
+      "please tell me how to change my upi p in",
+      "i want to chagne my upi pin"
+    ],
+    "hinglish": [
+      "mera upi pin kaise change karun",
+      "settings me jaake upi pin kaise badlu",
+      "bank account ka upi pin change karna hai",
+      "old pin dalke naya upi pin kaise set karte hain",
+      "payloom me upi pin change karne ka process kya hai"
+    ],
+    "minimal_edit": [
+      "I forgot my UPI PIN. How can I change it?",
+      "My UPI PIN is blocked after wrong attempts. When can I change it?",
+      "How do I change a UPI PIN for a newly added bank account?",
+      "I forgot my UPI PIN. Can I change it from settings?"
+    ]
+  }
+}

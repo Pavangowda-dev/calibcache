@@ -1,0 +1,29 @@
+# Secrets: never commit these
+.env
+.env.*
+!.env.example
+
+# Python environment and junk
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+build/
+dist/
+
+# Cache databases store users' text, so keep them out of git
+*.db
+*.sqlite
+*.sqlite3
+
+# Large generated files (the scripts can recreate them)
+results/*.npz
+results/usage_log.jsonl
+results/verdicts_*.json
+results/judge_validation.json
+results/router_v2_*.json
+
+# Windows junk
+Thumbs.db
+desktop.ini

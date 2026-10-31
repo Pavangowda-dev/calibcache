@@ -1,0 +1,41 @@
+{
+  "intent_id": "forgot_pin",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "styles": {
+    "formal": [
+      "I have forgotten my UPI PIN. Could you please tell me how to reset it in PayLoom?",
+      "My UPI PIN is no longer remembered. How can I reset it on the PayLoom app?",
+      "Please guide me on resetting my forgotten UPI PIN in PayLoom.",
+      "I need help resetting the UPI PIN I forgot. What steps should I follow in PayLoom?",
+      "Could you explain how to reset a forgotten UPI PIN for my bank account in PayLoom?"
+    ],
+    "casual": [
+      "forgot my upi pin, how do i reset it?",
+      "can you tell me how to reset my upi pin in payloom",
+      "i dont remember my upi pin, what do i do",
+      "how do i get a new upi pin after forgetting the old one",
+      "need help resetting upi pin on payloom",
+      "upi pin bhool gaya, kaise reset karu"
+    ],
+    "typos": [
+      "I forogt my UPI PIN how can I rest it",
+      "How do I reset my UPI pin if I forgot it",
+      "Please help me reseet my upi pin in PayLoom",
+      "I cant rember my UPI PIN what should I do",
+      "How to reset forgoten UPI PIN on the app"
+    ],
+    "hinglish": [
+      "mera upi pin bhool gaya hu kaise reset karu",
+      "payloom me forgotten upi pin reset kaise karte hain",
+      "mujhe apna upi pin yaad nahi hai, reset ka process batao",
+      "hi, upi pin bhool gaya hoon, kaise naya set karun",
+      "bank debit card details daalke upi pin reset karna hai kaise"
+    ],
+    "minimal_edit": [
+      "How do I reset my UPI PIN?",
+      "My UPI PIN is forgotten after wrong attempts. When can I use it again?",
+      "How do I reset a UPI PIN for a newly added bank account?",
+      "I forgot my UPI PIN. How can I reset it in PayLoom?"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "intent_id": "failed_deducted",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "styles": {
+    "formal": [
+      "My payment failed, but the amount was debited from my account. What should I do now?",
+      "The transaction was unsuccessful, yet the money has been deducted from my bank account. How can I get it resolved?",
+      "I received a failed payment message, but the amount was still taken from my account. Please guide me on the next steps.",
+      "My UPI payment did not go through, but the money was deducted. Could you please tell me what I need to do?",
+      "The payment failed after debiting my account. What is the process to get the amount back?"
+    ],
+    "casual": [
+      "my payment failed but money got deducted, what do i do?",
+      "payment failed and amount was cut from my account. help?",
+      "i got a failed status but the money is gone from my bank",
+      "why was money deducted when the payment failed?",
+      "failed transaction hai but paise kat gaye, ab kya karu?",
+      "upi payment failed and balance went down, what now?"
+    ],
+    "typos": [
+      "my paymnet failed but money was dedcuted what should i do",
+      "payment faild but amt got debited from my accout",
+      "i got a failed tranzaction and the money got cut from bank what now",
+      "my upi paymet didnt go through but balance was deducted pls help",
+      "failed payment but money debited frm my account how to resolve"
+    ],
+    "hinglish": [
+      "payment fail ho gaya lekin paise kat gaye, ab kya karu",
+      "mera transaction fail hua but account se money deduct ho gaya",
+      "upi payment nahi hua par balance cut ho gaya, kya karna hai",
+      "failed payment ka message aaya aur paise bhi kat gaye, help karo",
+      "paise deduct ho gaye but payment failed dikha raha hai, ab kya karun"
+    ],
+    "minimal_edit": [
+      "My payment failed but the money was deducted from my account. What should I do?",
+      "My payment failed but the money was deducted from my account. Why?",
+      "My payment failed but the money was deducted from my account. Can you help?",
+      "My payment failed but the money was deducted from my account. Please tell me what to do."
+    ]
+  }
+}

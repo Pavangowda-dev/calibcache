@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "calibcache"
+version = "0.1.0"
+description = "A calibrated semantic cache and model router for the OpenAI client"
+requires-python = ">=3.10"
+dependencies = [
+    "openai",
+    "python-dotenv",
+    "numpy",
+]
+
+# Extra tools for the evaluation scripts (charts). Install with: pip install -e ".[eval]"
+[project.optional-dependencies]
+eval = [
+    "matplotlib",
+]
+
+# Only package the calibcache folder (not scripts, data or results)
+[tool.setuptools.packages.find]
+include = ["calibcache*"]

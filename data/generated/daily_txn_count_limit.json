@@ -1,0 +1,41 @@
+{
+  "intent_id": "daily_txn_count_limit",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "styles": {
+    "formal": [
+      "Could you please tell me how many transactions I can do in one day on PayLoom?",
+      "I wanted to know the daily transaction limit for successful payments on PayLoom.",
+      "Can you confirm how many payments are allowed in a day through PayLoom?",
+      "Please let me know the maximum number of transactions I can complete in one day.",
+      "I would like to understand how many successful transactions are permitted per day."
+    ],
+    "casual": [
+      "how many payments can i do in a day?",
+      "is there a daily transaction limit on payloom?",
+      "can i keep sending money all day or is there a cap?",
+      "how many times can i pay in one day?",
+      "what's the max number of transactions today?",
+      "can i do more payments after some limit in a day?"
+    ],
+    "typos": [
+      "how many tranzactions can i do in one day",
+      "is there a daily limt for payments",
+      "can i make more transections after some point in the day",
+      "how many times can i pay today on payloom",
+      "plz tell me the day limit for sucessful transactions"
+    ],
+    "hinglish": [
+      "ek din me kitni transactions kar sakta hoon payloom pe?",
+      "daily payment limit kitni hai kya?",
+      "ek din me kitni baar paisa bhej sakte hain?",
+      "successfull transactions per day kitni allowed hai?",
+      "hello, din me kitne payments kar sakta hoon?"
+    ],
+    "minimal_edit": [
+      "What is the maximum number of transactions I can send per day?",
+      "How many transactions can I send in one single day?",
+      "Why can I only send a small number of transactions on my first days on the app?",
+      "What is the maximum amount I can send per day?"
+    ]
+  }
+}

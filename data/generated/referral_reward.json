@@ -1,0 +1,41 @@
+{
+  "intent_id": "referral_reward",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "styles": {
+    "formal": [
+      "Could you please tell me how much reward I get if I refer a friend to PayLoom?",
+      "I would like to know what I and my friend will receive for a successful referral.",
+      "Please explain the referral benefit for both the referrer and the new user.",
+      "Can you confirm the reward amount for referring a friend on PayLoom?",
+      "I want to understand the referral offer and what each of us gets after it is completed."
+    ],
+    "casual": [
+      "how much do we get for a referral?",
+      "what's the reward for referring a friend",
+      "tell me the refer bonus pls",
+      "hi how much money comes for referral",
+      "if i refer someone what do we both get?",
+      "friend ko refer karne par kya milega"
+    ],
+    "typos": [
+      "how much do i earn if i refr a friend",
+      "what do me and my friend get for a refrral",
+      "pls tell the referal reward for a new user",
+      "can u confirm the bonus for refering a friend",
+      "i want to know the reffer reward on payloom"
+    ],
+    "hinglish": [
+      "friend refer karne par hume kitna reward milega",
+      "mera aur friend ka referral bonus kya hoga",
+      "agar main friend ko refer karu to dono ko kya milega",
+      "refer karne pe reward kitna hai PayLoom me",
+      "new user first payment kare to referral se kya benefit hota hai"
+    ],
+    "minimal_edit": [
+      "How much do I earn if I refer a friend?",
+      "How much do I earn if I refer a friend on PayLoom?",
+      "How much do I earn when a friend joins through my referral?",
+      "How much do I earn if I refer one friend?"
+    ]
+  }
+}

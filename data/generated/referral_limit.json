@@ -1,0 +1,41 @@
+{
+  "intent_id": "referral_limit",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "styles": {
+    "formal": [
+      "Could you please confirm whether there is a cap on the number of friends I can refer?",
+      "I wanted to know if PayLoom allows unlimited friend referrals or if there is a referral limit.",
+      "Please let me know whether I can keep referring friends without any restriction.",
+      "Is there any maximum number of referrals I can make to earn rewards?",
+      "Kindly confirm if rewards are available only for a limited number of friend referrals."
+    ],
+    "casual": [
+      "is there a limit on friend referrals?",
+      "can i keep referring friends or is there a cap?",
+      "how many friends can i refer for rewards?",
+      "does payloom stop rewards after some referrals?",
+      "any max limit for referring friends?",
+      "can i refer more than the allowed number of friends?"
+    ],
+    "typos": [
+      "is there a limt on how many freinds i can refer",
+      "can i keep refering friends or is there a cap",
+      "how many frends can i refer for rewards",
+      "does payloom stop rewards after some referals",
+      "is there any maxium limit for friend referrs"
+    ],
+    "hinglish": [
+      "kya friends refer karne ki koi limit hai",
+      "main kitne doston ko refer kar sakta hoon",
+      "refer rewards ke liye koi maximum number hai kya",
+      "kya main unlimited friends refer kar sakta hoon ya limit hai",
+      "friend referral par koi cap hai kya"
+    ],
+    "minimal_edit": [
+      "How much do I earn if I refer a friend?",
+      "How many friends do I have to refer if I want to earn a reward?",
+      "How many friends can I refer before the reward stops?",
+      "Is there a limit on how many friends I can refer for rewards?"
+    ]
+  }
+}

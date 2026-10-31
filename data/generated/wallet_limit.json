@@ -1,0 +1,41 @@
+{
+  "intent_id": "wallet_limit",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "styles": {
+    "formal": [
+      "Hello, could you please tell me how much balance I can keep in the PayLoom wallet?",
+      "I would like to know the maximum amount that can be stored in my wallet.",
+      "Please confirm the wallet balance limit for a basic PayLoom account.",
+      "What is the highest amount I can hold in my PayLoom wallet?",
+      "Could you explain the wallet storage limit for PayLoom users?"
+    ],
+    "casual": [
+      "how much can i keep in the wallet?",
+      "wallet me max kitna paise rakh sakte hain?",
+      "what's the limit for wallet balance?",
+      "can i know the wallet cap?",
+      "how much money can stay in my payloom wallet",
+      "upi wallet limit kya hai?"
+    ],
+    "typos": [
+      "how much mony can i keep in the walet",
+      "what is the max balnce in my wallet",
+      "plese tell me wallet limit for payloom",
+      "how much can i hold in the wallett",
+      "can you confirm the wallet ammount limit"
+    ],
+    "hinglish": [
+      "wallet me kitna balance rakh sakte hain",
+      "mera payloom wallet ka maximum balance kitna hai",
+      "basic wallet me kitna paisa store kar sakte hain",
+      "full kyc ke bina wallet limit kya hoti hai",
+      "wallet ka max balance bata do"
+    ],
+    "minimal_edit": [
+      "How do I upgrade my wallet to full KYC?",
+      "How do I move money from my wallet back to my bank account?",
+      "How do I add money to my wallet?",
+      "How much money can I keep in the wallet?"
+    ]
+  }
+}

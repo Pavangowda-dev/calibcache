@@ -1,0 +1,41 @@
+{
+  "intent_id": "scratch_card_expiry",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "styles": {
+    "formal": [
+      "Hello, could you please tell me how long I have to open a scratch card before it expires?",
+      "I would like to know the validity period of a scratch card after I receive it.",
+      "Please confirm when a scratch card expires after being issued.",
+      "Could you let me know how many days I have to scratch a card before it becomes invalid?",
+      "I want to check the expiry time for a scratch card on PayLoom."
+    ],
+    "casual": [
+      "how long before a scratch card expires",
+      "when does my scratch card expire",
+      "scratch card kitne din valid rehta hai",
+      "can i open the scratch card later or does it expire",
+      "how much time do i get for a scratch card",
+      "scratch card kab tak use kar sakte hain"
+    ],
+    "typos": [
+      "how long do i have to open a scrtach card before it expiries",
+      "when does my scratchcard expier",
+      "can you tell me the validty of a scratch card after i get it",
+      "how many days before the scratch card gets invlaid",
+      "i want to know when my scratch card will exipre"
+    ],
+    "hinglish": [
+      "scratch card kitne time tak valid hota hai",
+      "mujhe scratch card kab tak open karna chahiye",
+      "scratch card receive hone ke baad kitne din tak chalta hai",
+      "kya scratch card expire ho jata hai agar main baad me open karu",
+      "payloom me scratch card ki validity kitni hoti hai"
+    ],
+    "minimal_edit": [
+      "How long do I have to open a scratch card before it expires?",
+      "How long do I have to use a scratch card before it expires?",
+      "How long do I have to open my scratch card before it expires?",
+      "How long do I have to scratch a card before it expires?"
+    ]
+  }
+}

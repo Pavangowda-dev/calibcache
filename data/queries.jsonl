@@ -1,0 +1,991 @@
+{"intent_id": "failed_deducted", "family": "payment_issues", "style": "typos", "text": "failed payment but money debited frm my account how to resolve", "split": "calibration", "query_id": "q0001"}
+{"intent_id": "failed_deducted", "family": "payment_issues", "style": "casual", "text": "my payment failed but money got deducted, what do i do?", "split": "calibration", "query_id": "q0002"}
+{"intent_id": "failed_deducted", "family": "payment_issues", "style": "hinglish", "text": "upi payment nahi hua par balance cut ho gaya, kya karna hai", "split": "calibration", "query_id": "q0003"}
+{"intent_id": "failed_deducted", "family": "payment_issues", "style": "minimal_edit", "text": "My payment failed but the money was deducted from my account. Please tell me what to do.", "split": "calibration", "query_id": "q0004"}
+{"intent_id": "failed_deducted", "family": "payment_issues", "style": "typos", "text": "i got a failed tranzaction and the money got cut from bank what now", "split": "calibration", "query_id": "q0005"}
+{"intent_id": "failed_deducted", "family": "payment_issues", "style": "casual", "text": "upi payment failed and balance went down, what now?", "split": "calibration", "query_id": "q0006"}
+{"intent_id": "failed_deducted", "family": "payment_issues", "style": "hinglish", "text": "mera transaction fail hua but account se money deduct ho gaya", "split": "calibration", "query_id": "q0007"}
+{"intent_id": "failed_deducted", "family": "payment_issues", "style": "typos", "text": "my paymnet failed but money was dedcuted what should i do", "split": "calibration", "query_id": "q0008"}
+{"intent_id": "failed_deducted", "family": "payment_issues", "style": "typos", "text": "my upi paymet didnt go through but balance was deducted pls help", "split": "calibration", "query_id": "q0009"}
+{"intent_id": "failed_deducted", "family": "payment_issues", "style": "hinglish", "text": "payment fail ho gaya lekin paise kat gaye, ab kya karu", "split": "calibration", "query_id": "q0010"}
+{"intent_id": "failed_deducted", "family": "payment_issues", "style": "formal", "text": "The transaction was unsuccessful, yet the money has been deducted from my bank account. How can I get it resolved?", "split": "calibration", "query_id": "q0011"}
+{"intent_id": "failed_deducted", "family": "payment_issues", "style": "typos", "text": "payment faild but amt got debited from my accout", "split": "calibration", "query_id": "q0012"}
+{"intent_id": "failed_deducted", "family": "payment_issues", "style": "minimal_edit", "text": "My payment failed but the money was deducted from my account. Why?", "split": "test", "query_id": "q0013"}
+{"intent_id": "failed_deducted", "family": "payment_issues", "style": "casual", "text": "payment failed and amount was cut from my account. help?", "split": "test", "query_id": "q0014"}
+{"intent_id": "failed_deducted", "family": "payment_issues", "style": "casual", "text": "failed transaction hai but paise kat gaye, ab kya karu?", "split": "test", "query_id": "q0015"}
+{"intent_id": "failed_deducted", "family": "payment_issues", "style": "formal", "text": "I received a failed payment message, but the amount was still taken from my account. Please guide me on the next steps.", "split": "test", "query_id": "q0016"}
+{"intent_id": "failed_deducted", "family": "payment_issues", "style": "minimal_edit", "text": "My payment failed but the money was deducted from my account. Can you help?", "split": "test", "query_id": "q0017"}
+{"intent_id": "failed_deducted", "family": "payment_issues", "style": "formal", "text": "The payment failed after debiting my account. What is the process to get the amount back?", "split": "test", "query_id": "q0018"}
+{"intent_id": "failed_deducted", "family": "payment_issues", "style": "hinglish", "text": "failed payment ka message aaya aur paise bhi kat gaye, help karo", "split": "test", "query_id": "q0019"}
+{"intent_id": "failed_deducted", "family": "payment_issues", "style": "casual", "text": "i got a failed status but the money is gone from my bank", "split": "test", "query_id": "q0020"}
+{"intent_id": "failed_deducted", "family": "payment_issues", "style": "casual", "text": "why was money deducted when the payment failed?", "split": "test", "query_id": "q0021"}
+{"intent_id": "failed_deducted", "family": "payment_issues", "style": "formal", "text": "My payment failed, but the amount was debited from my account. What should I do now?", "split": "test", "query_id": "q0022"}
+{"intent_id": "failed_deducted", "family": "payment_issues", "style": "formal", "text": "My UPI payment did not go through, but the money was deducted. Could you please tell me what I need to do?", "split": "test", "query_id": "q0023"}
+{"intent_id": "failed_deducted", "family": "payment_issues", "style": "hinglish", "text": "paise deduct ho gaye but payment failed dikha raha hai, ab kya karun", "split": "test", "query_id": "q0024"}
+{"intent_id": "pending_deducted", "family": "payment_issues", "style": "casual", "text": "money deducted but payment still pending on payloom", "split": "calibration", "query_id": "q0025"}
+{"intent_id": "pending_deducted", "family": "payment_issues", "style": "minimal_edit", "text": "My payment is pending and the money was deducted. What should I do?", "split": "calibration", "query_id": "q0026"}
+{"intent_id": "pending_deducted", "family": "payment_issues", "style": "casual", "text": "pending dikh raha hai aur paise kat gaye, now what", "split": "calibration", "query_id": "q0027"}
+{"intent_id": "pending_deducted", "family": "payment_issues", "style": "formal", "text": "The payment I made is showing pending in the app after money was deducted. Please let me know how to proceed.", "split": "calibration", "query_id": "q0028"}
+{"intent_id": "pending_deducted", "family": "payment_issues", "style": "minimal_edit", "text": "My payment shows pending but the money was deducted from my account. What should I do?", "split": "calibration", "query_id": "q0029"}
+{"intent_id": "pending_deducted", "family": "payment_issues", "style": "formal", "text": "I can see that my transfer is pending, but the amount has been taken from my account. Should I wait or take any action?", "split": "calibration", "query_id": "q0030"}
+{"intent_id": "pending_deducted", "family": "payment_issues", "style": "hinglish", "text": "mera payment pending dikh raha hai aur paise deduct ho gaye, kya karun", "split": "calibration", "query_id": "q0031"}
+{"intent_id": "pending_deducted", "family": "payment_issues", "style": "hinglish", "text": "payment pending hai but money debit ho gaya, ab kya karna chahiye", "split": "calibration", "query_id": "q0032"}
+{"intent_id": "pending_deducted", "family": "payment_issues", "style": "hinglish", "text": "paise kat gaye lekin payment abhi tak pending hai, please batao kya karna hai", "split": "calibration", "query_id": "q0033"}
+{"intent_id": "pending_deducted", "family": "payment_issues", "style": "typos", "text": "my payment is peending and money was detucted what should i do", "split": "calibration", "query_id": "q0034"}
+{"intent_id": "pending_deducted", "family": "payment_issues", "style": "typos", "text": "pending status aa raha hai aur amount deibited ho gaya", "split": "calibration", "query_id": "q0035"}
+{"intent_id": "pending_deducted", "family": "payment_issues", "style": "typos", "text": "mmy upi payment is pending and the money got debited", "split": "calibration", "query_id": "q0036"}
+{"intent_id": "pending_deducted", "family": "payment_issues", "style": "formal", "text": "My payment status in PayLoom shows pending and the money has already been deducted. Could you please advise what I should do next?", "split": "test", "query_id": "q0037"}
+{"intent_id": "pending_deducted", "family": "payment_issues", "style": "hinglish", "text": "payment stuck on pending aur amount deduct ho chuka hai, next step kya hai", "split": "test", "query_id": "q0038"}
+{"intent_id": "pending_deducted", "family": "payment_issues", "style": "typos", "text": "transaciton pending hai aur paise cut gaye please help", "split": "test", "query_id": "q0039"}
+{"intent_id": "pending_deducted", "family": "payment_issues", "style": "casual", "text": "my upi is still pending and amount got deducted", "split": "test", "query_id": "q0040"}
+{"intent_id": "pending_deducted", "family": "payment_issues", "style": "formal", "text": "My UPI transaction is pending and the debit has already happened. What is the correct process for this issue?", "split": "test", "query_id": "q0041"}
+{"intent_id": "pending_deducted", "family": "payment_issues", "style": "minimal_edit", "text": "My payment shows pending and the money has been deducted. What should I do?", "split": "test", "query_id": "q0042"}
+{"intent_id": "pending_deducted", "family": "payment_issues", "style": "casual", "text": "app me pending aa raha hai aur balance se paise chale gaye", "split": "test", "query_id": "q0043"}
+{"intent_id": "pending_deducted", "family": "payment_issues", "style": "typos", "text": "payment showng pending after amount deduced what now", "split": "test", "query_id": "q0044"}
+{"intent_id": "pending_deducted", "family": "payment_issues", "style": "casual", "text": "payment pending but money cut gaya, kya karu", "split": "test", "query_id": "q0045"}
+{"intent_id": "pending_deducted", "family": "payment_issues", "style": "formal", "text": "Hello, my UPI payment is still showing pending even though the amount has been debited. What should I do?", "split": "test", "query_id": "q0046"}
+{"intent_id": "pending_deducted", "family": "payment_issues", "style": "casual", "text": "transaction pending hai but debit ho gaya", "split": "test", "query_id": "q0047"}
+{"intent_id": "pending_deducted", "family": "payment_issues", "style": "hinglish", "text": "upi transaction pending aa raha hai aur balance se paise kat gaye", "split": "test", "query_id": "q0048"}
+{"intent_id": "success_not_received", "family": "payment_issues", "style": "formal", "text": "Hello, my payment shows successful in PayLoom, but the recipient says they have not received it. Could you please advise what I should do?", "split": "calibration", "query_id": "q0049"}
+{"intent_id": "success_not_received", "family": "payment_issues", "style": "hinglish", "text": "payment successful hai lekin dusre bande ke account me credit nahi hua", "split": "calibration", "query_id": "q0050"}
+{"intent_id": "success_not_received", "family": "payment_issues", "style": "casual", "text": "payment shows successful but they say they didnt get it what should i do", "split": "calibration", "query_id": "q0051"}
+{"intent_id": "success_not_received", "family": "payment_issues", "style": "casual", "text": "showing successful on my side but money not in their account", "split": "calibration", "query_id": "q0052"}
+{"intent_id": "success_not_received", "family": "payment_issues", "style": "casual", "text": "my upi payment went through but the other person says nothing received", "split": "calibration", "query_id": "q0053"}
+{"intent_id": "success_not_received", "family": "payment_issues", "style": "hinglish", "text": "paise bhej diye par saamne wale ko abhi tak nahi mile kya karun", "split": "calibration", "query_id": "q0054"}
+{"intent_id": "success_not_received", "family": "payment_issues", "style": "hinglish", "text": "mera payment successful dikh raha hai but saamne wale ko paisa nahi mila", "split": "calibration", "query_id": "q0055"}
+{"intent_id": "success_not_received", "family": "payment_issues", "style": "minimal_edit", "text": "My payment shows successful but the person says they did not receive the money. What should I do?", "split": "calibration", "query_id": "q0056"}
+{"intent_id": "success_not_received", "family": "payment_issues", "style": "typos", "text": "successful on my end but recipent hasnt received the fund", "split": "calibration", "query_id": "q0057"}
+{"intent_id": "success_not_received", "family": "payment_issues", "style": "typos", "text": "i sent the money and it shows sucess but receiver says not got it", "split": "calibration", "query_id": "q0058"}
+{"intent_id": "success_not_received", "family": "payment_issues", "style": "typos", "text": "transcation completed but they say no money came", "split": "calibration", "query_id": "q0059"}
+{"intent_id": "success_not_received", "family": "payment_issues", "style": "formal", "text": "Could you help me with a successful payment that the receiver says has not been received? I need to know how to resolve this.", "split": "calibration", "query_id": "q0060"}
+{"intent_id": "success_not_received", "family": "payment_issues", "style": "minimal_edit", "text": "My payment shows successful but the person says they did not receive the money. Can I get it back?", "split": "test", "query_id": "q0061"}
+{"intent_id": "success_not_received", "family": "payment_issues", "style": "formal", "text": "The transaction is marked successful on my side, but the beneficiary says the amount is not credited. What can I do now?", "split": "test", "query_id": "q0062"}
+{"intent_id": "success_not_received", "family": "payment_issues", "style": "casual", "text": "transaction success but recipient says no money received", "split": "test", "query_id": "q0063"}
+{"intent_id": "success_not_received", "family": "payment_issues", "style": "formal", "text": "I can see the payment was successful, but the other person is saying the money has not reached their account. How should I proceed?", "split": "test", "query_id": "q0064"}
+{"intent_id": "success_not_received", "family": "payment_issues", "style": "minimal_edit", "text": "My payment shows successful but the person says they did not receive the money. Why?", "split": "test", "query_id": "q0065"}
+{"intent_id": "success_not_received", "family": "payment_issues", "style": "casual", "text": "i sent money and it says success but receiver has no credit", "split": "test", "query_id": "q0066"}
+{"intent_id": "success_not_received", "family": "payment_issues", "style": "typos", "text": "my paymnet shows successfull but they say they didnt recive it", "split": "test", "query_id": "q0067"}
+{"intent_id": "success_not_received", "family": "payment_issues", "style": "hinglish", "text": "mera transaction success ho gaya but receiver kehta hai paisa nahi aaya", "split": "test", "query_id": "q0068"}
+{"intent_id": "success_not_received", "family": "payment_issues", "style": "casual", "text": "paid successfully in payloom but they still cant see it", "split": "test", "query_id": "q0069"}
+{"intent_id": "success_not_received", "family": "payment_issues", "style": "hinglish", "text": "upi se paise bheje aur success aaya par receiver bol raha hai receive nahi hua", "split": "test", "query_id": "q0070"}
+{"intent_id": "success_not_received", "family": "payment_issues", "style": "formal", "text": "My UPI transfer shows successful, yet the receiver has not received the funds. Please let me know the next steps.", "split": "test", "query_id": "q0071"}
+{"intent_id": "success_not_received", "family": "payment_issues", "style": "typos", "text": "payment is succcessful but the other person says money not credited what now", "split": "test", "query_id": "q0072"}
+{"intent_id": "wrong_recipient", "family": "payment_issues", "style": "typos", "text": "i transfered money to wrong person accidently how do i recover it", "split": "calibration", "query_id": "q0073"}
+{"intent_id": "wrong_recipient", "family": "payment_issues", "style": "typos", "text": "i snt money to the wrng person by mistake can i get it bk", "split": "calibration", "query_id": "q0074"}
+{"intent_id": "wrong_recipient", "family": "payment_issues", "style": "typos", "text": "can you reverse a upi paymnt if i sent it to the wrong reciver", "split": "calibration", "query_id": "q0075"}
+{"intent_id": "wrong_recipient", "family": "payment_issues", "style": "casual", "text": "can payloom reverse a payment i sent to the wrong person?", "split": "calibration", "query_id": "q0076"}
+{"intent_id": "wrong_recipient", "family": "payment_issues", "style": "hinglish", "text": "wrong person ko bheje hue paise kaise wapas le sakte hain", "split": "calibration", "query_id": "q0077"}
+{"intent_id": "wrong_recipient", "family": "payment_issues", "style": "typos", "text": "money went to the wrong account by mistak please help", "split": "calibration", "query_id": "q0078"}
+{"intent_id": "wrong_recipient", "family": "payment_issues", "style": "formal", "text": "I made a transfer to the wrong person by mistake. What should I do now to recover the money?", "split": "calibration", "query_id": "q0079"}
+{"intent_id": "wrong_recipient", "family": "payment_issues", "style": "formal", "text": "I accidentally sent money to the wrong UPI ID. Can PayLoom help me get it back?", "split": "calibration", "query_id": "q0080"}
+{"intent_id": "wrong_recipient", "family": "payment_issues", "style": "typos", "text": "i sent funds to the wrng UPI id can this be fixed", "split": "calibration", "query_id": "q0081"}
+{"intent_id": "wrong_recipient", "family": "payment_issues", "style": "formal", "text": "I sent funds to the wrong account by mistake. Please guide me on how to request a reversal.", "split": "calibration", "query_id": "q0082"}
+{"intent_id": "wrong_recipient", "family": "payment_issues", "style": "minimal_edit", "text": "My payment failed but I sent money to the wrong person. What should I do?", "split": "calibration", "query_id": "q0083"}
+{"intent_id": "wrong_recipient", "family": "payment_issues", "style": "casual", "text": "hi, i sent money to the wrong upi id. what should i do?", "split": "calibration", "query_id": "q0084"}
+{"intent_id": "wrong_recipient", "family": "payment_issues", "style": "formal", "text": "Hello, I transferred money to the wrong person. Could you tell me the steps to raise a complaint and get help?", "split": "test", "query_id": "q0085"}
+{"intent_id": "wrong_recipient", "family": "payment_issues", "style": "minimal_edit", "text": "My payment was declined and I sent money to the wrong person. Why?", "split": "test", "query_id": "q0086"}
+{"intent_id": "wrong_recipient", "family": "payment_issues", "style": "hinglish", "text": "maine galti se wrong person ko paise bhej diye kya wapas mil sakte hain", "split": "test", "query_id": "q0087"}
+{"intent_id": "wrong_recipient", "family": "payment_issues", "style": "hinglish", "text": "maine galat vyakti ko paise transfer kar diye kya usse recover kar sakta hoon", "split": "test", "query_id": "q0088"}
+{"intent_id": "wrong_recipient", "family": "payment_issues", "style": "casual", "text": "wrong upi transfer happened, how do i recover it?", "split": "test", "query_id": "q0089"}
+{"intent_id": "wrong_recipient", "family": "payment_issues", "style": "hinglish", "text": "mujhse galti ho gayi aur payment wrong UPI id pe chali gayi ab kya karu", "split": "test", "query_id": "q0090"}
+{"intent_id": "wrong_recipient", "family": "payment_issues", "style": "casual", "text": "sent money to the wrong guy by mistake, can i get it back?", "split": "test", "query_id": "q0091"}
+{"intent_id": "wrong_recipient", "family": "payment_issues", "style": "formal", "text": "Is it possible to reverse a UPI payment if I entered the wrong recipient and sent the money already?", "split": "test", "query_id": "q0092"}
+{"intent_id": "wrong_recipient", "family": "payment_issues", "style": "hinglish", "text": "hi maine galti se kisi aur ko money bhej diya help karo", "split": "test", "query_id": "q0093"}
+{"intent_id": "wrong_recipient", "family": "payment_issues", "style": "minimal_edit", "text": "My payment shows pending and I sent it to the wrong person. What should I do?", "split": "test", "query_id": "q0094"}
+{"intent_id": "wrong_recipient", "family": "payment_issues", "style": "casual", "text": "money went to the wrong contact, please help me get it back", "split": "test", "query_id": "q0095"}
+{"intent_id": "wrong_recipient", "family": "payment_issues", "style": "minimal_edit", "text": "My payment shows successful but I sent it to the wrong person. Can I get it back?", "split": "test", "query_id": "q0096"}
+{"intent_id": "wrong_recipient", "family": "payment_issues", "style": "casual", "text": "i paid the wrong person accidentally, what can i do now?", "split": "test", "query_id": "q0097"}
+{"intent_id": "declined_not_deducted", "family": "payment_issues", "style": "casual", "text": "hey my transaction failed but no money left my account", "split": "calibration", "query_id": "q0098"}
+{"intent_id": "declined_not_deducted", "family": "payment_issues", "style": "casual", "text": "payment declined and balance is still same, what happened?", "split": "calibration", "query_id": "q0099"}
+{"intent_id": "declined_not_deducted", "family": "payment_issues", "style": "formal", "text": "My UPI payment was declined, and no money was deducted from my account. Why did this happen?", "split": "calibration", "query_id": "q0100"}
+{"intent_id": "declined_not_deducted", "family": "payment_issues", "style": "typos", "text": "payment faild no amount deducted from account can you help", "split": "calibration", "query_id": "q0101"}
+{"intent_id": "declined_not_deducted", "family": "payment_issues", "style": "casual", "text": "my payment got declined but no money was cut, why?", "split": "calibration", "query_id": "q0102"}
+{"intent_id": "declined_not_deducted", "family": "payment_issues", "style": "formal", "text": "Could you please help me understand why my payment got declined but my account balance was not debited?", "split": "calibration", "query_id": "q0103"}
+{"intent_id": "declined_not_deducted", "family": "payment_issues", "style": "hinglish", "text": "upi payment fail hua but account se kuch deduct nahi hua, kya reason hai?", "split": "calibration", "query_id": "q0104"}
+{"intent_id": "declined_not_deducted", "family": "payment_issues", "style": "minimal_edit", "text": "My payment failed but no money was deducted from my account. What should I do?", "split": "calibration", "query_id": "q0105"}
+{"intent_id": "declined_not_deducted", "family": "payment_issues", "style": "hinglish", "text": "hi, payment fail hua aur account se paise nahi gaye, bank ko contact karna hoga kya?", "split": "calibration", "query_id": "q0106"}
+{"intent_id": "declined_not_deducted", "family": "payment_issues", "style": "hinglish", "text": "mera payment decline ho gaya aur paise bhi cut nahi hue, kyu?", "split": "calibration", "query_id": "q0107"}
+{"intent_id": "declined_not_deducted", "family": "payment_issues", "style": "minimal_edit", "text": "My payment shows successful but no money was deducted. What should I do?", "split": "calibration", "query_id": "q0108"}
+{"intent_id": "declined_not_deducted", "family": "payment_issues", "style": "hinglish", "text": "payment reject ho gaya lekin money deduct nahi hua, kya karna chahiye?", "split": "calibration", "query_id": "q0109"}
+{"intent_id": "declined_not_deducted", "family": "payment_issues", "style": "typos", "text": "my payment got decliend but no money was deducted why", "split": "test", "query_id": "q0110"}
+{"intent_id": "declined_not_deducted", "family": "payment_issues", "style": "formal", "text": "Hello, my payment was rejected by PayLoom and nothing was deducted. Can you explain the reason?", "split": "test", "query_id": "q0111"}
+{"intent_id": "declined_not_deducted", "family": "payment_issues", "style": "formal", "text": "I tried to make a UPI payment, but it was declined and no amount was taken from my bank account. What should I do?", "split": "test", "query_id": "q0112"}
+{"intent_id": "declined_not_deducted", "family": "payment_issues", "style": "casual", "text": "i tried again but it keeps getting declined and no debit happened", "split": "test", "query_id": "q0113"}
+{"intent_id": "declined_not_deducted", "family": "payment_issues", "style": "formal", "text": "My transaction was declined without any debit from my account. Should I check my balance, UPI PIN, or bank status?", "split": "test", "query_id": "q0114"}
+{"intent_id": "declined_not_deducted", "family": "payment_issues", "style": "typos", "text": "my bank refused the paymnt and nothing got deducted", "split": "test", "query_id": "q0115"}
+{"intent_id": "declined_not_deducted", "family": "payment_issues", "style": "typos", "text": "upi trnsaction declined and balance not debited what to do", "split": "test", "query_id": "q0116"}
+{"intent_id": "declined_not_deducted", "family": "payment_issues", "style": "typos", "text": "no money was cut but the payment was declined what should i check", "split": "test", "query_id": "q0117"}
+{"intent_id": "declined_not_deducted", "family": "payment_issues", "style": "minimal_edit", "text": "I sent money to the wrong person by mistake and no money was deducted. Can I get it back?", "split": "test", "query_id": "q0118"}
+{"intent_id": "declined_not_deducted", "family": "payment_issues", "style": "casual", "text": "declined payment no deduction from bank, what should i check?", "split": "test", "query_id": "q0119"}
+{"intent_id": "declined_not_deducted", "family": "payment_issues", "style": "minimal_edit", "text": "My payment shows pending and no money was deducted. What should I do?", "split": "test", "query_id": "q0120"}
+{"intent_id": "declined_not_deducted", "family": "payment_issues", "style": "hinglish", "text": "transaction declined ho gaya aur balance same hai, kya check karu?", "split": "test", "query_id": "q0121"}
+{"intent_id": "declined_not_deducted", "family": "payment_issues", "style": "casual", "text": "why did the upi fail if nothing got deducted?", "split": "test", "query_id": "q0122"}
+{"intent_id": "daily_amount_limit", "family": "limits", "style": "minimal_edit", "text": "What is the daily amount I can send?", "split": "calibration", "query_id": "q0123"}
+{"intent_id": "daily_amount_limit", "family": "limits", "style": "casual", "text": "tell me the max i can transfer daily", "split": "calibration", "query_id": "q0124"}
+{"intent_id": "daily_amount_limit", "family": "limits", "style": "casual", "text": "how much money can i send per day", "split": "calibration", "query_id": "q0125"}
+{"intent_id": "daily_amount_limit", "family": "limits", "style": "typos", "text": "what is the max amout i can send in a day", "split": "calibration", "query_id": "q0126"}
+{"intent_id": "daily_amount_limit", "family": "limits", "style": "hinglish", "text": "ek din me total kitna bhej sakta hoon", "split": "calibration", "query_id": "q0127"}
+{"intent_id": "daily_amount_limit", "family": "limits", "style": "minimal_edit", "text": "What is the maximum amount I can send in one day?", "split": "calibration", "query_id": "q0128"}
+{"intent_id": "daily_amount_limit", "family": "limits", "style": "casual", "text": "how much can i send in a day on payloom", "split": "calibration", "query_id": "q0129"}
+{"intent_id": "daily_amount_limit", "family": "limits", "style": "hinglish", "text": "payloom me daily sending limit kya hai", "split": "calibration", "query_id": "q0130"}
+{"intent_id": "daily_amount_limit", "family": "limits", "style": "hinglish", "text": "daily kitna amount send kar sakta hu payloom par", "split": "calibration", "query_id": "q0131"}
+{"intent_id": "daily_amount_limit", "family": "limits", "style": "formal", "text": "I would like to know the daily sending limit on PayLoom across my bank accounts.", "split": "calibration", "query_id": "q0132"}
+{"intent_id": "daily_amount_limit", "family": "limits", "style": "casual", "text": "can you check my day limit for upi transfers", "split": "calibration", "query_id": "q0133"}
+{"intent_id": "daily_amount_limit", "family": "limits", "style": "formal", "text": "Could you please confirm the maximum amount I can send in a day on PayLoom?", "split": "calibration", "query_id": "q0134"}
+{"intent_id": "daily_amount_limit", "family": "limits", "style": "typos", "text": "how much can be sent in a single day", "split": "test", "query_id": "q0135"}
+{"intent_id": "daily_amount_limit", "family": "limits", "style": "minimal_edit", "text": "How much can I send in a day?", "split": "test", "query_id": "q0136"}
+{"intent_id": "daily_amount_limit", "family": "limits", "style": "casual", "text": "what's my total send limit for today", "split": "test", "query_id": "q0137"}
+{"intent_id": "daily_amount_limit", "family": "limits", "style": "typos", "text": "i want to know my total upi limit for one day", "split": "test", "query_id": "q0138"}
+{"intent_id": "daily_amount_limit", "family": "limits", "style": "hinglish", "text": "mera per day transfer limit kitna hai", "split": "test", "query_id": "q0139"}
+{"intent_id": "daily_amount_limit", "family": "limits", "style": "typos", "text": "how much can i trnasfer per day on payloom", "split": "test", "query_id": "q0140"}
+{"intent_id": "daily_amount_limit", "family": "limits", "style": "formal", "text": "Please tell me how much I can transfer per day using PayLoom.", "split": "test", "query_id": "q0141"}
+{"intent_id": "daily_amount_limit", "family": "limits", "style": "typos", "text": "pls tell me the daily send limt", "split": "test", "query_id": "q0142"}
+{"intent_id": "daily_amount_limit", "family": "limits", "style": "casual", "text": "whats the daily limit for sending money", "split": "test", "query_id": "q0143"}
+{"intent_id": "daily_amount_limit", "family": "limits", "style": "hinglish", "text": "mujhe apna one day ka upi limit batao", "split": "test", "query_id": "q0144"}
+{"intent_id": "daily_amount_limit", "family": "limits", "style": "formal", "text": "I need clarification on the maximum daily UPI transfer limit in PayLoom.", "split": "test", "query_id": "q0145"}
+{"intent_id": "daily_amount_limit", "family": "limits", "style": "formal", "text": "Can you explain the total amount I am allowed to send in one day on PayLoom?", "split": "test", "query_id": "q0146"}
+{"intent_id": "per_txn_limit", "family": "limits", "style": "minimal_edit", "text": "What is the maximum amount I can send in one transaction?", "split": "calibration", "query_id": "q0147"}
+{"intent_id": "per_txn_limit", "family": "limits", "style": "typos", "text": "how much can i transfer at once pls", "split": "calibration", "query_id": "q0148"}
+{"intent_id": "per_txn_limit", "family": "limits", "style": "formal", "text": "I would like to know the highest amount I can send in one transaction on PayLoom.", "split": "calibration", "query_id": "q0149"}
+{"intent_id": "per_txn_limit", "family": "limits", "style": "casual", "text": "is there a cap on one transaction?", "split": "calibration", "query_id": "q0150"}
+{"intent_id": "per_txn_limit", "family": "limits", "style": "minimal_edit", "text": "What is the maximum amount I can send in a single transaction?", "split": "calibration", "query_id": "q0151"}
+{"intent_id": "per_txn_limit", "family": "limits", "style": "casual", "text": "how much can i transfer at once?", "split": "calibration", "query_id": "q0152"}
+{"intent_id": "per_txn_limit", "family": "limits", "style": "formal", "text": "Could you let me know the upper limit for an individual UPI payment?", "split": "calibration", "query_id": "q0153"}
+{"intent_id": "per_txn_limit", "family": "limits", "style": "typos", "text": "what is the maimum i can send in one transation", "split": "calibration", "query_id": "q0154"}
+{"intent_id": "per_txn_limit", "family": "limits", "style": "hinglish", "text": "ek transaction me zyada se zyada kitna bhej sakte hain?", "split": "calibration", "query_id": "q0155"}
+{"intent_id": "per_txn_limit", "family": "limits", "style": "formal", "text": "Please confirm the single transaction limit for sending money through the app.", "split": "calibration", "query_id": "q0156"}
+{"intent_id": "per_txn_limit", "family": "limits", "style": "hinglish", "text": "single payment me max amount kitna hai?", "split": "calibration", "query_id": "q0157"}
+{"intent_id": "per_txn_limit", "family": "limits", "style": "typos", "text": "can i send a big amout in one go", "split": "calibration", "query_id": "q0158"}
+{"intent_id": "per_txn_limit", "family": "limits", "style": "hinglish", "text": "bada amount bhejne ke liye ek hi payment me kitna ja sakta hai?", "split": "test", "query_id": "q0159"}
+{"intent_id": "per_txn_limit", "family": "limits", "style": "casual", "text": "can i send a large amount in one go or is there a limit?", "split": "test", "query_id": "q0160"}
+{"intent_id": "per_txn_limit", "family": "limits", "style": "typos", "text": "is there a limt for one payment", "split": "test", "query_id": "q0161"}
+{"intent_id": "per_txn_limit", "family": "limits", "style": "casual", "text": "how big can one upi transfer be?", "split": "test", "query_id": "q0162"}
+{"intent_id": "per_txn_limit", "family": "limits", "style": "formal", "text": "May I know the maximum value permitted for one payment transfer?", "split": "test", "query_id": "q0163"}
+{"intent_id": "per_txn_limit", "family": "limits", "style": "hinglish", "text": "kya one time transfer ka koi limit hai?", "split": "test", "query_id": "q0164"}
+{"intent_id": "per_txn_limit", "family": "limits", "style": "minimal_edit", "text": "What is the maximum amount I can send in one payment?", "split": "test", "query_id": "q0165"}
+{"intent_id": "per_txn_limit", "family": "limits", "style": "hinglish", "text": "ek baar me kitna paisa bhej sakta hu?", "split": "test", "query_id": "q0166"}
+{"intent_id": "per_txn_limit", "family": "limits", "style": "casual", "text": "max amount for a single payment?", "split": "test", "query_id": "q0167"}
+{"intent_id": "per_txn_limit", "family": "limits", "style": "formal", "text": "Hello, could you please tell me the maximum amount allowed in a single UPI transfer?", "split": "test", "query_id": "q0168"}
+{"intent_id": "per_txn_limit", "family": "limits", "style": "typos", "text": "max amout for a single transaction?", "split": "test", "query_id": "q0169"}
+{"intent_id": "per_txn_limit", "family": "limits", "style": "casual", "text": "what's the max i can send in one payment?", "split": "test", "query_id": "q0170"}
+{"intent_id": "daily_txn_count_limit", "family": "limits", "style": "typos", "text": "how many times can i pay today on payloom", "split": "calibration", "query_id": "q0171"}
+{"intent_id": "daily_txn_count_limit", "family": "limits", "style": "casual", "text": "is there a daily transaction limit on payloom?", "split": "calibration", "query_id": "q0172"}
+{"intent_id": "daily_txn_count_limit", "family": "limits", "style": "formal", "text": "Could you please tell me how many transactions I can do in one day on PayLoom?", "split": "calibration", "query_id": "q0173"}
+{"intent_id": "daily_txn_count_limit", "family": "limits", "style": "minimal_edit", "text": "Why can I only send a small number of transactions on my first days on the app?", "split": "calibration", "query_id": "q0174"}
+{"intent_id": "daily_txn_count_limit", "family": "limits", "style": "casual", "text": "how many payments can i do in a day?", "split": "calibration", "query_id": "q0175"}
+{"intent_id": "daily_txn_count_limit", "family": "limits", "style": "formal", "text": "I would like to understand how many successful transactions are permitted per day.", "split": "calibration", "query_id": "q0176"}
+{"intent_id": "daily_txn_count_limit", "family": "limits", "style": "minimal_edit", "text": "How many transactions can I send in one single day?", "split": "calibration", "query_id": "q0177"}
+{"intent_id": "daily_txn_count_limit", "family": "limits", "style": "minimal_edit", "text": "What is the maximum number of transactions I can send per day?", "split": "calibration", "query_id": "q0178"}
+{"intent_id": "daily_txn_count_limit", "family": "limits", "style": "hinglish", "text": "ek din me kitni baar paisa bhej sakte hain?", "split": "calibration", "query_id": "q0179"}
+{"intent_id": "daily_txn_count_limit", "family": "limits", "style": "casual", "text": "can i do more payments after some limit in a day?", "split": "calibration", "query_id": "q0180"}
+{"intent_id": "daily_txn_count_limit", "family": "limits", "style": "hinglish", "text": "ek din me kitni transactions kar sakta hoon payloom pe?", "split": "calibration", "query_id": "q0181"}
+{"intent_id": "daily_txn_count_limit", "family": "limits", "style": "casual", "text": "how many times can i pay in one day?", "split": "calibration", "query_id": "q0182"}
+{"intent_id": "daily_txn_count_limit", "family": "limits", "style": "typos", "text": "is there a daily limt for payments", "split": "test", "query_id": "q0183"}
+{"intent_id": "daily_txn_count_limit", "family": "limits", "style": "hinglish", "text": "successfull transactions per day kitni allowed hai?", "split": "test", "query_id": "q0184"}
+{"intent_id": "daily_txn_count_limit", "family": "limits", "style": "typos", "text": "can i make more transections after some point in the day", "split": "test", "query_id": "q0185"}
+{"intent_id": "daily_txn_count_limit", "family": "limits", "style": "typos", "text": "plz tell me the day limit for sucessful transactions", "split": "test", "query_id": "q0186"}
+{"intent_id": "daily_txn_count_limit", "family": "limits", "style": "hinglish", "text": "daily payment limit kitni hai kya?", "split": "test", "query_id": "q0187"}
+{"intent_id": "daily_txn_count_limit", "family": "limits", "style": "formal", "text": "Can you confirm how many payments are allowed in a day through PayLoom?", "split": "test", "query_id": "q0188"}
+{"intent_id": "daily_txn_count_limit", "family": "limits", "style": "hinglish", "text": "hello, din me kitne payments kar sakta hoon?", "split": "test", "query_id": "q0189"}
+{"intent_id": "daily_txn_count_limit", "family": "limits", "style": "formal", "text": "I wanted to know the daily transaction limit for successful payments on PayLoom.", "split": "test", "query_id": "q0190"}
+{"intent_id": "daily_txn_count_limit", "family": "limits", "style": "casual", "text": "can i keep sending money all day or is there a cap?", "split": "test", "query_id": "q0191"}
+{"intent_id": "daily_txn_count_limit", "family": "limits", "style": "casual", "text": "what's the max number of transactions today?", "split": "test", "query_id": "q0192"}
+{"intent_id": "daily_txn_count_limit", "family": "limits", "style": "typos", "text": "how many tranzactions can i do in one day", "split": "test", "query_id": "q0193"}
+{"intent_id": "daily_txn_count_limit", "family": "limits", "style": "formal", "text": "Please let me know the maximum number of transactions I can complete in one day.", "split": "test", "query_id": "q0194"}
+{"intent_id": "new_user_limit", "family": "limits", "style": "hinglish", "text": "mujhe samjhao ki app join karte hi bada amount kyu nahi bhej sakta", "split": "calibration", "query_id": "q0195"}
+{"intent_id": "new_user_limit", "family": "limits", "style": "casual", "text": "cant send bigger payments yet, is this normal?", "split": "calibration", "query_id": "q0196"}
+{"intent_id": "new_user_limit", "family": "limits", "style": "formal", "text": "Please let me know if there is a temporary restriction on sending money when a new bank account is added.", "split": "calibration", "query_id": "q0197"}
+{"intent_id": "new_user_limit", "family": "limits", "style": "casual", "text": "my sending limit is low in the first few days, why?", "split": "calibration", "query_id": "q0198"}
+{"intent_id": "new_user_limit", "family": "limits", "style": "casual", "text": "i just started using payloom and my send limit is restricted, why", "split": "calibration", "query_id": "q0199"}
+{"intent_id": "new_user_limit", "family": "limits", "style": "minimal_edit", "text": "What is the maximum amount I can send per day during the first few days on the app?", "split": "calibration", "query_id": "q0200"}
+{"intent_id": "new_user_limit", "family": "limits", "style": "formal", "text": "Could you explain why new users cannot send higher amounts immediately after starting to use the app?", "split": "calibration", "query_id": "q0201"}
+{"intent_id": "new_user_limit", "family": "limits", "style": "typos", "text": "is there a temprary limit for new users on payloom", "split": "calibration", "query_id": "q0202"}
+{"intent_id": "new_user_limit", "family": "limits", "style": "casual", "text": "why is my money send limit small after adding bank account", "split": "calibration", "query_id": "q0203"}
+{"intent_id": "new_user_limit", "family": "limits", "style": "minimal_edit", "text": "Why can I only send a small amount in one single transaction in my first days on the app?", "split": "calibration", "query_id": "q0204"}
+{"intent_id": "new_user_limit", "family": "limits", "style": "formal", "text": "Hello, could you please explain why my transfer ability is limited during the first few days after joining PayLoom?", "split": "calibration", "query_id": "q0205"}
+{"intent_id": "new_user_limit", "family": "limits", "style": "casual", "text": "why can i only send a small amount right after joining?", "split": "calibration", "query_id": "q0206"}
+{"intent_id": "new_user_limit", "family": "limits", "style": "formal", "text": "I have just added my bank account and I am unable to send larger payments yet. Could you clarify why this happens?", "split": "test", "query_id": "q0207"}
+{"intent_id": "new_user_limit", "family": "limits", "style": "hinglish", "text": "bank account add karne ke baad payment limit kam kyun dikh rahi hai", "split": "test", "query_id": "q0208"}
+{"intent_id": "new_user_limit", "family": "limits", "style": "typos", "text": "why is my sendig limit restricted right after joining", "split": "test", "query_id": "q0209"}
+{"intent_id": "new_user_limit", "family": "limits", "style": "formal", "text": "I would like to understand why my payment limit seems lower right after signup. Can you help?", "split": "test", "query_id": "q0210"}
+{"intent_id": "new_user_limit", "family": "limits", "style": "hinglish", "text": "new user ke liye sending limit pehle kuch din kam hoti hai kya", "split": "test", "query_id": "q0211"}
+{"intent_id": "new_user_limit", "family": "limits", "style": "hinglish", "text": "naya account banaya hai aur sirf thoda amount bhej pa raha hu kyun", "split": "test", "query_id": "q0212"}
+{"intent_id": "new_user_limit", "family": "limits", "style": "typos", "text": "my transfer limit seems low after signup can you explain", "split": "test", "query_id": "q0213"}
+{"intent_id": "new_user_limit", "family": "limits", "style": "typos", "text": "why am i only able to send a smal amount in the first days", "split": "test", "query_id": "q0214"}
+{"intent_id": "new_user_limit", "family": "limits", "style": "hinglish", "text": "bank add karne ke baad amount bhejne me restriction kyu hai", "split": "test", "query_id": "q0215"}
+{"intent_id": "new_user_limit", "family": "limits", "style": "typos", "text": "i added my bank account but still cant send higer payments why", "split": "test", "query_id": "q0216"}
+{"intent_id": "new_user_limit", "family": "limits", "style": "casual", "text": "new on the app and transfers are capped, whats the reason?", "split": "test", "query_id": "q0217"}
+{"intent_id": "new_user_limit", "family": "limits", "style": "minimal_edit", "text": "Why can I only send a small amount per day in my first days on the app?", "split": "test", "query_id": "q0218"}
+{"intent_id": "change_pin", "family": "upi_pin", "style": "formal", "text": "I need help changing the UPI PIN linked to my account.", "split": "calibration", "query_id": "q0219"}
+{"intent_id": "change_pin", "family": "upi_pin", "style": "typos", "text": "where can i change my uip pin", "split": "calibration", "query_id": "q0220"}
+{"intent_id": "change_pin", "family": "upi_pin", "style": "formal", "text": "Could you please tell me how to change my UPI PIN in PayLoom?", "split": "calibration", "query_id": "q0221"}
+{"intent_id": "change_pin", "family": "upi_pin", "style": "minimal_edit", "text": "My UPI PIN is blocked after wrong attempts. When can I change it?", "split": "calibration", "query_id": "q0222"}
+{"intent_id": "change_pin", "family": "upi_pin", "style": "casual", "text": "need to change my upi pin in payloom", "split": "calibration", "query_id": "q0223"}
+{"intent_id": "change_pin", "family": "upi_pin", "style": "typos", "text": "please tell me how to change my upi p in", "split": "calibration", "query_id": "q0224"}
+{"intent_id": "change_pin", "family": "upi_pin", "style": "casual", "text": "where can i update my upi pin", "split": "calibration", "query_id": "q0225"}
+{"intent_id": "change_pin", "family": "upi_pin", "style": "typos", "text": "i want to chagne my upi pin", "split": "calibration", "query_id": "q0226"}
+{"intent_id": "change_pin", "family": "upi_pin", "style": "hinglish", "text": "bank account ka upi pin change karna hai", "split": "calibration", "query_id": "q0227"}
+{"intent_id": "change_pin", "family": "upi_pin", "style": "minimal_edit", "text": "I forgot my UPI PIN. How can I change it?", "split": "calibration", "query_id": "q0228"}
+{"intent_id": "change_pin", "family": "upi_pin", "style": "casual", "text": "i want to change my bank account upi pin", "split": "calibration", "query_id": "q0229"}
+{"intent_id": "change_pin", "family": "upi_pin", "style": "typos", "text": "need to upadate my upi pin in the app", "split": "calibration", "query_id": "q0230"}
+{"intent_id": "change_pin", "family": "upi_pin", "style": "hinglish", "text": "payloom me upi pin change karne ka process kya hai", "split": "test", "query_id": "q0231"}
+{"intent_id": "change_pin", "family": "upi_pin", "style": "hinglish", "text": "old pin dalke naya upi pin kaise set karte hain", "split": "test", "query_id": "q0232"}
+{"intent_id": "change_pin", "family": "upi_pin", "style": "formal", "text": "How can I change my UPI PIN from the app?", "split": "test", "query_id": "q0233"}
+{"intent_id": "change_pin", "family": "upi_pin", "style": "hinglish", "text": "mera upi pin kaise change karun", "split": "test", "query_id": "q0234"}
+{"intent_id": "change_pin", "family": "upi_pin", "style": "casual", "text": "tell me the steps to change upi pin", "split": "test", "query_id": "q0235"}
+{"intent_id": "change_pin", "family": "upi_pin", "style": "minimal_edit", "text": "I forgot my UPI PIN. Can I change it from settings?", "split": "test", "query_id": "q0236"}
+{"intent_id": "change_pin", "family": "upi_pin", "style": "hinglish", "text": "settings me jaake upi pin kaise badlu", "split": "test", "query_id": "q0237"}
+{"intent_id": "change_pin", "family": "upi_pin", "style": "minimal_edit", "text": "How do I change a UPI PIN for a newly added bank account?", "split": "test", "query_id": "q0238"}
+{"intent_id": "change_pin", "family": "upi_pin", "style": "typos", "text": "how do i chnge my upi pin", "split": "test", "query_id": "q0239"}
+{"intent_id": "change_pin", "family": "upi_pin", "style": "formal", "text": "I would like to update my UPI PIN. What is the process?", "split": "test", "query_id": "q0240"}
+{"intent_id": "change_pin", "family": "upi_pin", "style": "formal", "text": "Please guide me on changing the UPI PIN for my bank account.", "split": "test", "query_id": "q0241"}
+{"intent_id": "change_pin", "family": "upi_pin", "style": "casual", "text": "can i change my upi pin from settings", "split": "test", "query_id": "q0242"}
+{"intent_id": "forgot_pin", "family": "upi_pin", "style": "hinglish", "text": "bank debit card details daalke upi pin reset karna hai kaise", "split": "calibration", "query_id": "q0243"}
+{"intent_id": "forgot_pin", "family": "upi_pin", "style": "formal", "text": "I have forgotten my UPI PIN. Could you please tell me how to reset it in PayLoom?", "split": "calibration", "query_id": "q0244"}
+{"intent_id": "forgot_pin", "family": "upi_pin", "style": "formal", "text": "Could you explain how to reset a forgotten UPI PIN for my bank account in PayLoom?", "split": "calibration", "query_id": "q0245"}
+{"intent_id": "forgot_pin", "family": "upi_pin", "style": "formal", "text": "Please guide me on resetting my forgotten UPI PIN in PayLoom.", "split": "calibration", "query_id": "q0246"}
+{"intent_id": "forgot_pin", "family": "upi_pin", "style": "casual", "text": "can you tell me how to reset my upi pin in payloom", "split": "calibration", "query_id": "q0247"}
+{"intent_id": "forgot_pin", "family": "upi_pin", "style": "casual", "text": "how do i get a new upi pin after forgetting the old one", "split": "calibration", "query_id": "q0248"}
+{"intent_id": "forgot_pin", "family": "upi_pin", "style": "hinglish", "text": "hi, upi pin bhool gaya hoon, kaise naya set karun", "split": "calibration", "query_id": "q0249"}
+{"intent_id": "forgot_pin", "family": "upi_pin", "style": "casual", "text": "i dont remember my upi pin, what do i do", "split": "calibration", "query_id": "q0250"}
+{"intent_id": "forgot_pin", "family": "upi_pin", "style": "casual", "text": "need help resetting upi pin on payloom", "split": "calibration", "query_id": "q0251"}
+{"intent_id": "forgot_pin", "family": "upi_pin", "style": "casual", "text": "upi pin bhool gaya, kaise reset karu", "split": "calibration", "query_id": "q0252"}
+{"intent_id": "forgot_pin", "family": "upi_pin", "style": "hinglish", "text": "payloom me forgotten upi pin reset kaise karte hain", "split": "calibration", "query_id": "q0253"}
+{"intent_id": "forgot_pin", "family": "upi_pin", "style": "hinglish", "text": "mera upi pin bhool gaya hu kaise reset karu", "split": "calibration", "query_id": "q0254"}
+{"intent_id": "forgot_pin", "family": "upi_pin", "style": "typos", "text": "How to reset forgoten UPI PIN on the app", "split": "test", "query_id": "q0255"}
+{"intent_id": "forgot_pin", "family": "upi_pin", "style": "casual", "text": "forgot my upi pin, how do i reset it?", "split": "test", "query_id": "q0256"}
+{"intent_id": "forgot_pin", "family": "upi_pin", "style": "minimal_edit", "text": "My UPI PIN is forgotten after wrong attempts. When can I use it again?", "split": "test", "query_id": "q0257"}
+{"intent_id": "forgot_pin", "family": "upi_pin", "style": "typos", "text": "How do I reset my UPI pin if I forgot it", "split": "test", "query_id": "q0258"}
+{"intent_id": "forgot_pin", "family": "upi_pin", "style": "hinglish", "text": "mujhe apna upi pin yaad nahi hai, reset ka process batao", "split": "test", "query_id": "q0259"}
+{"intent_id": "forgot_pin", "family": "upi_pin", "style": "formal", "text": "I need help resetting the UPI PIN I forgot. What steps should I follow in PayLoom?", "split": "test", "query_id": "q0260"}
+{"intent_id": "forgot_pin", "family": "upi_pin", "style": "formal", "text": "My UPI PIN is no longer remembered. How can I reset it on the PayLoom app?", "split": "test", "query_id": "q0261"}
+{"intent_id": "forgot_pin", "family": "upi_pin", "style": "typos", "text": "I cant rember my UPI PIN what should I do", "split": "test", "query_id": "q0262"}
+{"intent_id": "forgot_pin", "family": "upi_pin", "style": "minimal_edit", "text": "I forgot my UPI PIN. How can I reset it in PayLoom?", "split": "test", "query_id": "q0263"}
+{"intent_id": "forgot_pin", "family": "upi_pin", "style": "minimal_edit", "text": "How do I reset a UPI PIN for a newly added bank account?", "split": "test", "query_id": "q0264"}
+{"intent_id": "forgot_pin", "family": "upi_pin", "style": "typos", "text": "I forogt my UPI PIN how can I rest it", "split": "test", "query_id": "q0265"}
+{"intent_id": "forgot_pin", "family": "upi_pin", "style": "typos", "text": "Please help me reseet my upi pin in PayLoom", "split": "test", "query_id": "q0266"}
+{"intent_id": "forgot_pin", "family": "upi_pin", "style": "minimal_edit", "text": "How do I reset my UPI PIN?", "split": "test", "query_id": "q0267"}
+{"intent_id": "pin_blocked", "family": "upi_pin", "style": "typos", "text": "i enterd the wrong pin few times now its blocked when will it work", "split": "calibration", "query_id": "q0268"}
+{"intent_id": "pin_blocked", "family": "upi_pin", "style": "formal", "text": "My UPI PIN got locked after repeated wrong tries. Is there a waiting period before I can use it again?", "split": "calibration", "query_id": "q0269"}
+{"intent_id": "pin_blocked", "family": "upi_pin", "style": "hinglish", "text": "mera upi pin blocked hai, kya thodi der baad phir use ho jayega", "split": "calibration", "query_id": "q0270"}
+{"intent_id": "pin_blocked", "family": "upi_pin", "style": "typos", "text": "pin blocked after wrong atempts what should i do now", "split": "calibration", "query_id": "q0271"}
+{"intent_id": "pin_blocked", "family": "upi_pin", "style": "casual", "text": "can i use my upi pin again after it gets blocked", "split": "calibration", "query_id": "q0272"}
+{"intent_id": "pin_blocked", "family": "upi_pin", "style": "typos", "text": "my upi pin got blokced after wrong atempts when can i use it agian", "split": "calibration", "query_id": "q0273"}
+{"intent_id": "pin_blocked", "family": "upi_pin", "style": "casual", "text": "pin blocked after wrong attempts what to do now", "split": "calibration", "query_id": "q0274"}
+{"intent_id": "pin_blocked", "family": "upi_pin", "style": "casual", "text": "my upi pin is blocked can i retry today", "split": "calibration", "query_id": "q0275"}
+{"intent_id": "pin_blocked", "family": "upi_pin", "style": "hinglish", "text": "galat attempts ke baad pin lock ho gaya hai, ab kya karu", "split": "calibration", "query_id": "q0276"}
+{"intent_id": "pin_blocked", "family": "upi_pin", "style": "hinglish", "text": "upi pin block ho gaya hai, main kitni der wait karun", "split": "calibration", "query_id": "q0277"}
+{"intent_id": "pin_blocked", "family": "upi_pin", "style": "minimal_edit", "text": "How do I set a UPI PIN for a blocked bank account?", "split": "calibration", "query_id": "q0278"}
+{"intent_id": "pin_blocked", "family": "upi_pin", "style": "minimal_edit", "text": "I forgot my UPI PIN. How long do I need to wait before I can use it again?", "split": "calibration", "query_id": "q0279"}
+{"intent_id": "pin_blocked", "family": "upi_pin", "style": "typos", "text": "upi pin is blockd after failed tries how long do i wait", "split": "test", "query_id": "q0280"}
+{"intent_id": "pin_blocked", "family": "upi_pin", "style": "hinglish", "text": "mera upi pin wrong dalne ke baad block ho gaya hai, kab tak phir se use kar sakta hoon", "split": "test", "query_id": "q0281"}
+{"intent_id": "pin_blocked", "family": "upi_pin", "style": "casual", "text": "upi pin blocked now how long do i wait", "split": "test", "query_id": "q0282"}
+{"intent_id": "pin_blocked", "family": "upi_pin", "style": "casual", "text": "my upi pin got blocked after wrong tries when can i use it again", "split": "test", "query_id": "q0283"}
+{"intent_id": "pin_blocked", "family": "upi_pin", "style": "casual", "text": "i entered the pin wrong a few times and it got blocked when will it work", "split": "test", "query_id": "q0284"}
+{"intent_id": "pin_blocked", "family": "upi_pin", "style": "minimal_edit", "text": "My UPI PIN is blocked after wrong attempts. How can I reset it right away?", "split": "test", "query_id": "q0285"}
+{"intent_id": "pin_blocked", "family": "upi_pin", "style": "formal", "text": "Hello, my UPI PIN got blocked after wrong attempts. When will I be able to use it again?", "split": "test", "query_id": "q0286"}
+{"intent_id": "pin_blocked", "family": "upi_pin", "style": "minimal_edit", "text": "How do I change my UPI PIN after it gets blocked?", "split": "test", "query_id": "q0287"}
+{"intent_id": "pin_blocked", "family": "upi_pin", "style": "formal", "text": "I entered the wrong UPI PIN a few times and now it is blocked. How long do I need to wait before I can try again?", "split": "test", "query_id": "q0288"}
+{"intent_id": "pin_blocked", "family": "upi_pin", "style": "formal", "text": "After multiple incorrect UPI PIN entries, the PIN has been blocked. What should I do now and when can I use it again?", "split": "test", "query_id": "q0289"}
+{"intent_id": "pin_blocked", "family": "upi_pin", "style": "hinglish", "text": "3 baar galat pin dala aur ab block ho gaya, ab kab chalega", "split": "test", "query_id": "q0290"}
+{"intent_id": "pin_blocked", "family": "upi_pin", "style": "typos", "text": "can i use my pin again after it got blokced", "split": "test", "query_id": "q0291"}
+{"intent_id": "pin_blocked", "family": "upi_pin", "style": "formal", "text": "My UPI PIN is currently blocked due to failed attempts. Could you please tell me when it will work again?", "split": "test", "query_id": "q0292"}
+{"intent_id": "first_time_pin", "family": "upi_pin", "style": "casual", "text": "freshly added account ke liye pin set karna hai, kaise?", "split": "calibration", "query_id": "q0293"}
+{"intent_id": "first_time_pin", "family": "upi_pin", "style": "formal", "text": "How can I set up a UPI PIN for a fresh bank account added to my app?", "split": "calibration", "query_id": "q0294"}
+{"intent_id": "first_time_pin", "family": "upi_pin", "style": "formal", "text": "Please guide me on creating a UPI PIN for my newly linked bank account.", "split": "calibration", "query_id": "q0295"}
+{"intent_id": "first_time_pin", "family": "upi_pin", "style": "typos", "text": "I just addd a bank account how can I set the UPI pin", "split": "calibration", "query_id": "q0296"}
+{"intent_id": "first_time_pin", "family": "upi_pin", "style": "hinglish", "text": "meri newly added bank account ke liye upi pin kaise lagau", "split": "calibration", "query_id": "q0297"}
+{"intent_id": "first_time_pin", "family": "upi_pin", "style": "hinglish", "text": "mujhe naye bank account ke liye upi pin kaise set karna hai", "split": "calibration", "query_id": "q0298"}
+{"intent_id": "first_time_pin", "family": "upi_pin", "style": "hinglish", "text": "bank account link karne ke baad upi pin kaise create karte hain", "split": "calibration", "query_id": "q0299"}
+{"intent_id": "first_time_pin", "family": "upi_pin", "style": "casual", "text": "set upi pin for added bank account ka option kaha hai?", "split": "calibration", "query_id": "q0300"}
+{"intent_id": "first_time_pin", "family": "upi_pin", "style": "typos", "text": "How can i create UPI PIN for the bank accout I linked", "split": "calibration", "query_id": "q0301"}
+{"intent_id": "first_time_pin", "family": "upi_pin", "style": "typos", "text": "Please tell me how to set upi pin for my new bank acount", "split": "calibration", "query_id": "q0302"}
+{"intent_id": "first_time_pin", "family": "upi_pin", "style": "casual", "text": "how do i set up upi pin for my new bank account?", "split": "calibration", "query_id": "q0303"}
+{"intent_id": "first_time_pin", "family": "upi_pin", "style": "formal", "text": "Could you please tell me how to set a UPI PIN for the bank account I just added?", "split": "calibration", "query_id": "q0304"}
+{"intent_id": "first_time_pin", "family": "upi_pin", "style": "casual", "text": "added bank acc ka upi pin kaise create karna hai?", "split": "test", "query_id": "q0305"}
+{"intent_id": "first_time_pin", "family": "upi_pin", "style": "typos", "text": "How do I set a UPI PIN for a newly aded bank account", "split": "test", "query_id": "q0306"}
+{"intent_id": "first_time_pin", "family": "upi_pin", "style": "minimal_edit", "text": "How do I set up a UPI PIN for a newly added bank account?", "split": "test", "query_id": "q0307"}
+{"intent_id": "first_time_pin", "family": "upi_pin", "style": "formal", "text": "I have added a new bank account in PayLoom. How do I set its UPI PIN?", "split": "test", "query_id": "q0308"}
+{"intent_id": "first_time_pin", "family": "upi_pin", "style": "hinglish", "text": "added account ka upi pin set karne ka process kya hai", "split": "test", "query_id": "q0309"}
+{"intent_id": "first_time_pin", "family": "upi_pin", "style": "casual", "text": "hi, naye bank account ka upi pin kaise banaun?", "split": "test", "query_id": "q0310"}
+{"intent_id": "first_time_pin", "family": "upi_pin", "style": "casual", "text": "new account add kiya hai, pin kaise set karu?", "split": "test", "query_id": "q0311"}
+{"intent_id": "first_time_pin", "family": "upi_pin", "style": "formal", "text": "I need help setting the UPI PIN for the account I recently added. What is the process?", "split": "test", "query_id": "q0312"}
+{"intent_id": "first_time_pin", "family": "upi_pin", "style": "typos", "text": "Need help to set UPI pin after adding a new bank acount", "split": "test", "query_id": "q0313"}
+{"intent_id": "first_time_pin", "family": "upi_pin", "style": "minimal_edit", "text": "How do I set a UPI PIN for my newly added bank account?", "split": "test", "query_id": "q0314"}
+{"intent_id": "first_time_pin", "family": "upi_pin", "style": "hinglish", "text": "naya bank account add kiya hai uska pin kaise banaye", "split": "test", "query_id": "q0315"}
+{"intent_id": "first_time_pin", "family": "upi_pin", "style": "minimal_edit", "text": "How do I set the UPI PIN for a newly added bank account?", "split": "test", "query_id": "q0316"}
+{"intent_id": "add_bank_account", "family": "bank_accounts", "style": "formal", "text": "Could you please tell me how to add another bank account to the app?", "split": "calibration", "query_id": "q0317"}
+{"intent_id": "add_bank_account", "family": "bank_accounts", "style": "formal", "text": "I want to connect another bank account to PayLoom. What is the process?", "split": "calibration", "query_id": "q0318"}
+{"intent_id": "add_bank_account", "family": "bank_accounts", "style": "hinglish", "text": "app me dusra bank account kaise link karte hain", "split": "calibration", "query_id": "q0319"}
+{"intent_id": "add_bank_account", "family": "bank_accounts", "style": "hinglish", "text": "mujhe ek aur bank account add karna hai, kaise karun", "split": "calibration", "query_id": "q0320"}
+{"intent_id": "add_bank_account", "family": "bank_accounts", "style": "hinglish", "text": "naya bank account add karna hai, process kya hai", "split": "calibration", "query_id": "q0321"}
+{"intent_id": "add_bank_account", "family": "bank_accounts", "style": "typos", "text": "i need to add a new bank accout in the app", "split": "calibration", "query_id": "q0322"}
+{"intent_id": "add_bank_account", "family": "bank_accounts", "style": "hinglish", "text": "bank account add karne ka option kahan hai", "split": "calibration", "query_id": "q0323"}
+{"intent_id": "add_bank_account", "family": "bank_accounts", "style": "minimal_edit", "text": "I changed my phone number. How do I update it in the app and add another bank account?", "split": "calibration", "query_id": "q0324"}
+{"intent_id": "add_bank_account", "family": "bank_accounts", "style": "casual", "text": "how to add a new bank account here", "split": "calibration", "query_id": "q0325"}
+{"intent_id": "add_bank_account", "family": "bank_accounts", "style": "typos", "text": "how do i ad another bank acount", "split": "calibration", "query_id": "q0326"}
+{"intent_id": "add_bank_account", "family": "bank_accounts", "style": "typos", "text": "how can i add another bank accountt", "split": "calibration", "query_id": "q0327"}
+{"intent_id": "add_bank_account", "family": "bank_accounts", "style": "casual", "text": "where do i add another bank account", "split": "calibration", "query_id": "q0328"}
+{"intent_id": "add_bank_account", "family": "bank_accounts", "style": "casual", "text": "can i link one more bank account in the app", "split": "test", "query_id": "q0329"}
+{"intent_id": "add_bank_account", "family": "bank_accounts", "style": "typos", "text": "pls tell me how to add a secnd bank account", "split": "test", "query_id": "q0330"}
+{"intent_id": "add_bank_account", "family": "bank_accounts", "style": "casual", "text": "want to connect another account to payloom", "split": "test", "query_id": "q0331"}
+{"intent_id": "add_bank_account", "family": "bank_accounts", "style": "formal", "text": "I would like to link a second bank account in PayLoom. How can I do that?", "split": "test", "query_id": "q0332"}
+{"intent_id": "add_bank_account", "family": "bank_accounts", "style": "minimal_edit", "text": "How do I remove a bank account from the app and add another one?", "split": "test", "query_id": "q0333"}
+{"intent_id": "add_bank_account", "family": "bank_accounts", "style": "formal", "text": "How can I add an additional bank account in the app?", "split": "test", "query_id": "q0334"}
+{"intent_id": "add_bank_account", "family": "bank_accounts", "style": "typos", "text": "can you help me link anothr bank account", "split": "test", "query_id": "q0335"}
+{"intent_id": "add_bank_account", "family": "bank_accounts", "style": "casual", "text": "need help adding a second bank account", "split": "test", "query_id": "q0336"}
+{"intent_id": "add_bank_account", "family": "bank_accounts", "style": "minimal_edit", "text": "How do I change which bank account is used by default for payments and add another account?", "split": "test", "query_id": "q0337"}
+{"intent_id": "add_bank_account", "family": "bank_accounts", "style": "hinglish", "text": "ek aur account jodna hai PayLoom me kaise hoga", "split": "test", "query_id": "q0338"}
+{"intent_id": "add_bank_account", "family": "bank_accounts", "style": "formal", "text": "Please guide me on adding a new bank account to my PayLoom account.", "split": "test", "query_id": "q0339"}
+{"intent_id": "add_bank_account", "family": "bank_accounts", "style": "casual", "text": "how do i add another bank account", "split": "test", "query_id": "q0340"}
+{"intent_id": "remove_bank_account", "family": "bank_accounts", "style": "hinglish", "text": "bank account remove karne ka option kaha hai", "split": "calibration", "query_id": "q0341"}
+{"intent_id": "remove_bank_account", "family": "bank_accounts", "style": "casual", "text": "need to unlink my bank account from payloom", "split": "calibration", "query_id": "q0342"}
+{"intent_id": "remove_bank_account", "family": "bank_accounts", "style": "typos", "text": "can you help me delete a bank accoutn from the app", "split": "calibration", "query_id": "q0343"}
+{"intent_id": "remove_bank_account", "family": "bank_accounts", "style": "casual", "text": "can you tell me how to remove a bank account", "split": "calibration", "query_id": "q0344"}
+{"intent_id": "remove_bank_account", "family": "bank_accounts", "style": "hinglish", "text": "mera bank account app se remove kaise karu", "split": "calibration", "query_id": "q0345"}
+{"intent_id": "remove_bank_account", "family": "bank_accounts", "style": "hinglish", "text": "payloom se bank account unlink karna hai kaise hoga", "split": "calibration", "query_id": "q0346"}
+{"intent_id": "remove_bank_account", "family": "bank_accounts", "style": "hinglish", "text": "account app se hatana hai help karo", "split": "calibration", "query_id": "q0347"}
+{"intent_id": "remove_bank_account", "family": "bank_accounts", "style": "minimal_edit", "text": "How do I remove my bank account from the app?", "split": "calibration", "query_id": "q0348"}
+{"intent_id": "remove_bank_account", "family": "bank_accounts", "style": "formal", "text": "How do I delete a bank account from the app without closing my bank account?", "split": "calibration", "query_id": "q0349"}
+{"intent_id": "remove_bank_account", "family": "bank_accounts", "style": "casual", "text": "how can i take off my bank account from payloom", "split": "calibration", "query_id": "q0350"}
+{"intent_id": "remove_bank_account", "family": "bank_accounts", "style": "typos", "text": "i want to unlik my bank account from payloom", "split": "calibration", "query_id": "q0351"}
+{"intent_id": "remove_bank_account", "family": "bank_accounts", "style": "formal", "text": "I would like to unlink a bank account from the app. How can I do that?", "split": "test", "query_id": "q0352"}
+{"intent_id": "remove_bank_account", "family": "bank_accounts", "style": "typos", "text": "how do i take off my bank acoount from payloom", "split": "test", "query_id": "q0353"}
+{"intent_id": "remove_bank_account", "family": "bank_accounts", "style": "hinglish", "text": "jo bank account laga hai usko app se kaise hataun", "split": "test", "query_id": "q0354"}
+{"intent_id": "remove_bank_account", "family": "bank_accounts", "style": "casual", "text": "i want to remove a linked bank account", "split": "test", "query_id": "q0355"}
+{"intent_id": "remove_bank_account", "family": "bank_accounts", "style": "formal", "text": "Could you please tell me how to remove a bank account from PayLoom?", "split": "test", "query_id": "q0356"}
+{"intent_id": "remove_bank_account", "family": "bank_accounts", "style": "formal", "text": "Please guide me on removing a bank account from PayLoom.", "split": "test", "query_id": "q0357"}
+{"intent_id": "remove_bank_account", "family": "bank_accounts", "style": "typos", "text": "how do i remvoe a bank acount from the app", "split": "test", "query_id": "q0358"}
+{"intent_id": "remove_bank_account", "family": "bank_accounts", "style": "typos", "text": "need to remove a linked bank acount from the app", "split": "test", "query_id": "q0359"}
+{"intent_id": "remove_bank_account", "family": "bank_accounts", "style": "casual", "text": "pls help me remove my bank account from the app", "split": "test", "query_id": "q0360"}
+{"intent_id": "remove_bank_account", "family": "bank_accounts", "style": "minimal_edit", "text": "How do I remove another bank account from the app?", "split": "test", "query_id": "q0361"}
+{"intent_id": "remove_bank_account", "family": "bank_accounts", "style": "formal", "text": "I want to remove one of my linked bank accounts from PayLoom. What should I do?", "split": "test", "query_id": "q0362"}
+{"intent_id": "change_default_account", "family": "bank_accounts", "style": "typos", "text": "please help me change the default bank acount in the app", "split": "calibration", "query_id": "q0363"}
+{"intent_id": "change_default_account", "family": "bank_accounts", "style": "minimal_edit", "text": "How do I change which bank account is used by default for payments in the app?", "split": "calibration", "query_id": "q0364"}
+{"intent_id": "change_default_account", "family": "bank_accounts", "style": "hinglish", "text": "payment ke liye kaunsa account default use hoga wo kaise badlu", "split": "calibration", "query_id": "q0365"}
+{"intent_id": "change_default_account", "family": "bank_accounts", "style": "casual", "text": "can i set a different account as default in payloom", "split": "calibration", "query_id": "q0366"}
+{"intent_id": "change_default_account", "family": "bank_accounts", "style": "casual", "text": "want to use another bank account as default how", "split": "calibration", "query_id": "q0367"}
+{"intent_id": "change_default_account", "family": "bank_accounts", "style": "casual", "text": "need to switch the default bank account for payments", "split": "calibration", "query_id": "q0368"}
+{"intent_id": "change_default_account", "family": "bank_accounts", "style": "hinglish", "text": "ek aur account ko default banana hai please batao", "split": "calibration", "query_id": "q0369"}
+{"intent_id": "change_default_account", "family": "bank_accounts", "style": "typos", "text": "can you tell me how to set a different bank accout as default", "split": "calibration", "query_id": "q0370"}
+{"intent_id": "change_default_account", "family": "bank_accounts", "style": "typos", "text": "i need to switch my bank acount used by defualt for upi", "split": "calibration", "query_id": "q0371"}
+{"intent_id": "change_default_account", "family": "bank_accounts", "style": "casual", "text": "which option lets me make one bank account default", "split": "calibration", "query_id": "q0372"}
+{"intent_id": "change_default_account", "family": "bank_accounts", "style": "typos", "text": "how do i chnage the default bank acount for payments", "split": "calibration", "query_id": "q0373"}
+{"intent_id": "change_default_account", "family": "bank_accounts", "style": "formal", "text": "I would like to know how I can set a different bank account as my default account for payments.", "split": "calibration", "query_id": "q0374"}
+{"intent_id": "change_default_account", "family": "bank_accounts", "style": "formal", "text": "Kindly help me change the bank account that PayLoom uses by default for UPI payments.", "split": "test", "query_id": "q0375"}
+{"intent_id": "change_default_account", "family": "bank_accounts", "style": "formal", "text": "Please guide me on how to switch the default bank account used for transactions in the app.", "split": "test", "query_id": "q0376"}
+{"intent_id": "change_default_account", "family": "bank_accounts", "style": "minimal_edit", "text": "I changed my phone number. How do I update it in the app and change the default bank account?", "split": "test", "query_id": "q0377"}
+{"intent_id": "change_default_account", "family": "bank_accounts", "style": "formal", "text": "How do I make another linked bank account the default one for sending payments?", "split": "test", "query_id": "q0378"}
+{"intent_id": "change_default_account", "family": "bank_accounts", "style": "minimal_edit", "text": "How do I add another bank account to the app as default for payments?", "split": "test", "query_id": "q0379"}
+{"intent_id": "change_default_account", "family": "bank_accounts", "style": "minimal_edit", "text": "How do I remove a bank account from the app and set another one as default?", "split": "test", "query_id": "q0380"}
+{"intent_id": "change_default_account", "family": "bank_accounts", "style": "formal", "text": "Could you please tell me how to change the default bank account for UPI payments in PayLoom?", "split": "test", "query_id": "q0381"}
+{"intent_id": "change_default_account", "family": "bank_accounts", "style": "hinglish", "text": "payloom me default bank account kaise change karu", "split": "test", "query_id": "q0382"}
+{"intent_id": "change_default_account", "family": "bank_accounts", "style": "hinglish", "text": "app me default bank account change karne ka option kahan hai", "split": "test", "query_id": "q0383"}
+{"intent_id": "change_default_account", "family": "bank_accounts", "style": "casual", "text": "how do i change the account used by default", "split": "test", "query_id": "q0384"}
+{"intent_id": "change_default_account", "family": "bank_accounts", "style": "hinglish", "text": "dusra bank account default set karna hai kaise karun", "split": "test", "query_id": "q0385"}
+{"intent_id": "change_default_account", "family": "bank_accounts", "style": "typos", "text": "how can i make another linked acccount the default one", "split": "test", "query_id": "q0386"}
+{"intent_id": "change_default_account", "family": "bank_accounts", "style": "casual", "text": "how do i change my default bank account for upi payments?", "split": "test", "query_id": "q0387"}
+{"intent_id": "change_mobile_number", "family": "bank_accounts", "style": "hinglish", "text": "new sim liya hai ab app me kaise login karu", "split": "calibration", "query_id": "q0388"}
+{"intent_id": "change_mobile_number", "family": "bank_accounts", "style": "formal", "text": "My bank has my new mobile number now. How do I log in again and link my accounts in PayLoom?", "split": "calibration", "query_id": "q0389"}
+{"intent_id": "change_mobile_number", "family": "bank_accounts", "style": "typos", "text": "pls tell me how to verify the new number and link my acconts", "split": "calibration", "query_id": "q0390"}
+{"intent_id": "change_mobile_number", "family": "bank_accounts", "style": "casual", "text": "how to verify my new mobile number in the app", "split": "calibration", "query_id": "q0391"}
+{"intent_id": "change_mobile_number", "family": "bank_accounts", "style": "casual", "text": "changed my number how do i update it in payloom", "split": "calibration", "query_id": "q0392"}
+{"intent_id": "change_mobile_number", "family": "bank_accounts", "style": "minimal_edit", "text": "How do I change my phone number in the app?", "split": "calibration", "query_id": "q0393"}
+{"intent_id": "change_mobile_number", "family": "bank_accounts", "style": "typos", "text": "i chnaged my mobile numbr how do i upadte it in the app", "split": "calibration", "query_id": "q0394"}
+{"intent_id": "change_mobile_number", "family": "bank_accounts", "style": "casual", "text": "new phone number now what do i do in the app", "split": "calibration", "query_id": "q0395"}
+{"intent_id": "change_mobile_number", "family": "bank_accounts", "style": "hinglish", "text": "bank me new number update kar diya hai ab payloom me kya karna hai", "split": "calibration", "query_id": "q0396"}
+{"intent_id": "change_mobile_number", "family": "bank_accounts", "style": "casual", "text": "how do i switch my payloom account to my new number", "split": "calibration", "query_id": "q0397"}
+{"intent_id": "change_mobile_number", "family": "bank_accounts", "style": "hinglish", "text": "apne app me purana number kaise replace karun", "split": "calibration", "query_id": "q0398"}
+{"intent_id": "change_mobile_number", "family": "bank_accounts", "style": "formal", "text": "I have updated my number with the bank. What should I do in the app to verify it and continue using my account?", "split": "calibration", "query_id": "q0399"}
+{"intent_id": "change_mobile_number", "family": "bank_accounts", "style": "minimal_edit", "text": "How do I change which phone number is used by default for payments?", "split": "test", "query_id": "q0400"}
+{"intent_id": "change_mobile_number", "family": "bank_accounts", "style": "hinglish", "text": "number change hua hai aur sms verification kaise karna hai", "split": "test", "query_id": "q0401"}
+{"intent_id": "change_mobile_number", "family": "bank_accounts", "style": "typos", "text": "new phone numbr now how to login in payloom", "split": "test", "query_id": "q0402"}
+{"intent_id": "change_mobile_number", "family": "bank_accounts", "style": "casual", "text": "my bank has the new number already how do i link it again", "split": "test", "query_id": "q0403"}
+{"intent_id": "change_mobile_number", "family": "bank_accounts", "style": "formal", "text": "I have changed my mobile number. Could you please guide me on how to update it in PayLoom?", "split": "test", "query_id": "q0404"}
+{"intent_id": "change_mobile_number", "family": "bank_accounts", "style": "minimal_edit", "text": "How do I add my new phone number to the app?", "split": "test", "query_id": "q0405"}
+{"intent_id": "change_mobile_number", "family": "bank_accounts", "style": "minimal_edit", "text": "How do I remove my old phone number from the app?", "split": "test", "query_id": "q0406"}
+{"intent_id": "change_mobile_number", "family": "bank_accounts", "style": "typos", "text": "how can i update my registed number after swtiching sim", "split": "test", "query_id": "q0407"}
+{"intent_id": "change_mobile_number", "family": "bank_accounts", "style": "formal", "text": "Please tell me the steps to change my registered number after switching to a new SIM.", "split": "test", "query_id": "q0408"}
+{"intent_id": "change_mobile_number", "family": "bank_accounts", "style": "formal", "text": "I recently got a new phone number. How should I update my account in the app?", "split": "test", "query_id": "q0409"}
+{"intent_id": "change_mobile_number", "family": "bank_accounts", "style": "casual", "text": "i changed sim and need to log in again with the new number", "split": "test", "query_id": "q0410"}
+{"intent_id": "change_mobile_number", "family": "bank_accounts", "style": "typos", "text": "my bank has my new moble number now what shold i do", "split": "test", "query_id": "q0411"}
+{"intent_id": "change_mobile_number", "family": "bank_accounts", "style": "hinglish", "text": "mera mobile number change ho gaya hai payloom me kaise update karu", "split": "test", "query_id": "q0412"}
+{"intent_id": "merchant_refund_time", "family": "merchant_payments", "style": "casual", "text": "hi, after merchant approves refund, how long till it shows in bank?", "split": "calibration", "query_id": "q0413"}
+{"intent_id": "merchant_refund_time", "family": "merchant_payments", "style": "casual", "text": "when will the merchant refund reach my bank account?", "split": "calibration", "query_id": "q0414"}
+{"intent_id": "merchant_refund_time", "family": "merchant_payments", "style": "minimal_edit", "text": "How long does a merchant refund take to reach my bank account?", "split": "calibration", "query_id": "q0415"}
+{"intent_id": "merchant_refund_time", "family": "merchant_payments", "style": "casual", "text": "any idea how many days a refund from merchant takes?", "split": "calibration", "query_id": "q0416"}
+{"intent_id": "merchant_refund_time", "family": "merchant_payments", "style": "casual", "text": "merchant refund usually kitne days me aata hai?", "split": "calibration", "query_id": "q0417"}
+{"intent_id": "merchant_refund_time", "family": "merchant_payments", "style": "typos", "text": "how much time does merchant refund need to come in my account", "split": "calibration", "query_id": "q0418"}
+{"intent_id": "merchant_refund_time", "family": "merchant_payments", "style": "formal", "text": "Please let me know when I can expect a merchant refund to appear in my bank account after approval.", "split": "calibration", "query_id": "q0419"}
+{"intent_id": "merchant_refund_time", "family": "merchant_payments", "style": "typos", "text": "after merchant approves refund how long does it take to arrive in bank", "split": "calibration", "query_id": "q0420"}
+{"intent_id": "merchant_refund_time", "family": "merchant_payments", "style": "casual", "text": "can you tell me the refund timeline from merchant?", "split": "calibration", "query_id": "q0421"}
+{"intent_id": "merchant_refund_time", "family": "merchant_payments", "style": "formal", "text": "How many working days does it generally take for a merchant refund to be processed into my account?", "split": "calibration", "query_id": "q0422"}
+{"intent_id": "merchant_refund_time", "family": "merchant_payments", "style": "hinglish", "text": "approve hone ke baad refund aane me kitne working days lagte hain", "split": "calibration", "query_id": "q0423"}
+{"intent_id": "merchant_refund_time", "family": "merchant_payments", "style": "formal", "text": "Could you please tell me how long a merchant refund usually takes to reach my bank account?", "split": "calibration", "query_id": "q0424"}
+{"intent_id": "merchant_refund_time", "family": "merchant_payments", "style": "typos", "text": "when will my merchant refund get crediteed to my bank accout", "split": "test", "query_id": "q0425"}
+{"intent_id": "merchant_refund_time", "family": "merchant_payments", "style": "casual", "text": "how long does a merchant refund take to come back to my account?", "split": "test", "query_id": "q0426"}
+{"intent_id": "merchant_refund_time", "family": "merchant_payments", "style": "hinglish", "text": "merchant refund account me kitne din me aata hai after approval", "split": "test", "query_id": "q0427"}
+{"intent_id": "merchant_refund_time", "family": "merchant_payments", "style": "minimal_edit", "text": "How long does a merchant refund take to reach my account after approval?", "split": "test", "query_id": "q0428"}
+{"intent_id": "merchant_refund_time", "family": "merchant_payments", "style": "hinglish", "text": "please bataye merchant refund kitne din me account me aa jata hai", "split": "test", "query_id": "q0429"}
+{"intent_id": "merchant_refund_time", "family": "merchant_payments", "style": "typos", "text": "please tell me how many working days a refund from merchant takes", "split": "test", "query_id": "q0430"}
+{"intent_id": "merchant_refund_time", "family": "merchant_payments", "style": "formal", "text": "I want to confirm the timeline for a merchant refund to reach my bank account after the merchant approves it.", "split": "test", "query_id": "q0431"}
+{"intent_id": "merchant_refund_time", "family": "merchant_payments", "style": "minimal_edit", "text": "How long does a merchant refund take to reach my bank account after the merchant approves it?", "split": "test", "query_id": "q0432"}
+{"intent_id": "merchant_refund_time", "family": "merchant_payments", "style": "hinglish", "text": "merchant refund kab tak mere bank account me credit hota hai", "split": "test", "query_id": "q0433"}
+{"intent_id": "merchant_refund_time", "family": "merchant_payments", "style": "typos", "text": "how long does a merchent refund take to reach my acount", "split": "test", "query_id": "q0434"}
+{"intent_id": "merchant_refund_time", "family": "merchant_payments", "style": "formal", "text": "I would like to know the usual time it takes for a merchant refund to be credited to my account.", "split": "test", "query_id": "q0435"}
+{"intent_id": "merchant_refund_time", "family": "merchant_payments", "style": "hinglish", "text": "refund approve hone ke baad bank account me kitna time lagta hai", "split": "test", "query_id": "q0436"}
+{"intent_id": "refund_not_received", "family": "merchant_payments", "style": "formal", "text": "Please help me with a refund that the merchant approved earlier but is still not showing in my account.", "split": "calibration", "query_id": "q0437"}
+{"intent_id": "refund_not_received", "family": "merchant_payments", "style": "casual", "text": "still no refund even after merchant approval, what should i do?", "split": "calibration", "query_id": "q0438"}
+{"intent_id": "refund_not_received", "family": "merchant_payments", "style": "typos", "text": "myn refund aaya nahi though merchant approved it already", "split": "calibration", "query_id": "q0439"}
+{"intent_id": "refund_not_received", "family": "merchant_payments", "style": "typos", "text": "refund approved hai but amount abhi tak credit nahi hua pls help", "split": "calibration", "query_id": "q0440"}
+{"intent_id": "refund_not_received", "family": "merchant_payments", "style": "hinglish", "text": "refund approve ho chuka hai lekin mujhe receive nahi hua, help kaise raise karu?", "split": "calibration", "query_id": "q0441"}
+{"intent_id": "refund_not_received", "family": "merchant_payments", "style": "formal", "text": "My refund was approved by the merchant some time ago, yet it has not been credited to my account. Please advise on the next step.", "split": "calibration", "query_id": "q0442"}
+{"intent_id": "refund_not_received", "family": "merchant_payments", "style": "formal", "text": "The merchant confirmed the refund, but I do not see the amount in my bank account. How can I raise this issue?", "split": "calibration", "query_id": "q0443"}
+{"intent_id": "refund_not_received", "family": "merchant_payments", "style": "hinglish", "text": "merchant ne refund approve kar diya hai but abhi tak account me nahi aaya, kya karun?", "split": "calibration", "query_id": "q0444"}
+{"intent_id": "refund_not_received", "family": "merchant_payments", "style": "typos", "text": "merchant ne refund approve kar diya tha but abhi tak nahi aaya", "split": "calibration", "query_id": "q0445"}
+{"intent_id": "refund_not_received", "family": "merchant_payments", "style": "hinglish", "text": "refund approve ho gaya tha lekin account me reflect nahi ho raha, kya karna chahiye?", "split": "calibration", "query_id": "q0446"}
+{"intent_id": "refund_not_received", "family": "merchant_payments", "style": "typos", "text": "refund approve ho gaya tha fir bhi account me nahi dikha", "split": "calibration", "query_id": "q0447"}
+{"intent_id": "refund_not_received", "family": "merchant_payments", "style": "hinglish", "text": "merchant bol raha hai refund done hai par paise nahi aaye, kya next step hai?", "split": "calibration", "query_id": "q0448"}
+{"intent_id": "refund_not_received", "family": "merchant_payments", "style": "minimal_edit", "text": "The merchant approved my refund long ago but I still have not received it. How do I raise this issue?", "split": "test", "query_id": "q0449"}
+{"intent_id": "refund_not_received", "family": "merchant_payments", "style": "hinglish", "text": "hi, merchant ne refund approve kiya tha par abhi tak credit nahi hua, dispute kaise raise karna hai?", "split": "test", "query_id": "q0450"}
+{"intent_id": "refund_not_received", "family": "merchant_payments", "style": "casual", "text": "refund is approved by merchant but not received in my account", "split": "test", "query_id": "q0451"}
+{"intent_id": "refund_not_received", "family": "merchant_payments", "style": "formal", "text": "I have not received the refund even though the merchant has approved it already. Kindly tell me how to proceed.", "split": "test", "query_id": "q0452"}
+{"intent_id": "refund_not_received", "family": "merchant_payments", "style": "minimal_edit", "text": "A merchant approved my refund long ago but I still have not received it. What do I do?", "split": "test", "query_id": "q0453"}
+{"intent_id": "refund_not_received", "family": "merchant_payments", "style": "casual", "text": "merchant said refund done but money not credited yet", "split": "test", "query_id": "q0454"}
+{"intent_id": "refund_not_received", "family": "merchant_payments", "style": "casual", "text": "hi, my refund got approved long back but still missing. how do i raise this?", "split": "test", "query_id": "q0455"}
+{"intent_id": "refund_not_received", "family": "merchant_payments", "style": "minimal_edit", "text": "A merchant approved my refund long ago but I still have not received it. Please tell me what to do next.", "split": "test", "query_id": "q0456"}
+{"intent_id": "refund_not_received", "family": "merchant_payments", "style": "casual", "text": "refund approved by seller but not showing in bank", "split": "test", "query_id": "q0457"}
+{"intent_id": "refund_not_received", "family": "merchant_payments", "style": "minimal_edit", "text": "The merchant approved my refund long ago but I still have not received it. Can you help me raise a dispute?", "split": "test", "query_id": "q0458"}
+{"intent_id": "refund_not_received", "family": "merchant_payments", "style": "formal", "text": "The merchant has already approved my refund, but I have still not received it. What should I do now?", "split": "test", "query_id": "q0459"}
+{"intent_id": "refund_not_received", "family": "merchant_payments", "style": "typos", "text": "merchant refund ko approve kar chuka hai par mujhe nahi mila", "split": "test", "query_id": "q0460"}
+{"intent_id": "refund_not_received", "family": "merchant_payments", "style": "casual", "text": "merchant approved refund but i havent got it yet, what now?", "split": "test", "query_id": "q0461"}
+{"intent_id": "double_charged", "family": "merchant_payments", "style": "formal", "text": "My card or UPI payment was taken twice for the same merchant order. What action is needed?", "split": "calibration", "query_id": "q0462"}
+{"intent_id": "double_charged", "family": "merchant_payments", "style": "casual", "text": "doble charge aa gaya same order pe", "split": "calibration", "query_id": "q0463"}
+{"intent_id": "double_charged", "family": "merchant_payments", "style": "hinglish", "text": "same order pe do baar paise cut gaye hain, kya karna chahiye", "split": "calibration", "query_id": "q0464"}
+{"intent_id": "double_charged", "family": "merchant_payments", "style": "casual", "text": "same order par double payment ho gaya, kya karna hai", "split": "calibration", "query_id": "q0465"}
+{"intent_id": "double_charged", "family": "merchant_payments", "style": "typos", "text": "duplicate charge aa gaya same oder pe", "split": "calibration", "query_id": "q0466"}
+{"intent_id": "double_charged", "family": "merchant_payments", "style": "casual", "text": "ek hi order ke liye 2 baar paise kat gaye", "split": "calibration", "query_id": "q0467"}
+{"intent_id": "double_charged", "family": "merchant_payments", "style": "hinglish", "text": "merchant ne same order ke liye do baar charge kar diya, ab kya karun", "split": "calibration", "query_id": "q0468"}
+{"intent_id": "double_charged", "family": "merchant_payments", "style": "hinglish", "text": "duplicate charge hua hai same order ke liye, kaise dispute raise karu", "split": "calibration", "query_id": "q0469"}
+{"intent_id": "double_charged", "family": "merchant_payments", "style": "formal", "text": "Could you please help me with a duplicate charge for the same order from a merchant?", "split": "calibration", "query_id": "q0470"}
+{"intent_id": "double_charged", "family": "merchant_payments", "style": "formal", "text": "A merchant has debited my account twice for one order. Please advise on the next step.", "split": "calibration", "query_id": "q0471"}
+{"intent_id": "double_charged", "family": "merchant_payments", "style": "formal", "text": "Hello, I was charged twice for the same order by a merchant. What should I do?", "split": "calibration", "query_id": "q0472"}
+{"intent_id": "double_charged", "family": "merchant_payments", "style": "casual", "text": "merchant ne same order ke liye do baar charge kar diya, kya karu", "split": "test", "query_id": "q0473"}
+{"intent_id": "double_charged", "family": "merchant_payments", "style": "hinglish", "text": "merchant ne ek hi bill par twice charge kar diya, help chahiye", "split": "test", "query_id": "q0474"}
+{"intent_id": "double_charged", "family": "merchant_payments", "style": "typos", "text": "merchant ne twice chage kiya for same order", "split": "test", "query_id": "q0475"}
+{"intent_id": "double_charged", "family": "merchant_payments", "style": "minimal_edit", "text": "The merchant approved the duplicate charge for my same order long ago but I still have not received it.", "split": "test", "query_id": "q0476"}
+{"intent_id": "double_charged", "family": "merchant_payments", "style": "minimal_edit", "text": "I paid a merchant twice for the same order by mistake in a QR payment.", "split": "test", "query_id": "q0477"}
+{"intent_id": "double_charged", "family": "merchant_payments", "style": "hinglish", "text": "ek hi order ke liye double payment ho gayi, kya process hai", "split": "test", "query_id": "q0478"}
+{"intent_id": "double_charged", "family": "merchant_payments", "style": "typos", "text": "merchant ne same ordar ke liye do baar charge kar diya kya karu", "split": "test", "query_id": "q0479"}
+{"intent_id": "double_charged", "family": "merchant_payments", "style": "minimal_edit", "text": "How long does a duplicate charge for the same order take to get reversed?", "split": "test", "query_id": "q0480"}
+{"intent_id": "double_charged", "family": "merchant_payments", "style": "formal", "text": "I noticed two charges for the same purchase from a merchant. How should I proceed?", "split": "test", "query_id": "q0481"}
+{"intent_id": "double_charged", "family": "merchant_payments", "style": "casual", "text": "merchant ne twice charge kiya for same order", "split": "test", "query_id": "q0482"}
+{"intent_id": "double_charged", "family": "merchant_payments", "style": "casual", "text": "same purchase pe double debit dikh raha hai", "split": "test", "query_id": "q0483"}
+{"intent_id": "double_charged", "family": "merchant_payments", "style": "typos", "text": "ek hi order ke liye 2 bar paise kat gaye kya kare", "split": "test", "query_id": "q0484"}
+{"intent_id": "qr_wrong_amount", "family": "merchant_payments", "style": "formal", "text": "I completed a QR payment to a merchant, but I entered the wrong amount and paid more than required. What should I do now?", "split": "calibration", "query_id": "q0485"}
+{"intent_id": "qr_wrong_amount", "family": "merchant_payments", "style": "casual", "text": "paid more than the total by mistake in merchant scan, how to fix it", "split": "calibration", "query_id": "q0486"}
+{"intent_id": "qr_wrong_amount", "family": "merchant_payments", "style": "hinglish", "text": "payment karte time extra amount chala gaya merchant ko ab kya hoga", "split": "calibration", "query_id": "q0487"}
+{"intent_id": "qr_wrong_amount", "family": "merchant_payments", "style": "formal", "text": "I mistakenly sent more money than the invoice amount in a merchant QR payment. What is the process to resolve this?", "split": "calibration", "query_id": "q0488"}
+{"intent_id": "qr_wrong_amount", "family": "merchant_payments", "style": "formal", "text": "I have already paid a merchant through QR, and the payment amount was higher than the bill by mistake. Can PayLoom help me correct it?", "split": "calibration", "query_id": "q0489"}
+{"intent_id": "qr_wrong_amount", "family": "merchant_payments", "style": "minimal_edit", "text": "How long does a merchant refund take to reach my account after I paid extra by mistake in a QR payment?", "split": "calibration", "query_id": "q0490"}
+{"intent_id": "qr_wrong_amount", "family": "merchant_payments", "style": "casual", "text": "wrong amount paid to merchant, need to get the extra back", "split": "calibration", "query_id": "q0491"}
+{"intent_id": "qr_wrong_amount", "family": "merchant_payments", "style": "casual", "text": "i paid extra to the merchant by mistake, what now?", "split": "calibration", "query_id": "q0492"}
+{"intent_id": "qr_wrong_amount", "family": "merchant_payments", "style": "hinglish", "text": "merchant scan karke zyada paise pay ho gaye kaise wapas milega", "split": "calibration", "query_id": "q0493"}
+{"intent_id": "qr_wrong_amount", "family": "merchant_payments", "style": "minimal_edit", "text": "The merchant approved my refund long ago but I still have not received the extra amount I paid in a QR payment.", "split": "calibration", "query_id": "q0494"}
+{"intent_id": "qr_wrong_amount", "family": "merchant_payments", "style": "typos", "text": "I made a wrong QR payment and paid more than needed to the shop what can I do", "split": "calibration", "query_id": "q0495"}
+{"intent_id": "qr_wrong_amount", "family": "merchant_payments", "style": "typos", "text": "My merchant QR payment went through with a extra amount by erorr what now", "split": "calibration", "query_id": "q0496"}
+{"intent_id": "qr_wrong_amount", "family": "merchant_payments", "style": "hinglish", "text": "hi maine galti se extra payment kar di merchant ko ab kya process hai", "split": "test", "query_id": "q0497"}
+{"intent_id": "qr_wrong_amount", "family": "merchant_payments", "style": "minimal_edit", "text": "How can I track a merchant refund after I accidentally paid more than the bill amount through QR?", "split": "test", "query_id": "q0498"}
+{"intent_id": "qr_wrong_amount", "family": "merchant_payments", "style": "formal", "text": "I accidentally paid a merchant more than the bill amount through QR. How can I get the extra money back?", "split": "test", "query_id": "q0499"}
+{"intent_id": "qr_wrong_amount", "family": "merchant_payments", "style": "casual", "text": "i sent extra money to the shop by qr, can it be adjusted?", "split": "test", "query_id": "q0500"}
+{"intent_id": "qr_wrong_amount", "family": "merchant_payments", "style": "casual", "text": "qr payment me bill se zyada amount chala gaya, help?", "split": "test", "query_id": "q0501"}
+{"intent_id": "qr_wrong_amount", "family": "merchant_payments", "style": "typos", "text": "I paid extra amout in a QR payment to the merchant can you help me get it back", "split": "test", "query_id": "q0502"}
+{"intent_id": "qr_wrong_amount", "family": "merchant_payments", "style": "formal", "text": "My QR payment to a merchant went through with an extra amount by error. Please advise how I can recover the excess payment.", "split": "test", "query_id": "q0503"}
+{"intent_id": "qr_wrong_amount", "family": "merchant_payments", "style": "hinglish", "text": "maine merchant ko bill se zyada paise QR se bhej diye kya karu", "split": "test", "query_id": "q0504"}
+{"intent_id": "qr_wrong_amount", "family": "merchant_payments", "style": "hinglish", "text": "bill se upar payment ho gayi hai by mistake, merchant se refund kaise mangun", "split": "test", "query_id": "q0505"}
+{"intent_id": "qr_wrong_amount", "family": "merchant_payments", "style": "typos", "text": "I accidently sent more money to the merchant than the bill amount how do I resolve this", "split": "test", "query_id": "q0506"}
+{"intent_id": "qr_wrong_amount", "family": "merchant_payments", "style": "casual", "text": "merchant ko zyada payment ho gaya by mistake, kya karu?", "split": "test", "query_id": "q0507"}
+{"intent_id": "qr_wrong_amount", "family": "merchant_payments", "style": "minimal_edit", "text": "A merchant charged me twice for the same order and I paid more than the bill amount by QR. What do I do?", "split": "test", "query_id": "q0508"}
+{"intent_id": "qr_wrong_amount", "family": "merchant_payments", "style": "typos", "text": "I payed a merchant more than the bill amont by mistake what should I do", "split": "test", "query_id": "q0509"}
+{"intent_id": "report_fraud", "family": "security", "style": "formal", "text": "How can I raise a fraud report for a UPI payment made through PayLoom?", "split": "calibration", "query_id": "q0510"}
+{"intent_id": "report_fraud", "family": "security", "style": "formal", "text": "Could you please tell me how to report a suspicious fraud payment on PayLoom?", "split": "calibration", "query_id": "q0511"}
+{"intent_id": "report_fraud", "family": "security", "style": "casual", "text": "how do i report a fraud payment", "split": "calibration", "query_id": "q0512"}
+{"intent_id": "report_fraud", "family": "security", "style": "casual", "text": "how can i raise a fraud complaint in the app", "split": "calibration", "query_id": "q0513"}
+{"intent_id": "report_fraud", "family": "security", "style": "typos", "text": "i think i was cheated in a fruad payment how do i report it", "split": "calibration", "query_id": "q0514"}
+{"intent_id": "report_fraud", "family": "security", "style": "formal", "text": "I think I have been cheated in a fraud payment. How do I report it in PayLoom?", "split": "calibration", "query_id": "q0515"}
+{"intent_id": "report_fraud", "family": "security", "style": "casual", "text": "need help reporting a scam payment", "split": "calibration", "query_id": "q0516"}
+{"intent_id": "report_fraud", "family": "security", "style": "hinglish", "text": "payment fraud hua hai, app me report kahan se karu", "split": "calibration", "query_id": "q0517"}
+{"intent_id": "report_fraud", "family": "security", "style": "minimal_edit", "text": "Someone sent me a collect request I do not recognise. Should I report it as fraud?", "split": "calibration", "query_id": "q0518"}
+{"intent_id": "report_fraud", "family": "security", "style": "hinglish", "text": "upi transaction me scam ho gaya, report kaise karna hai", "split": "calibration", "query_id": "q0519"}
+{"intent_id": "report_fraud", "family": "security", "style": "formal", "text": "I believe I sent money in a scam transaction. What should I do to report it?", "split": "calibration", "query_id": "q0520"}
+{"intent_id": "report_fraud", "family": "security", "style": "hinglish", "text": "kisi ne scam karke paise le liye, kaise complaint karu", "split": "calibration", "query_id": "q0521"}
+{"intent_id": "report_fraud", "family": "security", "style": "typos", "text": "whre do i report fraud in the app", "split": "test", "query_id": "q0522"}
+{"intent_id": "report_fraud", "family": "security", "style": "hinglish", "text": "mujhe fraud lag raha hai, transaction report karne ka process kya hai", "split": "test", "query_id": "q0523"}
+{"intent_id": "report_fraud", "family": "security", "style": "typos", "text": "my upi payment looks like a fraud tranaction how can i report it", "split": "test", "query_id": "q0524"}
+{"intent_id": "report_fraud", "family": "security", "style": "casual", "text": "i think i got scammed what do i do", "split": "test", "query_id": "q0525"}
+{"intent_id": "report_fraud", "family": "security", "style": "formal", "text": "Please guide me on reporting a fraudulent transaction and what details I need to share.", "split": "test", "query_id": "q0526"}
+{"intent_id": "report_fraud", "family": "security", "style": "minimal_edit", "text": "I lost my phone. How do I report it as fraud in the app?", "split": "test", "query_id": "q0527"}
+{"intent_id": "report_fraud", "family": "security", "style": "typos", "text": "how do i repot a fraud transaction in payloom", "split": "test", "query_id": "q0528"}
+{"intent_id": "report_fraud", "family": "security", "style": "casual", "text": "hi how do i report fraud on my payment", "split": "test", "query_id": "q0529"}
+{"intent_id": "report_fraud", "family": "security", "style": "typos", "text": "i got scammed in a payment pls help me report it", "split": "test", "query_id": "q0530"}
+{"intent_id": "report_fraud", "family": "security", "style": "minimal_edit", "text": "I think I was cheated in a fraud payment. How do I report it and share the transaction ID?", "split": "test", "query_id": "q0531"}
+{"intent_id": "report_fraud", "family": "security", "style": "hinglish", "text": "mujhe lagta hai fraud payment ho gaya hai, kaise report karu", "split": "test", "query_id": "q0532"}
+{"intent_id": "report_fraud", "family": "security", "style": "casual", "text": "can i report a fake transaction from payloom", "split": "test", "query_id": "q0533"}
+{"intent_id": "report_fraud", "family": "security", "style": "minimal_edit", "text": "How do I put a fingerprint or PIN lock on the app if I think I was cheated in a payment?", "split": "test", "query_id": "q0534"}
+{"intent_id": "lost_phone", "family": "security", "style": "formal", "text": "Could you guide me on how to remove PayLoom access from my lost phone?", "split": "calibration", "query_id": "q0535"}
+{"intent_id": "lost_phone", "family": "security", "style": "casual", "text": "can i log in from another phone and remove the old one", "split": "calibration", "query_id": "q0536"}
+{"intent_id": "lost_phone", "family": "security", "style": "hinglish", "text": "dusre phone se login karke old device deregister kaise karu", "split": "calibration", "query_id": "q0537"}
+{"intent_id": "lost_phone", "family": "security", "style": "casual", "text": "my phone is gone what do i do to block payloom", "split": "calibration", "query_id": "q0538"}
+{"intent_id": "lost_phone", "family": "security", "style": "typos", "text": "My phone is missng what should I do to block payloom", "split": "calibration", "query_id": "q0539"}
+{"intent_id": "lost_phone", "family": "security", "style": "casual", "text": "need to stop payloom use after phone loss", "split": "calibration", "query_id": "q0540"}
+{"intent_id": "lost_phone", "family": "security", "style": "formal", "text": "Hello, I have lost my phone. How can I stop anyone from using my PayLoom account?", "split": "calibration", "query_id": "q0541"}
+{"intent_id": "lost_phone", "family": "security", "style": "casual", "text": "lost my phone how do i stop payloom on it", "split": "calibration", "query_id": "q0542"}
+{"intent_id": "lost_phone", "family": "security", "style": "formal", "text": "I need to secure my PayLoom account because my phone was lost. What steps should I take?", "split": "calibration", "query_id": "q0543"}
+{"intent_id": "lost_phone", "family": "security", "style": "formal", "text": "My phone is missing. Please tell me how to disable PayLoom on the old device.", "split": "calibration", "query_id": "q0544"}
+{"intent_id": "lost_phone", "family": "security", "style": "minimal_edit", "text": "Someone sent me a collect request I do not recognise. How do I stop anyone from using my payment app?", "split": "calibration", "query_id": "q0545"}
+{"intent_id": "lost_phone", "family": "security", "style": "formal", "text": "I lost my handset and want to make sure no one can use my UPI app. What should I do?", "split": "calibration", "query_id": "q0546"}
+{"intent_id": "lost_phone", "family": "security", "style": "typos", "text": "I losst my phone how do I stop any1 from using PayLoom", "split": "test", "query_id": "q0547"}
+{"intent_id": "lost_phone", "family": "security", "style": "minimal_edit", "text": "I think I was cheated in a fraud payment. Should I accept it, or how do I stop anyone from using my payment app?", "split": "test", "query_id": "q0548"}
+{"intent_id": "lost_phone", "family": "security", "style": "typos", "text": "How do I deregister my old devcie after losing my phone", "split": "test", "query_id": "q0549"}
+{"intent_id": "lost_phone", "family": "security", "style": "typos", "text": "Please tell me how to secore my upi app after phone loss", "split": "test", "query_id": "q0550"}
+{"intent_id": "lost_phone", "family": "security", "style": "hinglish", "text": "mera phone lost ho gaya hai, PayLoom ko kaise stop karu", "split": "test", "query_id": "q0551"}
+{"intent_id": "lost_phone", "family": "security", "style": "casual", "text": "how do i deregister the old device from another phone", "split": "test", "query_id": "q0552"}
+{"intent_id": "lost_phone", "family": "security", "style": "minimal_edit", "text": "Someone sent me a collect request I do not recognise. Should I accept it, or how do I stop anyone from using my payment app?", "split": "test", "query_id": "q0553"}
+{"intent_id": "lost_phone", "family": "security", "style": "minimal_edit", "text": "I think I was cheated in a fraud payment. How do I stop anyone from using my payment app?", "split": "test", "query_id": "q0554"}
+{"intent_id": "lost_phone", "family": "security", "style": "typos", "text": "Can I login from another phn and remove the old device", "split": "test", "query_id": "q0555"}
+{"intent_id": "lost_phone", "family": "security", "style": "casual", "text": "old phone lost how to disable my upi app", "split": "test", "query_id": "q0556"}
+{"intent_id": "lost_phone", "family": "security", "style": "hinglish", "text": "phone chala gaya hai, bank aur SIM provider ko bhi block karna hoga kya", "split": "test", "query_id": "q0557"}
+{"intent_id": "lost_phone", "family": "security", "style": "hinglish", "text": "mere phone ke bina PayLoom access kaise band karun", "split": "test", "query_id": "q0558"}
+{"intent_id": "lost_phone", "family": "security", "style": "hinglish", "text": "phone kho gaya hai, ab koi mera UPI app use na kare to kya karna hoga", "split": "test", "query_id": "q0559"}
+{"intent_id": "suspicious_collect_request", "family": "security", "style": "casual", "text": "got a collect request from someone i dont know should i accept it", "split": "calibration", "query_id": "q0560"}
+{"intent_id": "suspicious_collect_request", "family": "security", "style": "typos", "text": "i recived a collect reqest from someone i dont know should i acceot it", "split": "calibration", "query_id": "q0561"}
+{"intent_id": "suspicious_collect_request", "family": "security", "style": "casual", "text": "i got a payment request from a stranger is it safe to accept", "split": "calibration", "query_id": "q0562"}
+{"intent_id": "suspicious_collect_request", "family": "security", "style": "minimal_edit", "text": "I think I got a collect request from an unknown person. How do I report it?", "split": "calibration", "query_id": "q0563"}
+{"intent_id": "suspicious_collect_request", "family": "security", "style": "formal", "text": "Please advise if I should accept a collect request from an unfamiliar sender.", "split": "calibration", "query_id": "q0564"}
+{"intent_id": "suspicious_collect_request", "family": "security", "style": "hinglish", "text": "kya mujhe is collect request ke liye UPI PIN dalna padega", "split": "calibration", "query_id": "q0565"}
+{"intent_id": "suspicious_collect_request", "family": "security", "style": "casual", "text": "should i tap accept on a collect request from an unrecognized person", "split": "calibration", "query_id": "q0566"}
+{"intent_id": "suspicious_collect_request", "family": "security", "style": "hinglish", "text": "unknown number se collect request aaya hai, isko approve karna safe hai kya", "split": "calibration", "query_id": "q0567"}
+{"intent_id": "suspicious_collect_request", "family": "security", "style": "minimal_edit", "text": "How do I put a fingerprint or PIN lock on a collect request in the app?", "split": "calibration", "query_id": "q0568"}
+{"intent_id": "suspicious_collect_request", "family": "security", "style": "minimal_edit", "text": "Someone sent me a collect request I do not recognise. How do I accept it?", "split": "calibration", "query_id": "q0569"}
+{"intent_id": "suspicious_collect_request", "family": "security", "style": "casual", "text": "do i need to enter pin for this collect request", "split": "calibration", "query_id": "q0570"}
+{"intent_id": "suspicious_collect_request", "family": "security", "style": "hinglish", "text": "hi, ye collect request samajh nahi aa rahi hai, accept karni chahiye kya", "split": "calibration", "query_id": "q0571"}
+{"intent_id": "suspicious_collect_request", "family": "security", "style": "formal", "text": "Someone I do not know has asked me to approve a collect request. Should I decline it?", "split": "test", "query_id": "q0572"}
+{"intent_id": "suspicious_collect_request", "family": "security", "style": "hinglish", "text": "mujhe ek collect request aayi hai jo main pehchanta nahi hoon, accept karu kya", "split": "test", "query_id": "q0573"}
+{"intent_id": "suspicious_collect_request", "family": "security", "style": "minimal_edit", "text": "I lost my phone. How do I stop anyone from sending me collect requests?", "split": "test", "query_id": "q0574"}
+{"intent_id": "suspicious_collect_request", "family": "security", "style": "typos", "text": "there is a colect request from an unkown person what should i do", "split": "test", "query_id": "q0575"}
+{"intent_id": "suspicious_collect_request", "family": "security", "style": "casual", "text": "this collect request looks random do i need to approve it", "split": "test", "query_id": "q0576"}
+{"intent_id": "suspicious_collect_request", "family": "security", "style": "typos", "text": "should i aproove this collect reuqest or decline it", "split": "test", "query_id": "q0577"}
+{"intent_id": "suspicious_collect_request", "family": "security", "style": "typos", "text": "someon sent me a collect request and it looks suspicous", "split": "test", "query_id": "q0578"}
+{"intent_id": "suspicious_collect_request", "family": "security", "style": "formal", "text": "A collect request has come to my account from an unknown person. What should I do?", "split": "test", "query_id": "q0579"}
+{"intent_id": "suspicious_collect_request", "family": "security", "style": "hinglish", "text": "kisi unknown person ne collect request bheji hai, decline kar du kya", "split": "test", "query_id": "q0580"}
+{"intent_id": "suspicious_collect_request", "family": "security", "style": "typos", "text": "do i need to enter my upi pin for this request", "split": "test", "query_id": "q0581"}
+{"intent_id": "suspicious_collect_request", "family": "security", "style": "casual", "text": "someone unknown sent me a collect request what should i do", "split": "test", "query_id": "q0582"}
+{"intent_id": "suspicious_collect_request", "family": "security", "style": "formal", "text": "I am not sure who sent me this collect request. Is it safe to approve it?", "split": "test", "query_id": "q0583"}
+{"intent_id": "suspicious_collect_request", "family": "security", "style": "formal", "text": "I received a collect request on PayLoom from someone I do not recognise. Should I accept it?", "split": "test", "query_id": "q0584"}
+{"intent_id": "app_lock", "family": "security", "style": "formal", "text": "I would like to enable app lock on PayLoom. How can I add fingerprint, face, or screen PIN protection?", "split": "calibration", "query_id": "q0585"}
+{"intent_id": "app_lock", "family": "security", "style": "formal", "text": "Could you please tell me how to set up a fingerprint or PIN lock on the PayLoom app?", "split": "calibration", "query_id": "q0586"}
+{"intent_id": "app_lock", "family": "security", "style": "hinglish", "text": "app kholte hi fingerprint mange aisa lock kaise set karte hain", "split": "calibration", "query_id": "q0587"}
+{"intent_id": "app_lock", "family": "security", "style": "casual", "text": "does payloom support face lock or pin", "split": "calibration", "query_id": "q0588"}
+{"intent_id": "app_lock", "family": "security", "style": "typos", "text": "how do i put a finger print lock on the app", "split": "calibration", "query_id": "q0589"}
+{"intent_id": "app_lock", "family": "security", "style": "casual", "text": "how do i put a lock on payloom app", "split": "calibration", "query_id": "q0590"}
+{"intent_id": "app_lock", "family": "security", "style": "casual", "text": "can i set fingerprint lock for the app", "split": "calibration", "query_id": "q0591"}
+{"intent_id": "app_lock", "family": "security", "style": "minimal_edit", "text": "How do I stop anyone from using my payment app with a fingerprint or PIN lock?", "split": "calibration", "query_id": "q0592"}
+{"intent_id": "app_lock", "family": "security", "style": "minimal_edit", "text": "I think I was cheated in a fraud payment. How do I put a fingerprint or PIN lock on the app?", "split": "calibration", "query_id": "q0593"}
+{"intent_id": "app_lock", "family": "security", "style": "hinglish", "text": "settings me security ka option kahan hai app lock ke liye", "split": "calibration", "query_id": "q0594"}
+{"intent_id": "app_lock", "family": "security", "style": "typos", "text": "can u help me set pin lck on payloom", "split": "calibration", "query_id": "q0595"}
+{"intent_id": "app_lock", "family": "security", "style": "formal", "text": "Please guide me on how to secure the PayLoom app with a biometric lock or PIN.", "split": "calibration", "query_id": "q0596"}
+{"intent_id": "app_lock", "family": "security", "style": "casual", "text": "need to add pin lock in payloom", "split": "test", "query_id": "q0597"}
+{"intent_id": "app_lock", "family": "security", "style": "casual", "text": "how to enable app lock in payloom", "split": "test", "query_id": "q0598"}
+{"intent_id": "app_lock", "family": "security", "style": "typos", "text": "please tell me where to find secuity app lock", "split": "test", "query_id": "q0599"}
+{"intent_id": "app_lock", "family": "security", "style": "typos", "text": "i want to enable app lok for payloom", "split": "test", "query_id": "q0600"}
+{"intent_id": "app_lock", "family": "security", "style": "hinglish", "text": "screen pin ya biometric lock enable karna hai kaise karu", "split": "test", "query_id": "q0601"}
+{"intent_id": "app_lock", "family": "security", "style": "minimal_edit", "text": "Someone sent me a collect request I do not recognise. How do I set a fingerprint or PIN lock on my payment app?", "split": "test", "query_id": "q0602"}
+{"intent_id": "app_lock", "family": "security", "style": "casual", "text": "tell me how to lock the app with fingerprint", "split": "test", "query_id": "q0603"}
+{"intent_id": "app_lock", "family": "security", "style": "hinglish", "text": "mujhe app lock lagana hai face ya pin se kaise hoga", "split": "test", "query_id": "q0604"}
+{"intent_id": "app_lock", "family": "security", "style": "hinglish", "text": "PayLoom app me fingerprint lock kaise on karu", "split": "test", "query_id": "q0605"}
+{"intent_id": "app_lock", "family": "security", "style": "minimal_edit", "text": "I lost my phone. How do I add fingerprint or PIN lock on my payment app?", "split": "test", "query_id": "q0606"}
+{"intent_id": "app_lock", "family": "security", "style": "formal", "text": "Can you share the steps to enable fingerprint, face, or screen PIN lock for the PayLoom app?", "split": "test", "query_id": "q0607"}
+{"intent_id": "app_lock", "family": "security", "style": "typos", "text": "how to add face or screem pin lock", "split": "test", "query_id": "q0608"}
+{"intent_id": "app_lock", "family": "security", "style": "formal", "text": "How do I turn on app lock in PayLoom so that it asks for fingerprint or PIN every time I open it?", "split": "test", "query_id": "q0609"}
+{"intent_id": "wallet_limit", "family": "wallet", "style": "typos", "text": "what is the max balnce in my wallet", "split": "calibration", "query_id": "q0610"}
+{"intent_id": "wallet_limit", "family": "wallet", "style": "hinglish", "text": "mera payloom wallet ka maximum balance kitna hai", "split": "calibration", "query_id": "q0611"}
+{"intent_id": "wallet_limit", "family": "wallet", "style": "formal", "text": "Could you explain the wallet storage limit for PayLoom users?", "split": "calibration", "query_id": "q0612"}
+{"intent_id": "wallet_limit", "family": "wallet", "style": "formal", "text": "Hello, could you please tell me how much balance I can keep in the PayLoom wallet?", "split": "calibration", "query_id": "q0613"}
+{"intent_id": "wallet_limit", "family": "wallet", "style": "hinglish", "text": "wallet me kitna balance rakh sakte hain", "split": "calibration", "query_id": "q0614"}
+{"intent_id": "wallet_limit", "family": "wallet", "style": "typos", "text": "how much mony can i keep in the walet", "split": "calibration", "query_id": "q0615"}
+{"intent_id": "wallet_limit", "family": "wallet", "style": "typos", "text": "plese tell me wallet limit for payloom", "split": "calibration", "query_id": "q0616"}
+{"intent_id": "wallet_limit", "family": "wallet", "style": "casual", "text": "wallet me max kitna paise rakh sakte hain?", "split": "calibration", "query_id": "q0617"}
+{"intent_id": "wallet_limit", "family": "wallet", "style": "formal", "text": "What is the highest amount I can hold in my PayLoom wallet?", "split": "calibration", "query_id": "q0618"}
+{"intent_id": "wallet_limit", "family": "wallet", "style": "casual", "text": "upi wallet limit kya hai?", "split": "calibration", "query_id": "q0619"}
+{"intent_id": "wallet_limit", "family": "wallet", "style": "hinglish", "text": "basic wallet me kitna paisa store kar sakte hain", "split": "test", "query_id": "q0620"}
+{"intent_id": "wallet_limit", "family": "wallet", "style": "formal", "text": "I would like to know the maximum amount that can be stored in my wallet.", "split": "test", "query_id": "q0621"}
+{"intent_id": "wallet_limit", "family": "wallet", "style": "typos", "text": "can you confirm the wallet ammount limit", "split": "test", "query_id": "q0622"}
+{"intent_id": "wallet_limit", "family": "wallet", "style": "hinglish", "text": "full kyc ke bina wallet limit kya hoti hai", "split": "test", "query_id": "q0623"}
+{"intent_id": "wallet_limit", "family": "wallet", "style": "casual", "text": "how much can i keep in the wallet?", "split": "test", "query_id": "q0624"}
+{"intent_id": "wallet_limit", "family": "wallet", "style": "hinglish", "text": "wallet ka max balance bata do", "split": "test", "query_id": "q0625"}
+{"intent_id": "wallet_limit", "family": "wallet", "style": "casual", "text": "what's the limit for wallet balance?", "split": "test", "query_id": "q0626"}
+{"intent_id": "wallet_limit", "family": "wallet", "style": "casual", "text": "how much money can stay in my payloom wallet", "split": "test", "query_id": "q0627"}
+{"intent_id": "wallet_limit", "family": "wallet", "style": "formal", "text": "Please confirm the wallet balance limit for a basic PayLoom account.", "split": "test", "query_id": "q0628"}
+{"intent_id": "wallet_limit", "family": "wallet", "style": "typos", "text": "how much can i hold in the wallett", "split": "test", "query_id": "q0629"}
+{"intent_id": "wallet_limit", "family": "wallet", "style": "casual", "text": "can i know the wallet cap?", "split": "test", "query_id": "q0630"}
+{"intent_id": "wallet_kyc_upgrade", "family": "wallet", "style": "formal", "text": "Please let me know the steps to upgrade my PayLoom wallet to full KYC.", "split": "calibration", "query_id": "q0631"}
+{"intent_id": "wallet_kyc_upgrade", "family": "wallet", "style": "minimal_edit", "text": "How do I add money to my wallet full KYC?", "split": "calibration", "query_id": "q0632"}
+{"intent_id": "wallet_kyc_upgrade", "family": "wallet", "style": "minimal_edit", "text": "How do I move money from my wallet to full KYC?", "split": "calibration", "query_id": "q0633"}
+{"intent_id": "wallet_kyc_upgrade", "family": "wallet", "style": "hinglish", "text": "hi wallet full kyc karna hai kaise hoga", "split": "calibration", "query_id": "q0634"}
+{"intent_id": "wallet_kyc_upgrade", "family": "wallet", "style": "casual", "text": "how to get full kyc on wallet", "split": "calibration", "query_id": "q0635"}
+{"intent_id": "wallet_kyc_upgrade", "family": "wallet", "style": "formal", "text": "How do I finish the full KYC process for my wallet in the app?", "split": "calibration", "query_id": "q0636"}
+{"intent_id": "wallet_kyc_upgrade", "family": "wallet", "style": "typos", "text": "I need to complte full KYC for my walet", "split": "calibration", "query_id": "q0637"}
+{"intent_id": "wallet_kyc_upgrade", "family": "wallet", "style": "formal", "text": "I need help upgrading my wallet to full KYC. What is the process?", "split": "calibration", "query_id": "q0638"}
+{"intent_id": "wallet_kyc_upgrade", "family": "wallet", "style": "casual", "text": "need help with wallet kyc upgrade", "split": "calibration", "query_id": "q0639"}
+{"intent_id": "wallet_kyc_upgrade", "family": "wallet", "style": "hinglish", "text": "wallet ka full kyc kaise upgrade karu", "split": "calibration", "query_id": "q0640"}
+{"intent_id": "wallet_kyc_upgrade", "family": "wallet", "style": "casual", "text": "want to complete kyc for wallet", "split": "calibration", "query_id": "q0641"}
+{"intent_id": "wallet_kyc_upgrade", "family": "wallet", "style": "hinglish", "text": "wallet ko full kyc karne ke liye kya karna padega", "split": "calibration", "query_id": "q0642"}
+{"intent_id": "wallet_kyc_upgrade", "family": "wallet", "style": "casual", "text": "wallet ko full kyc kaise karu", "split": "test", "query_id": "q0643"}
+{"intent_id": "wallet_kyc_upgrade", "family": "wallet", "style": "hinglish", "text": "mujhe wallet me full kyc complete karna hai kaise karun", "split": "test", "query_id": "q0644"}
+{"intent_id": "wallet_kyc_upgrade", "family": "wallet", "style": "minimal_edit", "text": "How much money can I keep in the wallet after full KYC?", "split": "test", "query_id": "q0645"}
+{"intent_id": "wallet_kyc_upgrade", "family": "wallet", "style": "formal", "text": "Could you please guide me on how to upgrade my wallet to full KYC?", "split": "test", "query_id": "q0646"}
+{"intent_id": "wallet_kyc_upgrade", "family": "wallet", "style": "typos", "text": "How can I finsh the wallet KYC uprade", "split": "test", "query_id": "q0647"}
+{"intent_id": "wallet_kyc_upgrade", "family": "wallet", "style": "minimal_edit", "text": "How do I move money from my wallet back to full KYC?", "split": "test", "query_id": "q0648"}
+{"intent_id": "wallet_kyc_upgrade", "family": "wallet", "style": "casual", "text": "where do i do full kyc for my wallet", "split": "test", "query_id": "q0649"}
+{"intent_id": "wallet_kyc_upgrade", "family": "wallet", "style": "formal", "text": "I would like to complete the full KYC upgrade for my wallet. How can I do that?", "split": "test", "query_id": "q0650"}
+{"intent_id": "wallet_kyc_upgrade", "family": "wallet", "style": "typos", "text": "pls tell me how to do full kyc on my wallett", "split": "test", "query_id": "q0651"}
+{"intent_id": "wallet_kyc_upgrade", "family": "wallet", "style": "typos", "text": "where do i go for wallet kyc upgread", "split": "test", "query_id": "q0652"}
+{"intent_id": "wallet_kyc_upgrade", "family": "wallet", "style": "hinglish", "text": "payloom wallet ka kyc upgrade ka process kya hai", "split": "test", "query_id": "q0653"}
+{"intent_id": "wallet_kyc_upgrade", "family": "wallet", "style": "typos", "text": "How do I upgarde my wallet to full KYC", "split": "test", "query_id": "q0654"}
+{"intent_id": "wallet_to_bank", "family": "wallet", "style": "hinglish", "text": "wallet ka balance bank me kaise transfer karun", "split": "calibration", "query_id": "q0655"}
+{"intent_id": "wallet_to_bank", "family": "wallet", "style": "hinglish", "text": "payloom wallet se bank account me money send karne ka option kahan hai", "split": "calibration", "query_id": "q0656"}
+{"intent_id": "wallet_to_bank", "family": "wallet", "style": "formal", "text": "I want to transfer the money in my wallet to my bank account. How do I do that in the app?", "split": "calibration", "query_id": "q0657"}
+{"intent_id": "wallet_to_bank", "family": "wallet", "style": "formal", "text": "I would like to move funds from my wallet to my bank account. What is the process in PayLoom?", "split": "calibration", "query_id": "q0658"}
+{"intent_id": "wallet_to_bank", "family": "wallet", "style": "formal", "text": "Please let me know the steps to withdraw my wallet balance to my bank account.", "split": "calibration", "query_id": "q0659"}
+{"intent_id": "wallet_to_bank", "family": "wallet", "style": "minimal_edit", "text": "How do I upgrade my wallet to send money back to my bank account?", "split": "calibration", "query_id": "q0660"}
+{"intent_id": "wallet_to_bank", "family": "wallet", "style": "typos", "text": "can u move my wallet balence to my bank", "split": "calibration", "query_id": "q0661"}
+{"intent_id": "wallet_to_bank", "family": "wallet", "style": "typos", "text": "how do i tranfer money from wallet to bank accout", "split": "calibration", "query_id": "q0662"}
+{"intent_id": "wallet_to_bank", "family": "wallet", "style": "casual", "text": "need to move money from wallet to bank, how", "split": "calibration", "query_id": "q0663"}
+{"intent_id": "wallet_to_bank", "family": "wallet", "style": "hinglish", "text": "wallet se bank me paise bhejne ka process kya hai", "split": "calibration", "query_id": "q0664"}
+{"intent_id": "wallet_to_bank", "family": "wallet", "style": "minimal_edit", "text": "How much money can I keep in the wallet if I want to send it back to my bank account?", "split": "calibration", "query_id": "q0665"}
+{"intent_id": "wallet_to_bank", "family": "wallet", "style": "casual", "text": "where is the option to send wallet money to bank", "split": "test", "query_id": "q0666"}
+{"intent_id": "wallet_to_bank", "family": "wallet", "style": "formal", "text": "Could you guide me on how to send money from my wallet to my linked bank account?", "split": "test", "query_id": "q0667"}
+{"intent_id": "wallet_to_bank", "family": "wallet", "style": "casual", "text": "wallet se bank account me paise kaise bheju", "split": "test", "query_id": "q0668"}
+{"intent_id": "wallet_to_bank", "family": "wallet", "style": "minimal_edit", "text": "How do I add money to my wallet and then send it back to my bank account?", "split": "test", "query_id": "q0669"}
+{"intent_id": "wallet_to_bank", "family": "wallet", "style": "casual", "text": "how do i send wallet money back to bank", "split": "test", "query_id": "q0670"}
+{"intent_id": "wallet_to_bank", "family": "wallet", "style": "hinglish", "text": "mera wallet balance bank account me kaise nikalein", "split": "test", "query_id": "q0671"}
+{"intent_id": "wallet_to_bank", "family": "wallet", "style": "casual", "text": "help me move money from wallet to my bank account", "split": "test", "query_id": "q0672"}
+{"intent_id": "wallet_to_bank", "family": "wallet", "style": "typos", "text": "need to send walet money back to my bank acount", "split": "test", "query_id": "q0673"}
+{"intent_id": "wallet_to_bank", "family": "wallet", "style": "formal", "text": "Hello, could you please tell me how I can transfer money from my PayLoom wallet back to my bank account?", "split": "test", "query_id": "q0674"}
+{"intent_id": "wallet_to_bank", "family": "wallet", "style": "typos", "text": "i want to withdraw wallet money to bank how", "split": "test", "query_id": "q0675"}
+{"intent_id": "wallet_to_bank", "family": "wallet", "style": "typos", "text": "where is the send to bank option in payloom", "split": "test", "query_id": "q0676"}
+{"intent_id": "wallet_to_bank", "family": "wallet", "style": "casual", "text": "can i transfer my wallet balance to bank from payloom", "split": "test", "query_id": "q0677"}
+{"intent_id": "wallet_add_money", "family": "wallet", "style": "formal", "text": "Please guide me on the steps to add money to the wallet.", "split": "calibration", "query_id": "q0678"}
+{"intent_id": "wallet_add_money", "family": "wallet", "style": "casual", "text": "wallet me paise kaise add karu", "split": "calibration", "query_id": "q0679"}
+{"intent_id": "wallet_add_money", "family": "wallet", "style": "typos", "text": "How do I put money in my walet from bank", "split": "calibration", "query_id": "q0680"}
+{"intent_id": "wallet_add_money", "family": "wallet", "style": "hinglish", "text": "mujhe wallet me money add karna hai kaise karu", "split": "calibration", "query_id": "q0681"}
+{"intent_id": "wallet_add_money", "family": "wallet", "style": "hinglish", "text": "hi wallet top up kaise karna hai", "split": "calibration", "query_id": "q0682"}
+{"intent_id": "wallet_add_money", "family": "wallet", "style": "formal", "text": "Could you please tell me how to add money to my wallet?", "split": "calibration", "query_id": "q0683"}
+{"intent_id": "wallet_add_money", "family": "wallet", "style": "formal", "text": "How do I load money into my PayLoom wallet using UPI?", "split": "calibration", "query_id": "q0684"}
+{"intent_id": "wallet_add_money", "family": "wallet", "style": "hinglish", "text": "UPI pin se wallet me paise kaise add hote hain", "split": "calibration", "query_id": "q0685"}
+{"intent_id": "wallet_add_money", "family": "wallet", "style": "hinglish", "text": "bank account se wallet me money kaise dalu", "split": "calibration", "query_id": "q0686"}
+{"intent_id": "wallet_add_money", "family": "wallet", "style": "typos", "text": "Pls tell me how to add money in my wallett", "split": "calibration", "query_id": "q0687"}
+{"intent_id": "wallet_add_money", "family": "wallet", "style": "formal", "text": "I would like to know the process to add money to my wallet from my bank account.", "split": "test", "query_id": "q0688"}
+{"intent_id": "wallet_add_money", "family": "wallet", "style": "hinglish", "text": "wallet me paise kaise add karte hain", "split": "test", "query_id": "q0689"}
+{"intent_id": "wallet_add_money", "family": "wallet", "style": "typos", "text": "I need help to add mney to my wallet", "split": "test", "query_id": "q0690"}
+{"intent_id": "wallet_add_money", "family": "wallet", "style": "casual", "text": "where is the add money option", "split": "test", "query_id": "q0691"}
+{"intent_id": "wallet_add_money", "family": "wallet", "style": "casual", "text": "i want to top up my wallet how do i do it", "split": "test", "query_id": "q0692"}
+{"intent_id": "wallet_add_money", "family": "wallet", "style": "casual", "text": "can you tell me how to put money in wallet", "split": "test", "query_id": "q0693"}
+{"intent_id": "wallet_add_money", "family": "wallet", "style": "typos", "text": "How do i add mony to my walet", "split": "test", "query_id": "q0694"}
+{"intent_id": "wallet_add_money", "family": "wallet", "style": "typos", "text": "How can I ad money to the wallet", "split": "test", "query_id": "q0695"}
+{"intent_id": "wallet_add_money", "family": "wallet", "style": "casual", "text": "how can i add funds to my payloom wallet", "split": "test", "query_id": "q0696"}
+{"intent_id": "wallet_add_money", "family": "wallet", "style": "formal", "text": "I need help with adding funds to my PayLoom wallet. How can I do that?", "split": "test", "query_id": "q0697"}
+{"intent_id": "p2p_fee", "family": "fees", "style": "casual", "text": "is sending money to friends free on payloom?", "split": "calibration", "query_id": "q0698"}
+{"intent_id": "p2p_fee", "family": "fees", "style": "casual", "text": "does payloom take a charge for sending money to someone?", "split": "calibration", "query_id": "q0699"}
+{"intent_id": "p2p_fee", "family": "fees", "style": "typos", "text": "do i need to pay chargs when i transfer money to family", "split": "calibration", "query_id": "q0700"}
+{"intent_id": "p2p_fee", "family": "fees", "style": "hinglish", "text": "family ko money transfer karne par kuch charge hota hai kya", "split": "calibration", "query_id": "q0701"}
+{"intent_id": "p2p_fee", "family": "fees", "style": "typos", "text": "is there any fee for sendng money to frends from bank account", "split": "calibration", "query_id": "q0702"}
+{"intent_id": "p2p_fee", "family": "fees", "style": "typos", "text": "can you check if sending money from my bank accunt is free", "split": "calibration", "query_id": "q0703"}
+{"intent_id": "p2p_fee", "family": "fees", "style": "hinglish", "text": "payloom me friend ko paise bhejne ka koi extra charge hai kya", "split": "calibration", "query_id": "q0704"}
+{"intent_id": "p2p_fee", "family": "fees", "style": "hinglish", "text": "kya friend ko bank se paise bhejne par koi fee lagti hai", "split": "calibration", "query_id": "q0705"}
+{"intent_id": "p2p_fee", "family": "fees", "style": "typos", "text": "will payloom deduct any extra fee for sending money to a friend", "split": "calibration", "query_id": "q0706"}
+{"intent_id": "p2p_fee", "family": "fees", "style": "formal", "text": "Can you confirm if peer-to-peer bank transfers on PayLoom have any service fee?", "split": "calibration", "query_id": "q0707"}
+{"intent_id": "p2p_fee", "family": "fees", "style": "casual", "text": "hi, is bank to bank transfer to friends free?", "split": "calibration", "query_id": "q0708"}
+{"intent_id": "p2p_fee", "family": "fees", "style": "minimal_edit", "text": "Is there any extra charge for sending money to friends?", "split": "calibration", "query_id": "q0709"}
+{"intent_id": "p2p_fee", "family": "fees", "style": "casual", "text": "will i pay anything for sending money to my brother on the app?", "split": "test", "query_id": "q0710"}
+{"intent_id": "p2p_fee", "family": "fees", "style": "typos", "text": "is there any fess for p2p bank transfer", "split": "test", "query_id": "q0711"}
+{"intent_id": "p2p_fee", "family": "fees", "style": "minimal_edit", "text": "Is there any fee for sending money to family from my bank account?", "split": "test", "query_id": "q0712"}
+{"intent_id": "p2p_fee", "family": "fees", "style": "hinglish", "text": "bank account se dusre ko paise bhejne me fee kat ti hai kya", "split": "test", "query_id": "q0713"}
+{"intent_id": "p2p_fee", "family": "fees", "style": "formal", "text": "I want to check whether sending money to a friend using PayLoom costs anything extra.", "split": "test", "query_id": "q0714"}
+{"intent_id": "p2p_fee", "family": "fees", "style": "minimal_edit", "text": "Is there a charge for sending money to friends in the app?", "split": "test", "query_id": "q0715"}
+{"intent_id": "p2p_fee", "family": "fees", "style": "casual", "text": "do i get charged when i send money to family from bank account?", "split": "test", "query_id": "q0716"}
+{"intent_id": "p2p_fee", "family": "fees", "style": "casual", "text": "any fee for transferring money to my friend here?", "split": "test", "query_id": "q0717"}
+{"intent_id": "p2p_fee", "family": "fees", "style": "formal", "text": "Could you please confirm whether sending money to friends from my bank account on PayLoom is free of charge?", "split": "test", "query_id": "q0718"}
+{"intent_id": "p2p_fee", "family": "fees", "style": "formal", "text": "I would like to know if there are any fees for transferring money to family members through PayLoom.", "split": "test", "query_id": "q0719"}
+{"intent_id": "p2p_fee", "family": "fees", "style": "minimal_edit", "text": "Is there a charge for sending money to friends from my bank account?", "split": "test", "query_id": "q0720"}
+{"intent_id": "p2p_fee", "family": "fees", "style": "formal", "text": "Please let me know whether PayLoom charges anything when I send money to someone from my bank account.", "split": "test", "query_id": "q0721"}
+{"intent_id": "p2p_fee", "family": "fees", "style": "hinglish", "text": "hello kya payloom par kisi ko money bhejne ke liye charge lagta hai", "split": "test", "query_id": "q0722"}
+{"intent_id": "bill_payment_fee", "family": "fees", "style": "casual", "text": "is bill payment on payloom free?", "split": "calibration", "query_id": "q0723"}
+{"intent_id": "bill_payment_fee", "family": "fees", "style": "casual", "text": "bill pay me koi charge lagta hai kya", "split": "calibration", "query_id": "q0724"}
+{"intent_id": "bill_payment_fee", "family": "fees", "style": "typos", "text": "does the wallet add any fee when i pay a bill", "split": "calibration", "query_id": "q0725"}
+{"intent_id": "bill_payment_fee", "family": "fees", "style": "hinglish", "text": "bank account se bill pay karne par fee lagti hai kya", "split": "calibration", "query_id": "q0726"}
+{"intent_id": "bill_payment_fee", "family": "fees", "style": "minimal_edit", "text": "Is there any fee for electricity and other bill payments?", "split": "calibration", "query_id": "q0727"}
+{"intent_id": "bill_payment_fee", "family": "fees", "style": "typos", "text": "can you tell me if there is a convienience fee for bill payemnts", "split": "calibration", "query_id": "q0728"}
+{"intent_id": "bill_payment_fee", "family": "fees", "style": "hinglish", "text": "kya electricity aur other bills pay karne pe koi extra charge hai", "split": "calibration", "query_id": "q0729"}
+{"intent_id": "bill_payment_fee", "family": "fees", "style": "minimal_edit", "text": "Is there any fee for electricity and other bill payments in the app?", "split": "calibration", "query_id": "q0730"}
+{"intent_id": "bill_payment_fee", "family": "fees", "style": "typos", "text": "is paying utility bills from the app free or are there charges", "split": "calibration", "query_id": "q0731"}
+{"intent_id": "bill_payment_fee", "family": "fees", "style": "minimal_edit", "text": "Is there a charge for electricity and other bill payments in the app?", "split": "calibration", "query_id": "q0732"}
+{"intent_id": "bill_payment_fee", "family": "fees", "style": "casual", "text": "bank account se bill bharne pe charge hota hai?", "split": "calibration", "query_id": "q0733"}
+{"intent_id": "bill_payment_fee", "family": "fees", "style": "formal", "text": "I want to understand if there is any fee for paying my bills through PayLoom.", "split": "calibration", "query_id": "q0734"}
+{"intent_id": "bill_payment_fee", "family": "fees", "style": "hinglish", "text": "payloom se bill pay karne pe extra paisa lagega kya", "split": "test", "query_id": "q0735"}
+{"intent_id": "bill_payment_fee", "family": "fees", "style": "typos", "text": "is there any extra chage for payng electricity bills", "split": "test", "query_id": "q0736"}
+{"intent_id": "bill_payment_fee", "family": "fees", "style": "formal", "text": "I would like to know if bill payments through PayLoom have any additional fees when I pay from my bank account or wallet.", "split": "test", "query_id": "q0737"}
+{"intent_id": "bill_payment_fee", "family": "fees", "style": "casual", "text": "do i pay a fee when i pay bills in the app?", "split": "test", "query_id": "q0738"}
+{"intent_id": "bill_payment_fee", "family": "fees", "style": "formal", "text": "Please let me know whether there are any charges for making utility bill payments in the app.", "split": "test", "query_id": "q0739"}
+{"intent_id": "bill_payment_fee", "family": "fees", "style": "casual", "text": "any extra charge for electricity bill payment?", "split": "test", "query_id": "q0740"}
+{"intent_id": "bill_payment_fee", "family": "fees", "style": "hinglish", "text": "app me utility bill bharne ka koi charge hota hai kya", "split": "test", "query_id": "q0741"}
+{"intent_id": "bill_payment_fee", "family": "fees", "style": "typos", "text": "do bill payments in payloom have any aditional fee", "split": "test", "query_id": "q0742"}
+{"intent_id": "bill_payment_fee", "family": "fees", "style": "minimal_edit", "text": "Do I have to pay any fee for electricity and other bill payments?", "split": "test", "query_id": "q0743"}
+{"intent_id": "bill_payment_fee", "family": "fees", "style": "casual", "text": "wallet se bill pay karne pe fee hai?", "split": "test", "query_id": "q0744"}
+{"intent_id": "bill_payment_fee", "family": "fees", "style": "formal", "text": "Hello, could you please confirm whether there is any extra charge for paying electricity and other bills on PayLoom?", "split": "test", "query_id": "q0745"}
+{"intent_id": "bill_payment_fee", "family": "fees", "style": "hinglish", "text": "wallet se bill payment karu to convenience charge hai kya", "split": "test", "query_id": "q0746"}
+{"intent_id": "bill_payment_fee", "family": "fees", "style": "formal", "text": "Could you clarify if paying electricity and other bills on PayLoom is free or if any convenience fee applies?", "split": "test", "query_id": "q0747"}
+{"intent_id": "mobile_recharge_fee", "family": "fees", "style": "casual", "text": "do i have to pay extra for recharge", "split": "calibration", "query_id": "q0748"}
+{"intent_id": "mobile_recharge_fee", "family": "fees", "style": "minimal_edit", "text": "Is there a fee for mobile recharge in the app?", "split": "calibration", "query_id": "q0749"}
+{"intent_id": "mobile_recharge_fee", "family": "fees", "style": "formal", "text": "I would like to know if mobile recharge on PayLoom has any fee.", "split": "calibration", "query_id": "q0750"}
+{"intent_id": "mobile_recharge_fee", "family": "fees", "style": "formal", "text": "Please let me know if recharge transactions in the app are free or if any charge applies.", "split": "calibration", "query_id": "q0751"}
+{"intent_id": "mobile_recharge_fee", "family": "fees", "style": "hinglish", "text": "kya mobile recharge free hai ya charge dena padta hai", "split": "calibration", "query_id": "q0752"}
+{"intent_id": "mobile_recharge_fee", "family": "fees", "style": "minimal_edit", "text": "Do I have to pay any fee for mobile recharge in the app?", "split": "calibration", "query_id": "q0753"}
+{"intent_id": "mobile_recharge_fee", "family": "fees", "style": "minimal_edit", "text": "Is there any extra charge for mobile recharge in the app?", "split": "calibration", "query_id": "q0754"}
+{"intent_id": "mobile_recharge_fee", "family": "fees", "style": "typos", "text": "do i need to pay extra for rechage in the app", "split": "calibration", "query_id": "q0755"}
+{"intent_id": "mobile_recharge_fee", "family": "fees", "style": "casual", "text": "any charge on mobile recharge in the app", "split": "calibration", "query_id": "q0756"}
+{"intent_id": "mobile_recharge_fee", "family": "fees", "style": "hinglish", "text": "mobile recharge pe koi charge lagta hai kya", "split": "calibration", "query_id": "q0757"}
+{"intent_id": "mobile_recharge_fee", "family": "fees", "style": "casual", "text": "mobile recharge free hai ya charge hai", "split": "calibration", "query_id": "q0758"}
+{"intent_id": "mobile_recharge_fee", "family": "fees", "style": "hinglish", "text": "app me recharge karne par extra fee hai kya", "split": "calibration", "query_id": "q0759"}
+{"intent_id": "mobile_recharge_fee", "family": "fees", "style": "casual", "text": "app me recharge karne par extra paisa lagta hai kya", "split": "test", "query_id": "q0760"}
+{"intent_id": "mobile_recharge_fee", "family": "fees", "style": "casual", "text": "recharge pe koi fee lagti hai kya", "split": "test", "query_id": "q0761"}
+{"intent_id": "mobile_recharge_fee", "family": "fees", "style": "hinglish", "text": "recharge karne pe platform fee lagti hai kya", "split": "test", "query_id": "q0762"}
+{"intent_id": "mobile_recharge_fee", "family": "fees", "style": "casual", "text": "is there any fee for mobile recharge here", "split": "test", "query_id": "q0763"}
+{"intent_id": "mobile_recharge_fee", "family": "fees", "style": "hinglish", "text": "payloom me mobile recharge ke liye koi extra paisa lagega kya", "split": "test", "query_id": "q0764"}
+{"intent_id": "mobile_recharge_fee", "family": "fees", "style": "formal", "text": "I want to understand if there is any platform fee for mobile recharges in the app.", "split": "test", "query_id": "q0765"}
+{"intent_id": "mobile_recharge_fee", "family": "fees", "style": "typos", "text": "mobile recharge free hai ya kuch charge lagta hai", "split": "test", "query_id": "q0766"}
+{"intent_id": "mobile_recharge_fee", "family": "fees", "style": "typos", "text": "is ther any charge for moble recharge", "split": "test", "query_id": "q0767"}
+{"intent_id": "mobile_recharge_fee", "family": "fees", "style": "minimal_edit", "text": "Is there any charge for mobile recharge in the app, or is it free?", "split": "test", "query_id": "q0768"}
+{"intent_id": "mobile_recharge_fee", "family": "fees", "style": "formal", "text": "Could you confirm whether I need to pay any extra amount while recharging a mobile number through PayLoom?", "split": "test", "query_id": "q0769"}
+{"intent_id": "mobile_recharge_fee", "family": "fees", "style": "typos", "text": "kya recharge karne par extra amt kat ta hai", "split": "test", "query_id": "q0770"}
+{"intent_id": "mobile_recharge_fee", "family": "fees", "style": "typos", "text": "any fee on mobile rechrge here", "split": "test", "query_id": "q0771"}
+{"intent_id": "mobile_recharge_fee", "family": "fees", "style": "formal", "text": "Hello, could you please confirm whether there is any charge for mobile recharge in the app?", "split": "test", "query_id": "q0772"}
+{"intent_id": "wallet_credit_card_fee", "family": "fees", "style": "formal", "text": "I would like to know if there is any charge when I add wallet balance with a credit card.", "split": "calibration", "query_id": "q0773"}
+{"intent_id": "wallet_credit_card_fee", "family": "fees", "style": "typos", "text": "does adding money from bank account have any fee and credit card too", "split": "calibration", "query_id": "q0774"}
+{"intent_id": "wallet_credit_card_fee", "family": "fees", "style": "casual", "text": "is adding money from bank free and card charged?", "split": "calibration", "query_id": "q0775"}
+{"intent_id": "wallet_credit_card_fee", "family": "fees", "style": "minimal_edit", "text": "Is there any extra charge for adding money to the wallet with a credit card?", "split": "calibration", "query_id": "q0776"}
+{"intent_id": "wallet_credit_card_fee", "family": "fees", "style": "hinglish", "text": "kya credit card se wallet me money add karne par fee lagti hai", "split": "calibration", "query_id": "q0777"}
+{"intent_id": "wallet_credit_card_fee", "family": "fees", "style": "casual", "text": "does wallet top up by credit card cost extra?", "split": "calibration", "query_id": "q0778"}
+{"intent_id": "wallet_credit_card_fee", "family": "fees", "style": "typos", "text": "is there a feee for adding money with a credit card", "split": "calibration", "query_id": "q0779"}
+{"intent_id": "wallet_credit_card_fee", "family": "fees", "style": "formal", "text": "I want to check if adding money to my wallet from a bank account and from a credit card are charged differently.", "split": "calibration", "query_id": "q0780"}
+{"intent_id": "wallet_credit_card_fee", "family": "fees", "style": "hinglish", "text": "bank account se wallet top up free hai aur credit card par charge hai kya", "split": "calibration", "query_id": "q0781"}
+{"intent_id": "wallet_credit_card_fee", "family": "fees", "style": "formal", "text": "Could you clarify if credit card wallet loading comes with any extra fee in PayLoom?", "split": "calibration", "query_id": "q0782"}
+{"intent_id": "wallet_credit_card_fee", "family": "fees", "style": "hinglish", "text": "wallet me paise dalne ke liye credit card use karu to fee lagegi kya", "split": "calibration", "query_id": "q0783"}
+{"intent_id": "wallet_credit_card_fee", "family": "fees", "style": "minimal_edit", "text": "Is there a charge for adding money to the wallet with a credit card?", "split": "calibration", "query_id": "q0784"}
+{"intent_id": "wallet_credit_card_fee", "family": "fees", "style": "casual", "text": "is there a fee if i add money with a credit card?", "split": "test", "query_id": "q0785"}
+{"intent_id": "wallet_credit_card_fee", "family": "fees", "style": "typos", "text": "can i top up the wallet from a credit card free of cost", "split": "test", "query_id": "q0786"}
+{"intent_id": "wallet_credit_card_fee", "family": "fees", "style": "hinglish", "text": "bank se add karna free hai to credit card se bhi free hota hai kya", "split": "test", "query_id": "q0787"}
+{"intent_id": "wallet_credit_card_fee", "family": "fees", "style": "formal", "text": "Hello, could you please confirm whether adding money to the wallet using a credit card has any fee?", "split": "test", "query_id": "q0788"}
+{"intent_id": "wallet_credit_card_fee", "family": "fees", "style": "casual", "text": "what fee applies when i put money in wallet using a credit card?", "split": "test", "query_id": "q0789"}
+{"intent_id": "wallet_credit_card_fee", "family": "fees", "style": "typos", "text": "do you charge extra when i add wallet balance by crdit card", "split": "test", "query_id": "q0790"}
+{"intent_id": "wallet_credit_card_fee", "family": "fees", "style": "hinglish", "text": "credit card se balance add karne ka koi extra charge hai kya", "split": "test", "query_id": "q0791"}
+{"intent_id": "wallet_credit_card_fee", "family": "fees", "style": "minimal_edit", "text": "Do I have to pay any fee for adding money to the wallet with a credit card?", "split": "test", "query_id": "q0792"}
+{"intent_id": "wallet_credit_card_fee", "family": "fees", "style": "casual", "text": "credit card se wallet add karne pe charge lagta hai kya", "split": "test", "query_id": "q0793"}
+{"intent_id": "wallet_credit_card_fee", "family": "fees", "style": "typos", "text": "is there any charg for wallet add using credit card", "split": "test", "query_id": "q0794"}
+{"intent_id": "wallet_credit_card_fee", "family": "fees", "style": "casual", "text": "can i load wallet with card without any fee?", "split": "test", "query_id": "q0795"}
+{"intent_id": "wallet_credit_card_fee", "family": "fees", "style": "formal", "text": "Please let me know whether topping up the wallet through a credit card is free or charged.", "split": "test", "query_id": "q0796"}
+{"intent_id": "download_statement", "family": "statements", "style": "typos", "text": "Can you help me download my trasaction statement?", "split": "calibration", "query_id": "q0797"}
+{"intent_id": "download_statement", "family": "statements", "style": "casual", "text": "how to save my transaction statement from payloom?", "split": "calibration", "query_id": "q0798"}
+{"intent_id": "download_statement", "family": "statements", "style": "minimal_edit", "text": "How far back can I download my transaction statement in the app?", "split": "calibration", "query_id": "q0799"}
+{"intent_id": "download_statement", "family": "statements", "style": "minimal_edit", "text": "How can I get my transaction statement for tax filing?", "split": "calibration", "query_id": "q0800"}
+{"intent_id": "download_statement", "family": "statements", "style": "casual", "text": "can i download my statement here?", "split": "calibration", "query_id": "q0801"}
+{"intent_id": "download_statement", "family": "statements", "style": "casual", "text": "how do i download my transaction statement?", "split": "calibration", "query_id": "q0802"}
+{"intent_id": "download_statement", "family": "statements", "style": "hinglish", "text": "Transaction statement PDF kaise milega PayLoom me?", "split": "calibration", "query_id": "q0803"}
+{"intent_id": "download_statement", "family": "statements", "style": "formal", "text": "How do I get a downloadable statement of my transactions from PayLoom?", "split": "calibration", "query_id": "q0804"}
+{"intent_id": "download_statement", "family": "statements", "style": "formal", "text": "I need to download my account statement for transactions. What is the process in the app?", "split": "calibration", "query_id": "q0805"}
+{"intent_id": "download_statement", "family": "statements", "style": "formal", "text": "I would like to download my payment statement. How can I do that in the app?", "split": "calibration", "query_id": "q0806"}
+{"intent_id": "download_statement", "family": "statements", "style": "formal", "text": "Could you please tell me how to download my transaction statement in PayLoom?", "split": "calibration", "query_id": "q0807"}
+{"intent_id": "download_statement", "family": "statements", "style": "typos", "text": "I need to downlaod my statment from the app", "split": "calibration", "query_id": "q0808"}
+{"intent_id": "download_statement", "family": "statements", "style": "minimal_edit", "text": "How can I get a transaction statement for one payment?", "split": "test", "query_id": "q0809"}
+{"intent_id": "download_statement", "family": "statements", "style": "typos", "text": "How can I dowlond my transaction statement", "split": "test", "query_id": "q0810"}
+{"intent_id": "download_statement", "family": "statements", "style": "casual", "text": "want to get my transaction statement pdf", "split": "test", "query_id": "q0811"}
+{"intent_id": "download_statement", "family": "statements", "style": "hinglish", "text": "Mera payment statement nikalna hai, process kya hai?", "split": "test", "query_id": "q0812"}
+{"intent_id": "download_statement", "family": "statements", "style": "hinglish", "text": "Hi, statement download karne ka option kahan hai?", "split": "test", "query_id": "q0813"}
+{"intent_id": "download_statement", "family": "statements", "style": "hinglish", "text": "App me statement kaise download karte hain?", "split": "test", "query_id": "q0814"}
+{"intent_id": "download_statement", "family": "statements", "style": "typos", "text": "I want to get my statment pdf from PayLoom", "split": "test", "query_id": "q0815"}
+{"intent_id": "download_statement", "family": "statements", "style": "typos", "text": "Where do I find the option to download my transacion statement", "split": "test", "query_id": "q0816"}
+{"intent_id": "download_statement", "family": "statements", "style": "casual", "text": "need to download my payment statement", "split": "test", "query_id": "q0817"}
+{"intent_id": "download_statement", "family": "statements", "style": "formal", "text": "Please guide me on where I can find the option to download my transaction statement.", "split": "test", "query_id": "q0818"}
+{"intent_id": "download_statement", "family": "statements", "style": "casual", "text": "where can i get my statement in the app?", "split": "test", "query_id": "q0819"}
+{"intent_id": "download_statement", "family": "statements", "style": "hinglish", "text": "Mujhe apna transaction statement download karna hai, kaise karun?", "split": "test", "query_id": "q0820"}
+{"intent_id": "share_receipt", "family": "statements", "style": "formal", "text": "I need a receipt for one payment. Where can I find it in PayLoom?", "split": "calibration", "query_id": "q0821"}
+{"intent_id": "share_receipt", "family": "statements", "style": "casual", "text": "how to get pdf receipt for one transaction", "split": "calibration", "query_id": "q0822"}
+{"intent_id": "share_receipt", "family": "statements", "style": "formal", "text": "Hello, how can I get a receipt for one payment from the app?", "split": "calibration", "query_id": "q0823"}
+{"intent_id": "share_receipt", "family": "statements", "style": "casual", "text": "can i share receipt for a single transaction", "split": "calibration", "query_id": "q0824"}
+{"intent_id": "share_receipt", "family": "statements", "style": "casual", "text": "need receipt for one UPI payment", "split": "calibration", "query_id": "q0825"}
+{"intent_id": "share_receipt", "family": "statements", "style": "typos", "text": "i need a receipt for one transaciton can you help", "split": "calibration", "query_id": "q0826"}
+{"intent_id": "share_receipt", "family": "statements", "style": "casual", "text": "where is the receipt option for one payment", "split": "calibration", "query_id": "q0827"}
+{"intent_id": "share_receipt", "family": "statements", "style": "hinglish", "text": "mujhe ek payment ka pdf receipt chahiye kaise milega", "split": "calibration", "query_id": "q0828"}
+{"intent_id": "share_receipt", "family": "statements", "style": "casual", "text": "how do i get a receipt for one payment", "split": "calibration", "query_id": "q0829"}
+{"intent_id": "share_receipt", "family": "statements", "style": "minimal_edit", "text": "How can I get a receipt for one transaction?", "split": "calibration", "query_id": "q0830"}
+{"intent_id": "share_receipt", "family": "statements", "style": "formal", "text": "Could you please tell me how to download a receipt for a single transaction?", "split": "calibration", "query_id": "q0831"}
+{"intent_id": "share_receipt", "family": "statements", "style": "formal", "text": "Please guide me on how to share the receipt for one transaction.", "split": "calibration", "query_id": "q0832"}
+{"intent_id": "share_receipt", "family": "statements", "style": "hinglish", "text": "single payment ka receipt app me kahan se nikalta hai", "split": "test", "query_id": "q0833"}
+{"intent_id": "share_receipt", "family": "statements", "style": "minimal_edit", "text": "How can I get a receipt for one payment from History?", "split": "test", "query_id": "q0834"}
+{"intent_id": "share_receipt", "family": "statements", "style": "formal", "text": "How do I get a PDF or image receipt for a specific payment?", "split": "test", "query_id": "q0835"}
+{"intent_id": "share_receipt", "family": "statements", "style": "typos", "text": "how to get a pdf or image reciept for one transacton", "split": "test", "query_id": "q0836"}
+{"intent_id": "share_receipt", "family": "statements", "style": "hinglish", "text": "ek UPI payment ki receipt kaise download karu", "split": "test", "query_id": "q0837"}
+{"intent_id": "share_receipt", "family": "statements", "style": "casual", "text": "want the receipt for one payment in the app", "split": "test", "query_id": "q0838"}
+{"intent_id": "share_receipt", "family": "statements", "style": "minimal_edit", "text": "How can I get a receipt for one payment in the app?", "split": "test", "query_id": "q0839"}
+{"intent_id": "share_receipt", "family": "statements", "style": "typos", "text": "where do i tap to shre receipt for one payment", "split": "test", "query_id": "q0840"}
+{"intent_id": "share_receipt", "family": "statements", "style": "typos", "text": "how can i get a reciept for one paymet", "split": "test", "query_id": "q0841"}
+{"intent_id": "share_receipt", "family": "statements", "style": "hinglish", "text": "ek payment ka receipt kaise milega", "split": "test", "query_id": "q0842"}
+{"intent_id": "share_receipt", "family": "statements", "style": "hinglish", "text": "history me jaake ek transaction ka receipt share karna hai", "split": "test", "query_id": "q0843"}
+{"intent_id": "share_receipt", "family": "statements", "style": "typos", "text": "need recipt for one payment from history", "split": "test", "query_id": "q0844"}
+{"intent_id": "history_duration", "family": "statements", "style": "hinglish", "text": "main apni payment history kitni purani dekh sakta hoon?", "split": "calibration", "query_id": "q0845"}
+{"intent_id": "history_duration", "family": "statements", "style": "minimal_edit", "text": "How can I get my transaction history for one payment?", "split": "calibration", "query_id": "q0846"}
+{"intent_id": "history_duration", "family": "statements", "style": "typos", "text": "how much old history is avalable here", "split": "calibration", "query_id": "q0847"}
+{"intent_id": "history_duration", "family": "statements", "style": "formal", "text": "I would like to know the period for which transaction history is available in PayLoom.", "split": "calibration", "query_id": "q0848"}
+{"intent_id": "history_duration", "family": "statements", "style": "minimal_edit", "text": "How can I download my transaction history?", "split": "calibration", "query_id": "q0849"}
+{"intent_id": "history_duration", "family": "statements", "style": "casual", "text": "does the app show older transactions too?", "split": "calibration", "query_id": "q0850"}
+{"intent_id": "history_duration", "family": "statements", "style": "typos", "text": "does the app show older transctions too", "split": "calibration", "query_id": "q0851"}
+{"intent_id": "history_duration", "family": "statements", "style": "typos", "text": "how far back can i see my payemnt history in the app", "split": "calibration", "query_id": "q0852"}
+{"intent_id": "history_duration", "family": "statements", "style": "typos", "text": "can i chek old transacton history in payloom", "split": "calibration", "query_id": "q0853"}
+{"intent_id": "history_duration", "family": "statements", "style": "typos", "text": "till when does payment histroy show up", "split": "calibration", "query_id": "q0854"}
+{"intent_id": "history_duration", "family": "statements", "style": "minimal_edit", "text": "How can I see my transaction history?", "split": "calibration", "query_id": "q0855"}
+{"intent_id": "history_duration", "family": "statements", "style": "formal", "text": "Hello, could you please tell me how far back I can view my payment history in the app?", "split": "calibration", "query_id": "q0856"}
+{"intent_id": "history_duration", "family": "statements", "style": "formal", "text": "I want to check up to how long back my payment records are shown in the app.", "split": "test", "query_id": "q0857"}
+{"intent_id": "history_duration", "family": "statements", "style": "formal", "text": "Please confirm how old my past transactions can be and still appear in the app.", "split": "test", "query_id": "q0858"}
+{"intent_id": "history_duration", "family": "statements", "style": "casual", "text": "how far back can i see my payments in the app?", "split": "test", "query_id": "q0859"}
+{"intent_id": "history_duration", "family": "statements", "style": "casual", "text": "till when does payment history show up?", "split": "test", "query_id": "q0860"}
+{"intent_id": "history_duration", "family": "statements", "style": "hinglish", "text": "mere purane payments app me tak kitne time tak available rahenge?", "split": "test", "query_id": "q0861"}
+{"intent_id": "history_duration", "family": "statements", "style": "casual", "text": "can i check old transaction history in payloom?", "split": "test", "query_id": "q0862"}
+{"intent_id": "history_duration", "family": "statements", "style": "formal", "text": "Could you let me know whether older payments are visible in the transaction history?", "split": "test", "query_id": "q0863"}
+{"intent_id": "history_duration", "family": "statements", "style": "casual", "text": "can i see my past upi payments in the app?", "split": "test", "query_id": "q0864"}
+{"intent_id": "history_duration", "family": "statements", "style": "hinglish", "text": "payloom me transaction history kitni back tak milti hai?", "split": "test", "query_id": "q0865"}
+{"intent_id": "history_duration", "family": "statements", "style": "hinglish", "text": "app me purane transactions kitne time tak dikhte hain?", "split": "test", "query_id": "q0866"}
+{"intent_id": "history_duration", "family": "statements", "style": "hinglish", "text": "kya app me old UPI payments bhi show hote hain?", "split": "test", "query_id": "q0867"}
+{"intent_id": "history_duration", "family": "statements", "style": "minimal_edit", "text": "Where can I get my transaction history for tax filing?", "split": "test", "query_id": "q0868"}
+{"intent_id": "history_duration", "family": "statements", "style": "casual", "text": "how much old history is available here?", "split": "test", "query_id": "q0869"}
+{"intent_id": "annual_statement", "family": "statements", "style": "formal", "text": "Please guide me to the annual statement section for tax filing purposes.", "split": "calibration", "query_id": "q0870"}
+{"intent_id": "annual_statement", "family": "statements", "style": "minimal_edit", "text": "How can I download my annual statement for tax filing?", "split": "calibration", "query_id": "q0871"}
+{"intent_id": "annual_statement", "family": "statements", "style": "minimal_edit", "text": "How can I download my annual statement?", "split": "calibration", "query_id": "q0872"}
+{"intent_id": "annual_statement", "family": "statements", "style": "casual", "text": "annual statement kaha milega for tax filing", "split": "calibration", "query_id": "q0873"}
+{"intent_id": "annual_statement", "family": "statements", "style": "minimal_edit", "text": "How far back can I see my annual statement in the app?", "split": "calibration", "query_id": "q0874"}
+{"intent_id": "annual_statement", "family": "statements", "style": "hinglish", "text": "annual statement tax filing ke liye kahan milega", "split": "calibration", "query_id": "q0875"}
+{"intent_id": "annual_statement", "family": "statements", "style": "minimal_edit", "text": "Can I get a receipt for my annual statement?", "split": "calibration", "query_id": "q0876"}
+{"intent_id": "annual_statement", "family": "statements", "style": "hinglish", "text": "mujhe financial year ka annual statement chahiye app me kahan hai", "split": "calibration", "query_id": "q0877"}
+{"intent_id": "annual_statement", "family": "statements", "style": "typos", "text": "Need my annual statment for tax filing where is it", "split": "calibration", "query_id": "q0878"}
+{"intent_id": "annual_statement", "family": "statements", "style": "casual", "text": "need my yearly statement in payloom for taxes", "split": "calibration", "query_id": "q0879"}
+{"intent_id": "annual_statement", "family": "statements", "style": "typos", "text": "Where can i get my anual statement for tax filing", "split": "calibration", "query_id": "q0880"}
+{"intent_id": "annual_statement", "family": "statements", "style": "hinglish", "text": "tax filing ke liye yearly statement kaha se milega", "split": "calibration", "query_id": "q0881"}
+{"intent_id": "annual_statement", "family": "statements", "style": "casual", "text": "how do i find the annual statement in the app", "split": "test", "query_id": "q0882"}
+{"intent_id": "annual_statement", "family": "statements", "style": "typos", "text": "How do i find my annnual statement in the app", "split": "test", "query_id": "q0883"}
+{"intent_id": "annual_statement", "family": "statements", "style": "formal", "text": "Kindly let me know where the annual statement is located in the app.", "split": "test", "query_id": "q0884"}
+{"intent_id": "annual_statement", "family": "statements", "style": "formal", "text": "I need my annual statement for the financial year. Where is it available in PayLoom?", "split": "test", "query_id": "q0885"}
+{"intent_id": "annual_statement", "family": "statements", "style": "casual", "text": "where do i get my annual statement for tax filing", "split": "test", "query_id": "q0886"}
+{"intent_id": "annual_statement", "family": "statements", "style": "casual", "text": "need my financial year annual statement, where is it", "split": "test", "query_id": "q0887"}
+{"intent_id": "annual_statement", "family": "statements", "style": "typos", "text": "Can you tell me where my annual statemnt is", "split": "test", "query_id": "q0888"}
+{"intent_id": "annual_statement", "family": "statements", "style": "hinglish", "text": "annual statement nikalna hai for income tax kaha hoga", "split": "test", "query_id": "q0889"}
+{"intent_id": "annual_statement", "family": "statements", "style": "typos", "text": "I need the annual statment for filing taxes", "split": "test", "query_id": "q0890"}
+{"intent_id": "annual_statement", "family": "statements", "style": "casual", "text": "can you tell me where to see the annual statement", "split": "test", "query_id": "q0891"}
+{"intent_id": "annual_statement", "family": "statements", "style": "hinglish", "text": "payloom me annual statement kaise dekhun tax ke liye", "split": "test", "query_id": "q0892"}
+{"intent_id": "annual_statement", "family": "statements", "style": "formal", "text": "Could you please tell me where I can find my annual statement for tax filing in the app?", "split": "test", "query_id": "q0893"}
+{"intent_id": "annual_statement", "family": "statements", "style": "formal", "text": "How do I access my yearly statement in PayLoom for filing taxes?", "split": "test", "query_id": "q0894"}
+{"intent_id": "referral_reward", "family": "rewards", "style": "typos", "text": "how much do i earn if i refr a friend", "split": "calibration", "query_id": "q0895"}
+{"intent_id": "referral_reward", "family": "rewards", "style": "casual", "text": "hi how much money comes for referral", "split": "calibration", "query_id": "q0896"}
+{"intent_id": "referral_reward", "family": "rewards", "style": "minimal_edit", "text": "How much do I earn if I refer a friend on PayLoom?", "split": "calibration", "query_id": "q0897"}
+{"intent_id": "referral_reward", "family": "rewards", "style": "minimal_edit", "text": "How much do I earn if I refer one friend?", "split": "calibration", "query_id": "q0898"}
+{"intent_id": "referral_reward", "family": "rewards", "style": "casual", "text": "how much do we get for a referral?", "split": "calibration", "query_id": "q0899"}
+{"intent_id": "referral_reward", "family": "rewards", "style": "hinglish", "text": "refer karne pe reward kitna hai PayLoom me", "split": "calibration", "query_id": "q0900"}
+{"intent_id": "referral_reward", "family": "rewards", "style": "casual", "text": "friend ko refer karne par kya milega", "split": "calibration", "query_id": "q0901"}
+{"intent_id": "referral_reward", "family": "rewards", "style": "formal", "text": "I would like to know what I and my friend will receive for a successful referral.", "split": "calibration", "query_id": "q0902"}
+{"intent_id": "referral_reward", "family": "rewards", "style": "formal", "text": "Could you please tell me how much reward I get if I refer a friend to PayLoom?", "split": "calibration", "query_id": "q0903"}
+{"intent_id": "referral_reward", "family": "rewards", "style": "hinglish", "text": "new user first payment kare to referral se kya benefit hota hai", "split": "calibration", "query_id": "q0904"}
+{"intent_id": "referral_reward", "family": "rewards", "style": "casual", "text": "what's the reward for referring a friend", "split": "calibration", "query_id": "q0905"}
+{"intent_id": "referral_reward", "family": "rewards", "style": "casual", "text": "if i refer someone what do we both get?", "split": "calibration", "query_id": "q0906"}
+{"intent_id": "referral_reward", "family": "rewards", "style": "formal", "text": "I want to understand the referral offer and what each of us gets after it is completed.", "split": "test", "query_id": "q0907"}
+{"intent_id": "referral_reward", "family": "rewards", "style": "hinglish", "text": "agar main friend ko refer karu to dono ko kya milega", "split": "test", "query_id": "q0908"}
+{"intent_id": "referral_reward", "family": "rewards", "style": "typos", "text": "i want to know the reffer reward on payloom", "split": "test", "query_id": "q0909"}
+{"intent_id": "referral_reward", "family": "rewards", "style": "typos", "text": "can u confirm the bonus for refering a friend", "split": "test", "query_id": "q0910"}
+{"intent_id": "referral_reward", "family": "rewards", "style": "typos", "text": "what do me and my friend get for a refrral", "split": "test", "query_id": "q0911"}
+{"intent_id": "referral_reward", "family": "rewards", "style": "hinglish", "text": "friend refer karne par hume kitna reward milega", "split": "test", "query_id": "q0912"}
+{"intent_id": "referral_reward", "family": "rewards", "style": "minimal_edit", "text": "How much do I earn when a friend joins through my referral?", "split": "test", "query_id": "q0913"}
+{"intent_id": "referral_reward", "family": "rewards", "style": "typos", "text": "pls tell the referal reward for a new user", "split": "test", "query_id": "q0914"}
+{"intent_id": "referral_reward", "family": "rewards", "style": "hinglish", "text": "mera aur friend ka referral bonus kya hoga", "split": "test", "query_id": "q0915"}
+{"intent_id": "referral_reward", "family": "rewards", "style": "formal", "text": "Can you confirm the reward amount for referring a friend on PayLoom?", "split": "test", "query_id": "q0916"}
+{"intent_id": "referral_reward", "family": "rewards", "style": "casual", "text": "tell me the refer bonus pls", "split": "test", "query_id": "q0917"}
+{"intent_id": "referral_reward", "family": "rewards", "style": "formal", "text": "Please explain the referral benefit for both the referrer and the new user.", "split": "test", "query_id": "q0918"}
+{"intent_id": "referral_limit", "family": "rewards", "style": "hinglish", "text": "kya main unlimited friends refer kar sakta hoon ya limit hai", "split": "calibration", "query_id": "q0919"}
+{"intent_id": "referral_limit", "family": "rewards", "style": "typos", "text": "can i keep refering friends or is there a cap", "split": "calibration", "query_id": "q0920"}
+{"intent_id": "referral_limit", "family": "rewards", "style": "casual", "text": "can i keep referring friends or is there a cap?", "split": "calibration", "query_id": "q0921"}
+{"intent_id": "referral_limit", "family": "rewards", "style": "formal", "text": "I wanted to know if PayLoom allows unlimited friend referrals or if there is a referral limit.", "split": "calibration", "query_id": "q0922"}
+{"intent_id": "referral_limit", "family": "rewards", "style": "casual", "text": "can i refer more than the allowed number of friends?", "split": "calibration", "query_id": "q0923"}
+{"intent_id": "referral_limit", "family": "rewards", "style": "hinglish", "text": "kya friends refer karne ki koi limit hai", "split": "calibration", "query_id": "q0924"}
+{"intent_id": "referral_limit", "family": "rewards", "style": "hinglish", "text": "refer rewards ke liye koi maximum number hai kya", "split": "calibration", "query_id": "q0925"}
+{"intent_id": "referral_limit", "family": "rewards", "style": "casual", "text": "does payloom stop rewards after some referrals?", "split": "calibration", "query_id": "q0926"}
+{"intent_id": "referral_limit", "family": "rewards", "style": "typos", "text": "is there any maxium limit for friend referrs", "split": "calibration", "query_id": "q0927"}
+{"intent_id": "referral_limit", "family": "rewards", "style": "formal", "text": "Is there any maximum number of referrals I can make to earn rewards?", "split": "calibration", "query_id": "q0928"}
+{"intent_id": "referral_limit", "family": "rewards", "style": "hinglish", "text": "friend referral par koi cap hai kya", "split": "calibration", "query_id": "q0929"}
+{"intent_id": "referral_limit", "family": "rewards", "style": "formal", "text": "Kindly confirm if rewards are available only for a limited number of friend referrals.", "split": "calibration", "query_id": "q0930"}
+{"intent_id": "referral_limit", "family": "rewards", "style": "minimal_edit", "text": "How many friends can I refer before the reward stops?", "split": "test", "query_id": "q0931"}
+{"intent_id": "referral_limit", "family": "rewards", "style": "casual", "text": "any max limit for referring friends?", "split": "test", "query_id": "q0932"}
+{"intent_id": "referral_limit", "family": "rewards", "style": "typos", "text": "is there a limt on how many freinds i can refer", "split": "test", "query_id": "q0933"}
+{"intent_id": "referral_limit", "family": "rewards", "style": "typos", "text": "does payloom stop rewards after some referals", "split": "test", "query_id": "q0934"}
+{"intent_id": "referral_limit", "family": "rewards", "style": "typos", "text": "how many frends can i refer for rewards", "split": "test", "query_id": "q0935"}
+{"intent_id": "referral_limit", "family": "rewards", "style": "formal", "text": "Could you please confirm whether there is a cap on the number of friends I can refer?", "split": "test", "query_id": "q0936"}
+{"intent_id": "referral_limit", "family": "rewards", "style": "minimal_edit", "text": "How many friends do I have to refer if I want to earn a reward?", "split": "test", "query_id": "q0937"}
+{"intent_id": "referral_limit", "family": "rewards", "style": "formal", "text": "Please let me know whether I can keep referring friends without any restriction.", "split": "test", "query_id": "q0938"}
+{"intent_id": "referral_limit", "family": "rewards", "style": "hinglish", "text": "main kitne doston ko refer kar sakta hoon", "split": "test", "query_id": "q0939"}
+{"intent_id": "referral_limit", "family": "rewards", "style": "minimal_edit", "text": "Is there a limit on how many friends I can refer for rewards?", "split": "test", "query_id": "q0940"}
+{"intent_id": "referral_limit", "family": "rewards", "style": "casual", "text": "how many friends can i refer for rewards?", "split": "test", "query_id": "q0941"}
+{"intent_id": "referral_limit", "family": "rewards", "style": "casual", "text": "is there a limit on friend referrals?", "split": "test", "query_id": "q0942"}
+{"intent_id": "scratch_card_expiry", "family": "rewards", "style": "formal", "text": "Hello, could you please tell me how long I have to open a scratch card before it expires?", "split": "calibration", "query_id": "q0943"}
+{"intent_id": "scratch_card_expiry", "family": "rewards", "style": "casual", "text": "scratch card kab tak use kar sakte hain", "split": "calibration", "query_id": "q0944"}
+{"intent_id": "scratch_card_expiry", "family": "rewards", "style": "hinglish", "text": "scratch card receive hone ke baad kitne din tak chalta hai", "split": "calibration", "query_id": "q0945"}
+{"intent_id": "scratch_card_expiry", "family": "rewards", "style": "casual", "text": "when does my scratch card expire", "split": "calibration", "query_id": "q0946"}
+{"intent_id": "scratch_card_expiry", "family": "rewards", "style": "typos", "text": "how many days before the scratch card gets invlaid", "split": "calibration", "query_id": "q0947"}
+{"intent_id": "scratch_card_expiry", "family": "rewards", "style": "casual", "text": "how long before a scratch card expires", "split": "calibration", "query_id": "q0948"}
+{"intent_id": "scratch_card_expiry", "family": "rewards", "style": "minimal_edit", "text": "How long do I have to open my scratch card before it expires?", "split": "calibration", "query_id": "q0949"}
+{"intent_id": "scratch_card_expiry", "family": "rewards", "style": "typos", "text": "i want to know when my scratch card will exipre", "split": "calibration", "query_id": "q0950"}
+{"intent_id": "scratch_card_expiry", "family": "rewards", "style": "hinglish", "text": "payloom me scratch card ki validity kitni hoti hai", "split": "calibration", "query_id": "q0951"}
+{"intent_id": "scratch_card_expiry", "family": "rewards", "style": "minimal_edit", "text": "How long do I have to scratch a card before it expires?", "split": "calibration", "query_id": "q0952"}
+{"intent_id": "scratch_card_expiry", "family": "rewards", "style": "typos", "text": "how long do i have to open a scrtach card before it expiries", "split": "calibration", "query_id": "q0953"}
+{"intent_id": "scratch_card_expiry", "family": "rewards", "style": "casual", "text": "how much time do i get for a scratch card", "split": "calibration", "query_id": "q0954"}
+{"intent_id": "scratch_card_expiry", "family": "rewards", "style": "minimal_edit", "text": "How long do I have to use a scratch card before it expires?", "split": "test", "query_id": "q0955"}
+{"intent_id": "scratch_card_expiry", "family": "rewards", "style": "typos", "text": "when does my scratchcard expier", "split": "test", "query_id": "q0956"}
+{"intent_id": "scratch_card_expiry", "family": "rewards", "style": "hinglish", "text": "scratch card kitne time tak valid hota hai", "split": "test", "query_id": "q0957"}
+{"intent_id": "scratch_card_expiry", "family": "rewards", "style": "formal", "text": "I would like to know the validity period of a scratch card after I receive it.", "split": "test", "query_id": "q0958"}
+{"intent_id": "scratch_card_expiry", "family": "rewards", "style": "formal", "text": "Please confirm when a scratch card expires after being issued.", "split": "test", "query_id": "q0959"}
+{"intent_id": "scratch_card_expiry", "family": "rewards", "style": "hinglish", "text": "kya scratch card expire ho jata hai agar main baad me open karu", "split": "test", "query_id": "q0960"}
+{"intent_id": "scratch_card_expiry", "family": "rewards", "style": "casual", "text": "can i open the scratch card later or does it expire", "split": "test", "query_id": "q0961"}
+{"intent_id": "scratch_card_expiry", "family": "rewards", "style": "formal", "text": "I want to check the expiry time for a scratch card on PayLoom.", "split": "test", "query_id": "q0962"}
+{"intent_id": "scratch_card_expiry", "family": "rewards", "style": "casual", "text": "scratch card kitne din valid rehta hai", "split": "test", "query_id": "q0963"}
+{"intent_id": "scratch_card_expiry", "family": "rewards", "style": "hinglish", "text": "mujhe scratch card kab tak open karna chahiye", "split": "test", "query_id": "q0964"}
+{"intent_id": "scratch_card_expiry", "family": "rewards", "style": "formal", "text": "Could you let me know how many days I have to scratch a card before it becomes invalid?", "split": "test", "query_id": "q0965"}
+{"intent_id": "scratch_card_expiry", "family": "rewards", "style": "typos", "text": "can you tell me the validty of a scratch card after i get it", "split": "test", "query_id": "q0966"}
+{"intent_id": "cashback_credit_time", "family": "rewards", "style": "casual", "text": "when will my cashback come in", "split": "calibration", "query_id": "q0967"}
+{"intent_id": "cashback_credit_time", "family": "rewards", "style": "minimal_edit", "text": "How long do I have to open a cashback before it expires?", "split": "calibration", "query_id": "q0968"}
+{"intent_id": "cashback_credit_time", "family": "rewards", "style": "hinglish", "text": "failed ya reversed payment pe bhi cashback milta hai kya", "split": "calibration", "query_id": "q0969"}
+{"intent_id": "cashback_credit_time", "family": "rewards", "style": "typos", "text": "cashback abhi tak nahi aaya kab credit hoga", "split": "calibration", "query_id": "q0970"}
+{"intent_id": "cashback_credit_time", "family": "rewards", "style": "casual", "text": "cashback kab credit hoga", "split": "calibration", "query_id": "q0971"}
+{"intent_id": "cashback_credit_time", "family": "rewards", "style": "typos", "text": "when wlil my cashback be credted to wallet", "split": "calibration", "query_id": "q0972"}
+{"intent_id": "cashback_credit_time", "family": "rewards", "style": "formal", "text": "Can you confirm the timeline for cashback credit after a payment is completed successfully?", "split": "calibration", "query_id": "q0973"}
+{"intent_id": "cashback_credit_time", "family": "rewards", "style": "hinglish", "text": "mera cashback kab credit hoga payment ke baad", "split": "calibration", "query_id": "q0974"}
+{"intent_id": "cashback_credit_time", "family": "rewards", "style": "minimal_edit", "text": "How long do I have to wait for my cashback to be credited?", "split": "calibration", "query_id": "q0975"}
+{"intent_id": "cashback_credit_time", "family": "rewards", "style": "formal", "text": "I want to check when the cashback from my transaction will be credited, and whether it applies to failed payments as well.", "split": "calibration", "query_id": "q0976"}
+{"intent_id": "cashback_credit_time", "family": "rewards", "style": "hinglish", "text": "payment successful tha lekin cashback abhi tak nahi aaya kya ye wallet me credit hoga", "split": "calibration", "query_id": "q0977"}
+{"intent_id": "cashback_credit_time", "family": "rewards", "style": "typos", "text": "i paid succesfully but cashback not showing yet", "split": "calibration", "query_id": "q0978"}
+{"intent_id": "cashback_credit_time", "family": "rewards", "style": "casual", "text": "will cashback be added after failed payment also", "split": "test", "query_id": "q0979"}
+{"intent_id": "cashback_credit_time", "family": "rewards", "style": "hinglish", "text": "maine payment kiya hai cashback kab tak milega", "split": "test", "query_id": "q0980"}
+{"intent_id": "cashback_credit_time", "family": "rewards", "style": "minimal_edit", "text": "How long do I have to open a cashback before it is credited?", "split": "test", "query_id": "q0981"}
+{"intent_id": "cashback_credit_time", "family": "rewards", "style": "casual", "text": "my payment is done but cashback not received yet", "split": "test", "query_id": "q0982"}
+{"intent_id": "cashback_credit_time", "family": "rewards", "style": "minimal_edit", "text": "When will I have to open the cashback from my payment?", "split": "test", "query_id": "q0983"}
+{"intent_id": "cashback_credit_time", "family": "rewards", "style": "formal", "text": "Hello, could you please tell me when the cashback from my payment will be credited to my wallet?", "split": "test", "query_id": "q0984"}
+{"intent_id": "cashback_credit_time", "family": "rewards", "style": "casual", "text": "how long does cashback take to show in wallet", "split": "test", "query_id": "q0985"}
+{"intent_id": "cashback_credit_time", "family": "rewards", "style": "casual", "text": "cashback for my payment still pending", "split": "test", "query_id": "q0986"}
+{"intent_id": "cashback_credit_time", "family": "rewards", "style": "typos", "text": "how much time does cashback take after paymetn", "split": "test", "query_id": "q0987"}
+{"intent_id": "cashback_credit_time", "family": "rewards", "style": "formal", "text": "I would like to know how long it usually takes for cashback to reflect after a successful payment.", "split": "test", "query_id": "q0988"}
+{"intent_id": "cashback_credit_time", "family": "rewards", "style": "hinglish", "text": "cashback kitni der me wallet me aata hai", "split": "test", "query_id": "q0989"}
+{"intent_id": "cashback_credit_time", "family": "rewards", "style": "formal", "text": "Please let me know when I can expect the cashback for my UPI payment to be added to my wallet.", "split": "test", "query_id": "q0990"}
+{"intent_id": "cashback_credit_time", "family": "rewards", "style": "typos", "text": "will cashback come for failed or reversd payments", "split": "test", "query_id": "q0991"}

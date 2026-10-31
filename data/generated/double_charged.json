@@ -1,0 +1,41 @@
+{
+  "intent_id": "double_charged",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "styles": {
+    "formal": [
+      "Hello, I was charged twice for the same order by a merchant. What should I do?",
+      "A merchant has debited my account twice for one order. Please advise on the next step.",
+      "I noticed two charges for the same purchase from a merchant. How should I proceed?",
+      "My card or UPI payment was taken twice for the same merchant order. What action is needed?",
+      "Could you please help me with a duplicate charge for the same order from a merchant?"
+    ],
+    "casual": [
+      "merchant ne same order ke liye do baar charge kar diya, kya karu",
+      "same order par double payment ho gaya, kya karna hai",
+      "ek hi order ke liye 2 baar paise kat gaye",
+      "merchant ne twice charge kiya for same order",
+      "doble charge aa gaya same order pe",
+      "same purchase pe double debit dikh raha hai"
+    ],
+    "typos": [
+      "merchant ne same ordar ke liye do baar charge kar diya kya karu",
+      "same order pe double charg\u0435 ho gaya",
+      "ek hi order ke liye 2 bar paise kat gaye kya kare",
+      "merchant ne twice chage kiya for same order",
+      "duplicate charge aa gaya same oder pe"
+    ],
+    "hinglish": [
+      "merchant ne same order ke liye do baar charge kar diya, ab kya karun",
+      "ek hi order ke liye double payment ho gayi, kya process hai",
+      "same order pe do baar paise cut gaye hain, kya karna chahiye",
+      "merchant ne ek hi bill par twice charge kar diya, help chahiye",
+      "duplicate charge hua hai same order ke liye, kaise dispute raise karu"
+    ],
+    "minimal_edit": [
+      "How long does a duplicate charge for the same order take to get reversed?",
+      "The merchant approved the duplicate charge for my same order long ago but I still have not received it.",
+      "I paid a merchant twice for the same order by mistake in a QR payment.",
+      "A merchant charged me twice for the same order. What do I do?"
+    ]
+  }
+}

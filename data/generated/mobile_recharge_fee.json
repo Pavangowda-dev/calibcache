@@ -1,0 +1,41 @@
+{
+  "intent_id": "mobile_recharge_fee",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "styles": {
+    "formal": [
+      "Hello, could you please confirm whether there is any charge for mobile recharge in the app?",
+      "I would like to know if mobile recharge on PayLoom has any fee.",
+      "Please let me know if recharge transactions in the app are free or if any charge applies.",
+      "Could you confirm whether I need to pay any extra amount while recharging a mobile number through PayLoom?",
+      "I want to understand if there is any platform fee for mobile recharges in the app."
+    ],
+    "casual": [
+      "is there any fee for mobile recharge here",
+      "do i have to pay extra for recharge",
+      "any charge on mobile recharge in the app",
+      "recharge pe koi fee lagti hai kya",
+      "mobile recharge free hai ya charge hai",
+      "app me recharge karne par extra paisa lagta hai kya"
+    ],
+    "typos": [
+      "is ther any charge for moble recharge",
+      "do i need to pay extra for rechage in the app",
+      "any fee on mobile rechrge here",
+      "mobile recharge free hai ya kuch charge lagta hai",
+      "kya recharge karne par extra amt kat ta hai"
+    ],
+    "hinglish": [
+      "mobile recharge pe koi charge lagta hai kya",
+      "app me recharge karne par extra fee hai kya",
+      "kya mobile recharge free hai ya charge dena padta hai",
+      "recharge karne pe platform fee lagti hai kya",
+      "payloom me mobile recharge ke liye koi extra paisa lagega kya"
+    ],
+    "minimal_edit": [
+      "Is there any extra charge for mobile recharge in the app?",
+      "Do I have to pay any fee for mobile recharge in the app?",
+      "Is there any charge for mobile recharge in the app, or is it free?",
+      "Is there a fee for mobile recharge in the app?"
+    ]
+  }
+}

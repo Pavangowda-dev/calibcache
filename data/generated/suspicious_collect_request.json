@@ -1,0 +1,41 @@
+{
+  "intent_id": "suspicious_collect_request",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "styles": {
+    "formal": [
+      "I received a collect request on PayLoom from someone I do not recognise. Should I accept it?",
+      "I am not sure who sent me this collect request. Is it safe to approve it?",
+      "A collect request has come to my account from an unknown person. What should I do?",
+      "Someone I do not know has asked me to approve a collect request. Should I decline it?",
+      "Please advise if I should accept a collect request from an unfamiliar sender."
+    ],
+    "casual": [
+      "got a collect request from someone i dont know should i accept it",
+      "this collect request looks random do i need to approve it",
+      "someone unknown sent me a collect request what should i do",
+      "should i tap accept on a collect request from an unrecognized person",
+      "i got a payment request from a stranger is it safe to accept",
+      "do i need to enter pin for this collect request"
+    ],
+    "typos": [
+      "i recived a collect reqest from someone i dont know should i acceot it",
+      "there is a colect request from an unkown person what should i do",
+      "should i aproove this collect reuqest or decline it",
+      "someon sent me a collect request and it looks suspicous",
+      "do i need to enter my upi pin for this request"
+    ],
+    "hinglish": [
+      "mujhe ek collect request aayi hai jo main pehchanta nahi hoon, accept karu kya",
+      "unknown number se collect request aaya hai, isko approve karna safe hai kya",
+      "kya mujhe is collect request ke liye UPI PIN dalna padega",
+      "kisi unknown person ne collect request bheji hai, decline kar du kya",
+      "hi, ye collect request samajh nahi aa rahi hai, accept karni chahiye kya"
+    ],
+    "minimal_edit": [
+      "I think I got a collect request from an unknown person. How do I report it?",
+      "I lost my phone. How do I stop anyone from sending me collect requests?",
+      "How do I put a fingerprint or PIN lock on a collect request in the app?",
+      "Someone sent me a collect request I do not recognise. How do I accept it?"
+    ]
+  }
+}

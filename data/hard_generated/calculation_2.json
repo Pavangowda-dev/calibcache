@@ -1,0 +1,149 @@
+{
+  "type": "calculation",
+  "batch": 2,
+  "model": "gpt-5.5-2026-04-23",
+  "items": [
+    {
+      "question": "I already sent Rs 45,000 today. Can I now send Rs 55,000 to one person in a single UPI payment?",
+      "topics_used": [
+        "daily_amount_limit",
+        "per_txn_limit"
+      ],
+      "reference_answer": "Your daily remaining limit is Rs 55,000 because Rs 1,00,000 - Rs 45,000 = Rs 55,000. But one transaction can be only up to Rs 50,000, so you cannot send Rs 55,000 in a single payment. Split it within the daily limit."
+    },
+    {
+      "question": "Today I have made 17 successful payments on PayLoom. How many more successful UPI payments can I do before midnight?",
+      "topics_used": [
+        "daily_txn_count_limit"
+      ],
+      "reference_answer": "You can make up to 20 successful transactions per day. 20 - 17 = 3, so you have 3 successful transactions left before midnight."
+    },
+    {
+      "question": "Naya bank account add kiye 10 hours hue hain. I already sent Rs 3,200 today and want to send Rs 2,500 more. Allowed hai kya?",
+      "topics_used": [
+        "new_user_limit"
+      ],
+      "reference_answer": "No. In the first 24 hours after adding a bank account, the limit is Rs 5,000 per day. You have Rs 5,000 - Rs 3,200 = Rs 1,800 left, so Rs 2,500 is above the limit."
+    },
+    {
+      "question": "My basic wallet balance is Rs 7,600. What is the maximum I can add right now without upgrading KYC?",
+      "topics_used": [
+        "wallet_limit"
+      ],
+      "reference_answer": "A basic wallet can hold up to Rs 10,000. Rs 10,000 - Rs 7,600 = Rs 2,400, so you can add up to Rs 2,400."
+    },
+    {
+      "question": "I have full KYC wallet with Rs 1,85,000 balance. Can I add Rs 20,000 more?",
+      "topics_used": [
+        "wallet_limit"
+      ],
+      "reference_answer": "No. A full KYC wallet can hold up to Rs 2,00,000. You can add only Rs 2,00,000 - Rs 1,85,000 = Rs 15,000."
+    },
+    {
+      "question": "If I add Rs 3,500 to wallet using my credit card, kitna fee lagega?",
+      "topics_used": [
+        "wallet_credit_card_fee"
+      ],
+      "reference_answer": "Adding money with a credit card has a 2 percent fee. 2 percent of Rs 3,500 is Rs 70, so the fee is Rs 70."
+    },
+    {
+      "question": "I paid 4 electricity bills from wallet. What total convenience fee will PayLoom charge?",
+      "topics_used": [
+        "bill_payment_fee"
+      ],
+      "reference_answer": "Wallet bill payments add a convenience fee of Rs 3 per bill. 4 x Rs 3 = Rs 12 total fee."
+    },
+    {
+      "question": "I did mobile recharges of Rs 99, Rs 150 and Rs 249. What platform fee total should I expect?",
+      "topics_used": [
+        "mobile_recharge_fee"
+      ],
+      "reference_answer": "Recharges up to Rs 100 are free, so Rs 99 has no fee. The Rs 150 and Rs 249 recharges are above Rs 100, so each has Rs 2 fee. Total fee is Rs 4."
+    },
+    {
+      "question": "I have already got rewards for 8 referrals this calendar month. If 5 more friends complete eligible first payments, how many of those can give me rewards and how much will I earn?",
+      "topics_used": [
+        "referral_limit",
+        "referral_reward"
+      ],
+      "reference_answer": "You can earn rewards for up to 10 referrals per calendar month. 10 - 8 = 2 more referrals can give rewards. You earn 2 x Rs 100 = Rs 200."
+    },
+    {
+      "question": "My friend joined from my referral and made first payment of Rs 90 within 30 days. Do we get Rs 100 each?",
+      "topics_used": [
+        "referral_reward"
+      ],
+      "reference_answer": "No. The first payment must be at least Rs 100. Rs 90 is Rs 10 short, so the referral reward condition is not met."
+    },
+    {
+      "question": "I got a scratch card 12 days ago but forgot to open it. How many days are left before it expires?",
+      "topics_used": [
+        "scratch_card_expiry"
+      ],
+      "reference_answer": "A scratch card expires 15 days after you receive it. 15 - 12 = 3 days are left."
+    },
+    {
+      "question": "Cashback for my payment is not in wallet yet. It has been 36 hours. How much longer can it take as per policy?",
+      "topics_used": [
+        "cashback_credit_time"
+      ],
+      "reference_answer": "Cashback is credited within 48 hours of the payment. 48 - 36 = 12 hours may still be left."
+    },
+    {
+      "question": "I want one transaction statement covering 18 months. Is that possible in one download?",
+      "topics_used": [
+        "download_statement"
+      ],
+      "reference_answer": "No. A statement download can cover up to 12 months. 18 months is 6 months more than the allowed period."
+    },
+    {
+      "question": "I am looking for a payment from 30 months ago in app history. Should it be visible?",
+      "topics_used": [
+        "history_duration"
+      ],
+      "reference_answer": "No. The app shows the last 24 months of transactions. A 30-month-old payment is 6 months older than that limit."
+    },
+    {
+      "question": "Merchant approved my refund 9 working days back and I still did not get it. Am I eligible to raise a dispute now?",
+      "topics_used": [
+        "refund_not_received"
+      ],
+      "reference_answer": "Yes. You should raise a dispute if more than 7 working days have passed since merchant approval. 9 working days is 2 working days over that limit."
+    },
+    {
+      "question": "A merchant charged me twice for the same order, and it has been 2 working days. Should I raise a dispute already?",
+      "topics_used": [
+        "double_charged"
+      ],
+      "reference_answer": "Not yet. A duplicate charge is normally reversed within 3 working days. Since only 2 working days have passed, wait 1 more working day."
+    },
+    {
+      "question": "My UPI payment failed and money was deducted. It has been 4 working days and no reversal. What now?",
+      "topics_used": [
+        "failed_deducted"
+      ],
+      "reference_answer": "A failed payment is reversed automatically within 3 working days. Since 4 working days have passed, raise a dispute in Help > Payments with the transaction ID."
+    },
+    {
+      "question": "Payment pending hai aur amount deduct ho gaya. 26 hours ho gaye. Kya wait karu ya dispute karu?",
+      "topics_used": [
+        "pending_deducted"
+      ],
+      "reference_answer": "A pending payment is completed or reversed within 24 hours. Since 26 hours have passed, it is 2 hours over the limit. Raise a dispute in Help > Payments."
+    },
+    {
+      "question": "I sent money to the wrong person 5 days ago. How many days are left to file the Wrong Transfer complaint within PayLoom policy?",
+      "topics_used": [
+        "wrong_recipient"
+      ],
+      "reference_answer": "You must raise a Wrong Transfer complaint within 7 days. 7 - 5 = 2 days are left. Also contact your bank."
+    },
+    {
+      "question": "It is 12 April and I need the annual statement for tax filing. How many days until PayLoom says it will be available?",
+      "topics_used": [
+        "annual_statement"
+      ],
+      "reference_answer": "The annual statement is available from 15 April. From 12 April to 15 April is 3 days."
+    }
+  ]
+}

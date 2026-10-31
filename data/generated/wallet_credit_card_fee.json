@@ -1,0 +1,41 @@
+{
+  "intent_id": "wallet_credit_card_fee",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "styles": {
+    "formal": [
+      "Hello, could you please confirm whether adding money to the wallet using a credit card has any fee?",
+      "I would like to know if there is any charge when I add wallet balance with a credit card.",
+      "Please let me know whether topping up the wallet through a credit card is free or charged.",
+      "Could you clarify if credit card wallet loading comes with any extra fee in PayLoom?",
+      "I want to check if adding money to my wallet from a bank account and from a credit card are charged differently."
+    ],
+    "casual": [
+      "is there a fee if i add money with a credit card?",
+      "does wallet top up by credit card cost extra?",
+      "credit card se wallet add karne pe charge lagta hai kya",
+      "can i load wallet with card without any fee?",
+      "is adding money from bank free and card charged?",
+      "what fee applies when i put money in wallet using a credit card?"
+    ],
+    "typos": [
+      "is there a feee for adding money with a credit card",
+      "do you charge extra when i add wallet balance by crdit card",
+      "can i top up the wallet from a credit card free of cost",
+      "is there any charg for wallet add using credit card",
+      "does adding money from bank account have any fee and credit card too"
+    ],
+    "hinglish": [
+      "kya credit card se wallet me money add karne par fee lagti hai",
+      "bank account se wallet top up free hai aur credit card par charge hai kya",
+      "credit card se balance add karne ka koi extra charge hai kya",
+      "wallet me paise dalne ke liye credit card use karu to fee lagegi kya",
+      "bank se add karna free hai to credit card se bhi free hota hai kya"
+    ],
+    "minimal_edit": [
+      "Is there any fee for adding money to the wallet with a credit card?",
+      "Do I have to pay any fee for adding money to the wallet with a credit card?",
+      "Is there any extra charge for adding money to the wallet with a credit card?",
+      "Is there a charge for adding money to the wallet with a credit card?"
+    ]
+  }
+}

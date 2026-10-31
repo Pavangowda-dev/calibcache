@@ -1,0 +1,134 @@
+AUDIT: for each item, check the reference answer against the policy.
+Verdict ok      = the reference answer is correct and follows from the policy,
+                  and the question has exactly one right answer.
+Verdict wrong   = the reference answer is wrong or uses facts not in the policy.
+Verdict unclear = the question is vague or has more than one right answer.
+
+h003  [calculation]  topics: bill_payment_fee
+  QUESTION : I paid 5 electricity/water bills from my bank account and 3 bills from wallet. Total PayLoom fee kitna hoga?
+  REFERENCE: Bill payments from bank account are free. Wallet bill payments cost Rs 3 each, so 3 x Rs 3 = Rs 9 total fee.
+
+h019  [calculation]  topics: merchant_refund_time, refund_not_received
+  QUESTION : Merchant approved my refund 6 working days ago. Should I raise a dispute now or wait?
+  REFERENCE: Wait for now. A merchant refund reaches your bank account in 5 to 7 working days, so it is still within the allowed time.
+
+h010  [calculation]  topics: download_statement
+  QUESTION : I want one transaction statement covering 18 months. Is that possible in one download?
+  REFERENCE: No. A statement download can cover up to 12 months. 18 months is 6 months more than the allowed period.
+
+h030  [calculation]  topics: daily_amount_limit
+  QUESTION : I have already sent Rs 35,000 and Rs 40,000 today. Can I send another Rs 25,000 now?
+  REFERENCE: Yes. You have sent Rs 75,000 so far, and Rs 1,00,000 - Rs 75,000 = Rs 25,000 is still available today.
+
+h024  [calculation]  topics: referral_reward
+  QUESTION : My friend joined from my referral and made first payment of Rs 90 within 30 days. Do we get Rs 100 each?
+  REFERENCE: No. The first payment must be at least Rs 100. Rs 90 is Rs 10 short, so the referral reward condition is not met.
+
+h007  [calculation]  topics: scratch_card_expiry
+  QUESTION : I got a scratch card 12 days ago but forgot to open it. How many days are left before it expires?
+  REFERENCE: A scratch card expires 15 days after you receive it. 15 - 12 = 3 days are left.
+
+h037  [calculation]  topics: double_charged
+  QUESTION : A merchant charged me twice, Rs 899 and Rs 899, for the same order. How much should be reversed and when do I complain?
+  REFERENCE: The duplicate extra charge is Rs 899. It is normally reversed within 3 working days; if not reversed after 3 working days, raise a dispute with both transaction IDs.
+
+h032  [calculation]  topics: mobile_recharge_fee
+  QUESTION : I did mobile recharges of Rs 99, Rs 150 and Rs 249. What platform fee total should I expect?
+  REFERENCE: Recharges up to Rs 100 are free, so Rs 99 has no fee. The Rs 150 and Rs 249 recharges are above Rs 100, so each has Rs 2 fee. Total fee is Rs 4.
+
+h079  [multi_issue]  topics: wrong_recipient, per_txn_limit, daily_amount_limit
+  QUESTION : I sent Rs 30,000 to the wrong UPI ID today. Also I need to send Rs 60,000 to the correct person now. What are my options?
+  REFERENCE: For the wrong transfer, raise a Wrong Transfer complaint in Help > Payments within 7 days and contact your bank; PayLoom cannot reverse a completed payment itself. A single transaction can be up to Rs 50,000, so Rs 60,000 cannot be sent in one payment. Since the daily limit is Rs 1,00,000 and Rs 30,000 is already sent, you have Rs 70,000 left today, so split Rs 60,000 into more than one payment.
+
+h042  [multi_issue]  topics: cashback_credit_time, failed_deducted
+  QUESTION : I paid yesterday and expecting cashback, but another payment failed and got reversed. Will cashback come for both and when?
+  REFERENCE: Cashback is credited to your wallet within 48 hours of the payment. Cashback does not apply to failed or reversed payments, so it will not come for the failed payment. If the failed payment money was deducted, it is reversed automatically within 3 working days.
+
+h073  [multi_issue]  topics: change_mobile_number, add_bank_account
+  QUESTION : I changed my phone number and also got a new bank account. How do I get PayLoom working with the new number and add that account?
+  REFERENCE: First update the new number with your bank. Then log in to the app with the new number and verify by SMS to link your accounts again. To add another account, go to Settings > Add bank account, choose your bank and verify by SMS; the number must be registered with that bank account.
+
+h068  [multi_issue]  topics: wallet_limit, wallet_kyc_upgrade, wallet_to_bank
+  QUESTION : I have Rs 9,500 in basic wallet and want to add Rs 1,000 more. Also how do I make it full KYC and then send wallet money back to my bank?
+  REFERENCE: A basic wallet can hold only up to Rs 10,000, so Rs 9,500 + Rs 1,000 would exceed the limit by Rs 500. To upgrade, go to Wallet > Upgrade KYC and complete video verification with Aadhaar and PAN; approval is usually within 24 hours. To send wallet money to your bank, use Wallet > Send to bank; it arrives within 30 minutes with no fee.
+
+h064  [multi_issue]  topics: qr_wrong_amount, bill_payment_fee
+  QUESTION : I paid Rs 1200 on a shop QR but bill was Rs 1000 only. Also is there any extra fee if I pay my electricity bill from wallet?
+  REFERENCE: Ask the merchant to refund the extra Rs 200, because a completed payment cannot be changed. If the merchant does not respond within 7 days, raise a dispute in Help > Payments. Bill payments from the wallet have a convenience fee of Rs 3 per bill.
+
+h077  [multi_issue]  topics: success_not_received, share_receipt
+  QUESTION : The app says my rent payment is successful but my landlord says he did not get it. I also need a receipt PDF for the same payment.
+  REFERENCE: Share the UTR number with your landlord so they can check with their bank. If it is not credited within 2 working days, raise a dispute. For a receipt, open the transaction in History and tap Share receipt to get a PDF or image.
+
+h066  [multi_issue]  topics: wallet_add_money, wallet_credit_card_fee, wallet_to_bank
+  QUESTION : How do I add Rs 5000 to wallet? If I use credit card is there a fee, and later can I send it back to bank free?
+  REFERENCE: Go to Wallet > Add money, enter Rs 5000 and pay from your bank account using your UPI PIN. Adding money with a credit card has a 2 percent fee, while adding from a bank account is free. You can send wallet money to bank from Wallet > Send to bank, and there is no fee.
+
+h052  [multi_issue]  topics: wallet_limit, wallet_kyc_upgrade, wallet_to_bank
+  QUESTION : Wallet me kitna paisa rakh sakta hu? Mine is basic now, and I want full KYC plus move wallet money back to bank.
+  REFERENCE: A basic wallet can hold up to Rs 10,000, and with full KYC it can hold up to Rs 2,00,000. To upgrade, go to Wallet > Upgrade KYC and complete video verification with Aadhaar and PAN; it is usually approved within 24 hours. To move money to bank, go to Wallet > Send to bank; it arrives within 30 minutes and has no fee.
+
+h084  [timeline]  topics: merchant_refund_time, refund_not_received
+  QUESTION : Merchant approved my refund 5 working days ago, but paisa abhi tak account me nahi aaya. Should I raise a dispute?
+  REFERENCE: A merchant refund reaches your bank account in 5 to 7 working days after approval. Since only 5 working days have passed, wait up to 2 more working days. Raise a dispute only if more than 7 working days have passed.
+
+h087  [timeline]  topics: refund_not_received
+  QUESTION : My refund was approved by the merchant 8 working days ago and I still have not received it. What now?
+  REFERENCE: Raise a dispute in Help > Payments with the refund reference number from the merchant. More than 7 working days have passed since approval.
+
+h088  [timeline]  topics: cashback_credit_time
+  QUESTION : Cashback for my successful payment has not come after 36 hours. Is it late?
+  REFERENCE: Not yet. Cashback is credited to your wallet within 48 hours of the payment, and 36 hours is still within that time.
+
+h105  [timeline]  topics: merchant_refund_time
+  QUESTION : Merchant approved my refund 3 working days ago. It is not in my bank yet, is that normal?
+  REFERENCE: Yes, keep waiting. After merchant approval, the refund reaches your bank account in 5 to 7 working days, and only 3 working days have passed.
+
+h090  [timeline]  topics: qr_wrong_amount
+  QUESTION : I paid Rs. 500 extra by QR at a store. The merchant has not replied for 6 days. Can PayLoom reverse it now?
+  REFERENCE: PayLoom cannot change a completed payment. Ask the merchant to refund the extra amount. Since only 6 days have passed, raise a dispute only if the merchant does not respond within 7 days.
+
+h119  [timeline]  topics: pin_blocked
+  QUESTION : I entered wrong UPI PIN 3 times and it was blocked 25 hours ago. Can I use it now?
+  REFERENCE: Yes, the 24 hour block period has passed. You can use it again, or reset it with Forgot UPI PIN if needed.
+
+h091  [timeline]  topics: wrong_recipient
+  QUESTION : Wrong person ko payment exactly 7 days pehle ho gaya tha. Can I still raise Wrong Transfer complaint today?
+  REFERENCE: Yes, raise it now. The policy says to raise a Wrong Transfer complaint within 7 days and contact your bank. PayLoom cannot reverse the completed payment itself.
+
+h113  [timeline]  topics: cashback_credit_time
+  QUESTION : I got a cashback offer on a payment 36 hours ago, but wallet me abhi tak cashback nahi aaya. Should I wait or complain now?
+  REFERENCE: Cashback is credited to your wallet within 48 hours of the payment. Since only 36 hours have passed, wait up to 12 more hours. Cashback does not apply to failed or reversed payments.
+
+h152  [not_covered]  topics: -
+  QUESTION : Is there a dark mode option in PayLoom? I cant find it.
+  REFERENCE: The policy does not cover dark mode or appearance settings. Please use Help > Contact support.
+
+h129  [not_covered]  topics: -
+  QUESTION : Does PayLoom support UPI Lite, and how do I activate it?
+  REFERENCE: The policy does not cover UPI Lite activation or support. Please use Help > Contact support.
+
+h145  [not_covered]  topics: -
+  QUESTION : How do I cancel an autopay mandate for my OTT subscription?
+  REFERENCE: The policy does not cover autopay mandates or subscription cancellations. Please use Help > Contact support.
+
+h153  [not_covered]  topics: -
+  QUESTION : I want to close my PayLoom account permanently, not just remove a bank. What is the process?
+  REFERENCE: The policy does not cover permanent account closure. Please use Help > Contact support for the correct process.
+
+h138  [not_covered]  topics: -
+  QUESTION : PayLoom app ka language Hindi se English me kaise change karu?
+  REFERENCE: The policy does not cover changing the app language. Please go to Help > Contact support for help.
+
+h132  [not_covered]  topics: -
+  QUESTION : Will my mobile operator charge me for the SMS verification when I add a bank account?
+  REFERENCE: Charges from a mobile operator for SMS verification are not covered in the policy. Please use Help > Contact support for confirmation.
+
+h158  [not_covered]  topics: -
+  QUESTION : Mera joint account hai, kya main use PayLoom me link kar sakta hu?
+  REFERENCE: Joint bank account support is not covered in the available policy. Please check with Help > Contact support.
+
+h125  [not_covered]  topics: -
+  QUESTION : Can I change my PayLoom display name shown to other users?
+  REFERENCE: The policy does not cover changing the display name. Please go to Help > Contact support for guidance.
+

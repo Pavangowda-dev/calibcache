@@ -1,0 +1,41 @@
+{
+  "intent_id": "pending_deducted",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "styles": {
+    "formal": [
+      "Hello, my UPI payment is still showing pending even though the amount has been debited. What should I do?",
+      "My payment status in PayLoom shows pending and the money has already been deducted. Could you please advise what I should do next?",
+      "I can see that my transfer is pending, but the amount has been taken from my account. Should I wait or take any action?",
+      "The payment I made is showing pending in the app after money was deducted. Please let me know how to proceed.",
+      "My UPI transaction is pending and the debit has already happened. What is the correct process for this issue?"
+    ],
+    "casual": [
+      "payment pending but money cut gaya, kya karu",
+      "my upi is still pending and amount got deducted",
+      "pending dikh raha hai aur paise kat gaye, now what",
+      "transaction pending hai but debit ho gaya",
+      "money deducted but payment still pending on payloom",
+      "app me pending aa raha hai aur balance se paise chale gaye"
+    ],
+    "typos": [
+      "my payment is peending and money was detucted what should i do",
+      "transaciton pending hai aur paise cut gaye please help",
+      "payment showng pending after amount deduced what now",
+      "mmy upi payment is pending and the money got debited",
+      "pending status aa raha hai aur amount deibited ho gaya"
+    ],
+    "hinglish": [
+      "mera payment pending dikh raha hai aur paise deduct ho gaye, kya karun",
+      "payment pending hai but money debit ho gaya, ab kya karna chahiye",
+      "upi transaction pending aa raha hai aur balance se paise kat gaye",
+      "paise kat gaye lekin payment abhi tak pending hai, please batao kya karna hai",
+      "payment stuck on pending aur amount deduct ho chuka hai, next step kya hai"
+    ],
+    "minimal_edit": [
+      "My payment shows pending and the money was deducted. What should I do?",
+      "My payment shows pending but the money was deducted from my account. What should I do?",
+      "My payment shows pending and the money has been deducted. What should I do?",
+      "My payment is pending and the money was deducted. What should I do?"
+    ]
+  }
+}

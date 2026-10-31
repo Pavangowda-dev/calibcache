@@ -1,0 +1,41 @@
+{
+  "intent_id": "wallet_kyc_upgrade",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "styles": {
+    "formal": [
+      "Could you please guide me on how to upgrade my wallet to full KYC?",
+      "I would like to complete the full KYC upgrade for my wallet. How can I do that?",
+      "Please let me know the steps to upgrade my PayLoom wallet to full KYC.",
+      "How do I finish the full KYC process for my wallet in the app?",
+      "I need help upgrading my wallet to full KYC. What is the process?"
+    ],
+    "casual": [
+      "how do i upgrade my wallet to full kyc",
+      "need help with wallet kyc upgrade",
+      "where do i do full kyc for my wallet",
+      "want to complete kyc for wallet",
+      "how to get full kyc on wallet",
+      "wallet ko full kyc kaise karu"
+    ],
+    "typos": [
+      "How do I upgarde my wallet to full KYC",
+      "I need to complte full KYC for my walet",
+      "How can I finsh the wallet KYC uprade",
+      "pls tell me how to do full kyc on my wallett",
+      "where do i go for wallet kyc upgread"
+    ],
+    "hinglish": [
+      "wallet ka full kyc kaise upgrade karu",
+      "mujhe wallet me full kyc complete karna hai kaise karun",
+      "payloom wallet ka kyc upgrade ka process kya hai",
+      "wallet ko full kyc karne ke liye kya karna padega",
+      "hi wallet full kyc karna hai kaise hoga"
+    ],
+    "minimal_edit": [
+      "How do I move money from my wallet back to full KYC?",
+      "How do I add money to my wallet full KYC?",
+      "How much money can I keep in the wallet after full KYC?",
+      "How do I move money from my wallet to full KYC?"
+    ]
+  }
+}

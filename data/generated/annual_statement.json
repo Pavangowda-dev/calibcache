@@ -1,0 +1,41 @@
+{
+  "intent_id": "annual_statement",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "styles": {
+    "formal": [
+      "Could you please tell me where I can find my annual statement for tax filing in the app?",
+      "I need my annual statement for the financial year. Where is it available in PayLoom?",
+      "Please guide me to the annual statement section for tax filing purposes.",
+      "How do I access my yearly statement in PayLoom for filing taxes?",
+      "Kindly let me know where the annual statement is located in the app."
+    ],
+    "casual": [
+      "where do i get my annual statement for tax filing",
+      "need my yearly statement in payloom for taxes",
+      "how do i find the annual statement in the app",
+      "annual statement kaha milega for tax filing",
+      "can you tell me where to see the annual statement",
+      "need my financial year annual statement, where is it"
+    ],
+    "typos": [
+      "Where can i get my anual statement for tax filing",
+      "Need my annual statment for tax filing where is it",
+      "How do i find my annnual statement in the app",
+      "Can you tell me where my annual statemnt is",
+      "I need the annual statment for filing taxes"
+    ],
+    "hinglish": [
+      "annual statement tax filing ke liye kahan milega",
+      "mujhe financial year ka annual statement chahiye app me kahan hai",
+      "payloom me annual statement kaise dekhun tax ke liye",
+      "tax filing ke liye yearly statement kaha se milega",
+      "annual statement nikalna hai for income tax kaha hoga"
+    ],
+    "minimal_edit": [
+      "How can I download my annual statement?",
+      "Can I get a receipt for my annual statement?",
+      "How far back can I see my annual statement in the app?",
+      "How can I download my annual statement for tax filing?"
+    ]
+  }
+}

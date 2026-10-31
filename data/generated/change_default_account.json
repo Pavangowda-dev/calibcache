@@ -1,0 +1,41 @@
+{
+  "intent_id": "change_default_account",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "styles": {
+    "formal": [
+      "Could you please tell me how to change the default bank account for UPI payments in PayLoom?",
+      "I would like to know how I can set a different bank account as my default account for payments.",
+      "Please guide me on how to switch the default bank account used for transactions in the app.",
+      "How do I make another linked bank account the default one for sending payments?",
+      "Kindly help me change the bank account that PayLoom uses by default for UPI payments."
+    ],
+    "casual": [
+      "how do i change my default bank account for upi payments?",
+      "can i set a different account as default in payloom",
+      "need to switch the default bank account for payments",
+      "which option lets me make one bank account default",
+      "how do i change the account used by default",
+      "want to use another bank account as default how"
+    ],
+    "typos": [
+      "how do i chnage the default bank acount for payments",
+      "can you tell me how to set a different bank accout as default",
+      "i need to switch my bank acount used by defualt for upi",
+      "how can i make another linked acccount the default one",
+      "please help me change the default bank acount in the app"
+    ],
+    "hinglish": [
+      "payloom me default bank account kaise change karu",
+      "dusra bank account default set karna hai kaise karun",
+      "payment ke liye kaunsa account default use hoga wo kaise badlu",
+      "app me default bank account change karne ka option kahan hai",
+      "ek aur account ko default banana hai please batao"
+    ],
+    "minimal_edit": [
+      "How do I add another bank account to the app as default for payments?",
+      "How do I remove a bank account from the app and set another one as default?",
+      "I changed my phone number. How do I update it in the app and change the default bank account?",
+      "How do I change which bank account is used by default for payments in the app?"
+    ]
+  }
+}

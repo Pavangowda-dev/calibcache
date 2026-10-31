@@ -1,0 +1,41 @@
+{
+  "intent_id": "cashback_credit_time",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "styles": {
+    "formal": [
+      "Hello, could you please tell me when the cashback from my payment will be credited to my wallet?",
+      "I would like to know how long it usually takes for cashback to reflect after a successful payment.",
+      "Please let me know when I can expect the cashback for my UPI payment to be added to my wallet.",
+      "Can you confirm the timeline for cashback credit after a payment is completed successfully?",
+      "I want to check when the cashback from my transaction will be credited, and whether it applies to failed payments as well."
+    ],
+    "casual": [
+      "when will my cashback come in",
+      "cashback kab credit hoga",
+      "my payment is done but cashback not received yet",
+      "how long does cashback take to show in wallet",
+      "will cashback be added after failed payment also",
+      "cashback for my payment still pending"
+    ],
+    "typos": [
+      "when wlil my cashback be credted to wallet",
+      "i paid succesfully but cashback not showing yet",
+      "how much time does cashback take after paymetn",
+      "will cashback come for failed or reversd payments",
+      "cashback abhi tak nahi aaya kab credit hoga"
+    ],
+    "hinglish": [
+      "mera cashback kab credit hoga payment ke baad",
+      "payment successful tha lekin cashback abhi tak nahi aaya kya ye wallet me credit hoga",
+      "failed ya reversed payment pe bhi cashback milta hai kya",
+      "cashback kitni der me wallet me aata hai",
+      "maine payment kiya hai cashback kab tak milega"
+    ],
+    "minimal_edit": [
+      "How long do I have to open a cashback before it expires?",
+      "How long do I have to open a cashback before it is credited?",
+      "When will I have to open the cashback from my payment?",
+      "How long do I have to wait for my cashback to be credited?"
+    ]
+  }
+}

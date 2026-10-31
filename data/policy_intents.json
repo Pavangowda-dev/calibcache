@@ -1,0 +1,251 @@
+{
+  "app_name": "PayLoom",
+  "intents": [
+    {
+      "id": "failed_deducted",
+      "family": "payment_issues",
+      "question": "My payment failed but the money was deducted from my account. What should I do?",
+      "answer": "A failed payment is reversed to your bank account automatically within 3 working days. If the money has not come back after 3 working days, raise a dispute in Help > Payments with the transaction ID."
+    },
+    {
+      "id": "pending_deducted",
+      "family": "payment_issues",
+      "question": "My payment shows pending and the money was deducted. What should I do?",
+      "answer": "Do not pay again. A pending payment is either completed or reversed within 24 hours. If it is still pending after 24 hours, raise a dispute in Help > Payments."
+    },
+    {
+      "id": "success_not_received",
+      "family": "payment_issues",
+      "question": "My payment shows successful but the person says they did not receive the money.",
+      "answer": "The money has left your account, so the receiver's bank may be delayed. Share the UTR number with the receiver so they can check with their bank, and raise a dispute if it is not credited within 2 working days."
+    },
+    {
+      "id": "wrong_recipient",
+      "family": "payment_issues",
+      "question": "I sent money to the wrong person by mistake. Can I get it back?",
+      "answer": "We cannot reverse a completed payment ourselves. Raise a Wrong Transfer complaint in Help > Payments within 7 days and contact your bank, and we will ask the receiver's bank to request the money back."
+    },
+    {
+      "id": "declined_not_deducted",
+      "family": "payment_issues",
+      "question": "My payment was declined and no money was deducted. Why?",
+      "answer": "A declined payment means your bank refused it, so no money leaves your account. Check your balance, limit and UPI PIN, and try again. If it keeps failing, contact your bank."
+    },
+    {
+      "id": "daily_amount_limit",
+      "family": "limits",
+      "question": "What is the maximum amount I can send per day?",
+      "answer": "You can send up to Rs. 1,00,000 per day in total across all your bank accounts. The limit resets at midnight."
+    },
+    {
+      "id": "per_txn_limit",
+      "family": "limits",
+      "question": "What is the maximum amount I can send in one single transaction?",
+      "answer": "A single transaction can be up to Rs. 50,000. For larger amounts, split it into more than one payment within your daily limit."
+    },
+    {
+      "id": "daily_txn_count_limit",
+      "family": "limits",
+      "question": "How many transactions can I do in one day?",
+      "answer": "You can make up to 20 successful transactions per day. After that, you can pay again after midnight."
+    },
+    {
+      "id": "new_user_limit",
+      "family": "limits",
+      "question": "Why can I only send a small amount in my first days on the app?",
+      "answer": "New users can send up to Rs. 5,000 per day during the first 24 hours after adding a bank account. After 24 hours the normal daily limit applies."
+    },
+    {
+      "id": "change_pin",
+      "family": "upi_pin",
+      "question": "How do I change my UPI PIN?",
+      "answer": "Go to Settings > Bank accounts, choose the account and tap Change UPI PIN. You must enter your old PIN first."
+    },
+    {
+      "id": "forgot_pin",
+      "family": "upi_pin",
+      "question": "I forgot my UPI PIN. How can I reset it?",
+      "answer": "Tap Forgot UPI PIN, enter the last 6 digits and expiry date of your debit card, then enter the OTP sent by your bank and set a new PIN."
+    },
+    {
+      "id": "pin_blocked",
+      "family": "upi_pin",
+      "question": "My UPI PIN is blocked after wrong attempts. When can I use it again?",
+      "answer": "After 3 wrong PIN attempts the PIN is blocked for 24 hours. You can wait for 24 hours or reset it right away with Forgot UPI PIN."
+    },
+    {
+      "id": "first_time_pin",
+      "family": "upi_pin",
+      "question": "How do I set a UPI PIN for a newly added bank account?",
+      "answer": "After adding the account, tap Set UPI PIN, enter your debit card's last 6 digits and expiry date, enter the bank OTP and create a 4 or 6 digit PIN."
+    },
+    {
+      "id": "add_bank_account",
+      "family": "bank_accounts",
+      "question": "How do I add another bank account to the app?",
+      "answer": "Go to Settings > Add bank account, choose your bank and verify by SMS. The mobile number must be the one registered with that bank account."
+    },
+    {
+      "id": "remove_bank_account",
+      "family": "bank_accounts",
+      "question": "How do I remove a bank account from the app?",
+      "answer": "Go to Settings > Bank accounts, open the account and tap Remove. This only unlinks it from the app and does not close your bank account. Finish any pending payments first."
+    },
+    {
+      "id": "change_default_account",
+      "family": "bank_accounts",
+      "question": "How do I change which bank account is used by default for payments?",
+      "answer": "Go to Settings > Bank accounts, open the account you want and tap Set as default."
+    },
+    {
+      "id": "change_mobile_number",
+      "family": "bank_accounts",
+      "question": "I changed my phone number. How do I update it in the app?",
+      "answer": "First update the new number with your bank. Then log in to the app with the new number and verify by SMS to link your accounts again."
+    },
+    {
+      "id": "merchant_refund_time",
+      "family": "merchant_payments",
+      "question": "How long does a merchant refund take to reach my account?",
+      "answer": "After the merchant approves the refund, it reaches your bank account in 5 to 7 working days."
+    },
+    {
+      "id": "refund_not_received",
+      "family": "merchant_payments",
+      "question": "The merchant approved my refund long ago but I still have not received it.",
+      "answer": "If more than 7 working days have passed since the merchant approved the refund, raise a dispute in Help > Payments with the refund reference number from the merchant."
+    },
+    {
+      "id": "double_charged",
+      "family": "merchant_payments",
+      "question": "A merchant charged me twice for the same order. What do I do?",
+      "answer": "A duplicate charge for the same order is normally reversed automatically within 3 working days. If the extra amount is not reversed after 3 working days, raise a dispute with both transaction IDs."
+    },
+    {
+      "id": "qr_wrong_amount",
+      "family": "merchant_payments",
+      "question": "I paid a merchant more than the bill amount by mistake in a QR payment.",
+      "answer": "Ask the merchant to refund the extra amount, as we cannot change a completed payment. If the merchant does not respond within 7 days, raise a dispute in Help > Payments."
+    },
+    {
+      "id": "report_fraud",
+      "family": "security",
+      "question": "I think I was cheated in a fraud payment. How do I report it?",
+      "answer": "Open Help > Report fraud, which is available 24x7, and share the transaction ID. Also contact your bank immediately so it can try to hold the money."
+    },
+    {
+      "id": "lost_phone",
+      "family": "security",
+      "question": "I lost my phone. How do I stop anyone from using my payment app?",
+      "answer": "From another phone, log in with your number and tap Deregister old device. Also call your bank to block UPI on your account and your SIM provider to block the SIM."
+    },
+    {
+      "id": "suspicious_collect_request",
+      "family": "security",
+      "question": "Someone sent me a collect request I do not recognise. Should I accept it?",
+      "answer": "Decline it. You never need to enter your UPI PIN to receive money, so a request that asks for your PIN is a scam. Report it in Help > Report fraud."
+    },
+    {
+      "id": "app_lock",
+      "family": "security",
+      "question": "How do I put a fingerprint or PIN lock on the app?",
+      "answer": "Go to Settings > Security > App lock and choose fingerprint, face or a screen PIN. The app then asks for it every time you open it."
+    },
+    {
+      "id": "wallet_limit",
+      "family": "wallet",
+      "question": "How much money can I keep in the wallet?",
+      "answer": "A basic wallet can hold up to Rs. 10,000. With full KYC it can hold up to Rs. 2,00,000."
+    },
+    {
+      "id": "wallet_kyc_upgrade",
+      "family": "wallet",
+      "question": "How do I upgrade my wallet to full KYC?",
+      "answer": "Go to Wallet > Upgrade KYC and complete a video verification with your Aadhaar and PAN. It is usually approved within 24 hours."
+    },
+    {
+      "id": "wallet_to_bank",
+      "family": "wallet",
+      "question": "How do I move money from my wallet back to my bank account?",
+      "answer": "Go to Wallet > Send to bank and choose the account. The money arrives within 30 minutes and there is no fee."
+    },
+    {
+      "id": "wallet_add_money",
+      "family": "wallet",
+      "question": "How do I add money to my wallet?",
+      "answer": "Go to Wallet > Add money, enter the amount and pay from your bank account using your UPI PIN."
+    },
+    {
+      "id": "p2p_fee",
+      "family": "fees",
+      "question": "Do I have to pay any fee for sending money to friends?",
+      "answer": "Sending money to friends and family from your bank account is free. PayLoom charges no fee for it."
+    },
+    {
+      "id": "bill_payment_fee",
+      "family": "fees",
+      "question": "Is there any extra charge for paying electricity and other bills?",
+      "answer": "Bill payments from your bank account are free. Paying from the wallet adds a convenience fee of Rs. 3 per bill."
+    },
+    {
+      "id": "mobile_recharge_fee",
+      "family": "fees",
+      "question": "Is there a charge for mobile recharge in the app?",
+      "answer": "Recharges up to Rs. 100 are free. For recharges above Rs. 100 there is a platform fee of Rs. 2."
+    },
+    {
+      "id": "wallet_credit_card_fee",
+      "family": "fees",
+      "question": "Is there any fee for adding money to the wallet with a credit card?",
+      "answer": "Adding money to the wallet with a credit card has a 2 percent fee, while adding money from a bank account is free."
+    },
+    {
+      "id": "download_statement",
+      "family": "statements",
+      "question": "How can I download my transaction statement?",
+      "answer": "Go to Profile > Statements, choose the period (up to 12 months) and tap Download. The PDF is also sent to your registered email."
+    },
+    {
+      "id": "share_receipt",
+      "family": "statements",
+      "question": "How can I get a receipt for one payment?",
+      "answer": "Open the transaction in History and tap Share receipt to get a PDF or image receipt."
+    },
+    {
+      "id": "history_duration",
+      "family": "statements",
+      "question": "How far back can I see my payment history in the app?",
+      "answer": "The app shows your last 24 months of transactions. Older transactions are not shown in the app."
+    },
+    {
+      "id": "annual_statement",
+      "family": "statements",
+      "question": "Where can I get my annual statement for tax filing?",
+      "answer": "The annual statement for the financial year is available under Profile > Statements > Annual from 15 April."
+    },
+    {
+      "id": "referral_reward",
+      "family": "rewards",
+      "question": "How much do I earn if I refer a friend?",
+      "answer": "You and your friend each get Rs. 100 when the friend completes a first payment of at least Rs. 100 within 30 days of joining."
+    },
+    {
+      "id": "referral_limit",
+      "family": "rewards",
+      "question": "Is there a limit on how many friends I can refer?",
+      "answer": "You can earn rewards for up to 10 referrals per calendar month."
+    },
+    {
+      "id": "scratch_card_expiry",
+      "family": "rewards",
+      "question": "How long do I have to open a scratch card before it expires?",
+      "answer": "A scratch card expires 15 days after you receive it, so scratch it before then."
+    },
+    {
+      "id": "cashback_credit_time",
+      "family": "rewards",
+      "question": "When will the cashback from my payment be credited?",
+      "answer": "Cashback is credited to your wallet within 48 hours of the payment. Cashback does not apply to failed or reversed payments."
+    }
+  ]
+}

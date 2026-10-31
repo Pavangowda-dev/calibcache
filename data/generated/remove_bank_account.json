@@ -1,0 +1,41 @@
+{
+  "intent_id": "remove_bank_account",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "styles": {
+    "formal": [
+      "Could you please tell me how to remove a bank account from PayLoom?",
+      "I would like to unlink a bank account from the app. How can I do that?",
+      "Please guide me on removing a bank account from PayLoom.",
+      "How do I delete a bank account from the app without closing my bank account?",
+      "I want to remove one of my linked bank accounts from PayLoom. What should I do?"
+    ],
+    "casual": [
+      "how do i remove a bank account from the app",
+      "need to unlink my bank account from payloom",
+      "can you tell me how to remove a bank account",
+      "i want to remove a linked bank account",
+      "how can i take off my bank account from payloom",
+      "pls help me remove my bank account from the app"
+    ],
+    "typos": [
+      "how do i remvoe a bank acount from the app",
+      "i want to unlik my bank account from payloom",
+      "can you help me delete a bank accoutn from the app",
+      "how do i take off my bank acoount from payloom",
+      "need to remove a linked bank acount from the app"
+    ],
+    "hinglish": [
+      "mera bank account app se remove kaise karu",
+      "payloom se bank account unlink karna hai kaise hoga",
+      "account app se hatana hai help karo",
+      "bank account remove karne ka option kaha hai",
+      "jo bank account laga hai usko app se kaise hataun"
+    ],
+    "minimal_edit": [
+      "How do I remove another bank account from the app?",
+      "How do I change which bank account is used by default for payments?",
+      "How do I remove my bank account from the app?",
+      "How do I remove a bank account from the app?"
+    ]
+  }
+}

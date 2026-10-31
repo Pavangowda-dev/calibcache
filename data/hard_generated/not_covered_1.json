@@ -1,0 +1,107 @@
+{
+  "type": "not_covered",
+  "batch": 1,
+  "model": "gpt-5.5-2026-04-23",
+  "items": [
+    {
+      "question": "Can I use PayLoom UPI while I am travelling in Dubai if my Indian SIM is active?",
+      "topics_used": [],
+      "reference_answer": "The available policy does not cover using PayLoom from abroad. Please go to Help > Contact support for confirmation."
+    },
+    {
+      "question": "Does PayLoom support NRE or NRO bank accounts for UPI payments?",
+      "topics_used": [],
+      "reference_answer": "The policy does not mention NRE or NRO accounts. Please check with Help > Contact support."
+    },
+    {
+      "question": "I run a small shop. How do I create a PayLoom merchant account and get a QR standee?",
+      "topics_used": [],
+      "reference_answer": "Merchant account setup and QR standee requests are not covered in the policy. Please use Help > Contact support."
+    },
+    {
+      "question": "Can someone in the US send dollars to my PayLoom account?",
+      "topics_used": [],
+      "reference_answer": "International money transfers are not covered in the available policy. Please contact support through Help > Contact support."
+    },
+    {
+      "question": "How do I change the email ID linked with my PayLoom profile?",
+      "topics_used": [],
+      "reference_answer": "The policy does not give steps to change the email ID on a profile. Please go to Help > Contact support."
+    },
+    {
+      "question": "Is PayLoom available for iPhone or only Android?",
+      "topics_used": [],
+      "reference_answer": "Device and operating system availability is not covered in the policy. Please ask through Help > Contact support."
+    },
+    {
+      "question": "Can I set an automatic monthly rent payment in PayLoom?",
+      "topics_used": [],
+      "reference_answer": "The policy does not mention scheduled or recurring payments. Please use Help > Contact support for help."
+    },
+    {
+      "question": "Mera joint account hai, kya main use PayLoom me link kar sakta hu?",
+      "topics_used": [],
+      "reference_answer": "Joint bank account support is not covered in the available policy. Please check with Help > Contact support."
+    },
+    {
+      "question": "What happens to my personal data if I delete my PayLoom account permanently?",
+      "topics_used": [],
+      "reference_answer": "Account deletion and personal data handling are not covered in the policy. Please contact support through Help > Contact support."
+    },
+    {
+      "question": "Can I get a GST invoice for the platform fee on my recharge?",
+      "topics_used": [],
+      "reference_answer": "The policy does not mention GST invoices. Please go to Help > Contact support for this request."
+    },
+    {
+      "question": "Can I link my RuPay credit card and pay by UPI from it?",
+      "topics_used": [],
+      "reference_answer": "Credit card linking for UPI payments is not covered in the policy. Please ask Help > Contact support."
+    },
+    {
+      "question": "Will my mobile operator charge me for the SMS verification when I add a bank account?",
+      "topics_used": [],
+      "reference_answer": "Charges from a mobile operator for SMS verification are not covered in the policy. Please use Help > Contact support for confirmation."
+    },
+    {
+      "question": "Does PayLoom work for metro card top up or FASTag recharge?",
+      "topics_used": [],
+      "reference_answer": "The policy does not list supported recharge or service categories like metro card or FASTag. Please check through Help > Contact support."
+    },
+    {
+      "question": "Is PayLoom customer care open on Sundays?",
+      "topics_used": [],
+      "reference_answer": "General customer care hours are not covered in the available policy. Please go to Help > Contact support."
+    },
+    {
+      "question": "Can a 16 year old create a PayLoom account?",
+      "topics_used": [],
+      "reference_answer": "User age eligibility is not covered in the policy. Please contact support through Help > Contact support."
+    },
+    {
+      "question": "My app opened in Kannada by mistake. How do I switch the language to English?",
+      "topics_used": [],
+      "reference_answer": "Language settings are not covered in the policy. Please use Help > Contact support."
+    },
+    {
+      "question": "Can I hide or delete one transaction from my PayLoom history?",
+      "topics_used": [],
+      "reference_answer": "The policy does not cover hiding or deleting individual history entries. Please ask through Help > Contact support."
+    },
+    {
+      "question": "Can I use the same PayLoom account on two phones at the same time?",
+      "topics_used": [],
+      "reference_answer": "Using one account on two phones at the same time is not covered in the policy. Please go to Help > Contact support."
+    },
+    {
+      "question": "Does PayLoom share my KYC documents with merchants when I pay them?",
+      "topics_used": [],
+      "reference_answer": "Sharing KYC information with merchants is not covered in the available policy. Please contact support through Help > Contact support."
+    },
+    {
+      "question": "Do I earn any interest on the money kept in my PayLoom wallet?",
+      "topics_used": [],
+      "reference_answer": "The policy covers wallet limits and transfers, but does not mention interest on wallet balance. Please use Help > Contact support."
+    }
+  ]
+}

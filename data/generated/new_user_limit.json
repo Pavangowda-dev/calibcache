@@ -1,0 +1,41 @@
+{
+  "intent_id": "new_user_limit",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "styles": {
+    "formal": [
+      "Hello, could you please explain why my transfer ability is limited during the first few days after joining PayLoom?",
+      "I have just added my bank account and I am unable to send larger payments yet. Could you clarify why this happens?",
+      "Please let me know if there is a temporary restriction on sending money when a new bank account is added.",
+      "I would like to understand why my payment limit seems lower right after signup. Can you help?",
+      "Could you explain why new users cannot send higher amounts immediately after starting to use the app?"
+    ],
+    "casual": [
+      "why can i only send a small amount right after joining?",
+      "my sending limit is low in the first few days, why?",
+      "cant send bigger payments yet, is this normal?",
+      "why is my money send limit small after adding bank account",
+      "new on the app and transfers are capped, whats the reason?",
+      "i just started using payloom and my send limit is restricted, why"
+    ],
+    "typos": [
+      "why am i only able to send a smal amount in the first days",
+      "i added my bank account but still cant send higer payments why",
+      "is there a temprary limit for new users on payloom",
+      "my transfer limit seems low after signup can you explain",
+      "why is my sendig limit restricted right after joining"
+    ],
+    "hinglish": [
+      "naya account banaya hai aur sirf thoda amount bhej pa raha hu kyun",
+      "bank account add karne ke baad payment limit kam kyun dikh rahi hai",
+      "new user ke liye sending limit pehle kuch din kam hoti hai kya",
+      "mujhe samjhao ki app join karte hi bada amount kyu nahi bhej sakta",
+      "bank add karne ke baad amount bhejne me restriction kyu hai"
+    ],
+    "minimal_edit": [
+      "What is the maximum amount I can send per day during the first few days on the app?",
+      "Why can I only send a small amount in my first days on the app?",
+      "Why can I only send a small amount per day in my first days on the app?",
+      "Why can I only send a small amount in one single transaction in my first days on the app?"
+    ]
+  }
+}

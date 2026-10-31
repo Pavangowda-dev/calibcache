@@ -1,0 +1,41 @@
+{
+  "intent_id": "wallet_to_bank",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "styles": {
+    "formal": [
+      "Hello, could you please tell me how I can transfer money from my PayLoom wallet back to my bank account?",
+      "I would like to move funds from my wallet to my bank account. What is the process in PayLoom?",
+      "Could you guide me on how to send money from my wallet to my linked bank account?",
+      "Please let me know the steps to withdraw my wallet balance to my bank account.",
+      "I want to transfer the money in my wallet to my bank account. How do I do that in the app?"
+    ],
+    "casual": [
+      "how do i send wallet money back to bank",
+      "need to move money from wallet to bank, how",
+      "wallet se bank account me paise kaise bheju",
+      "can i transfer my wallet balance to bank from payloom",
+      "where is the option to send wallet money to bank",
+      "help me move money from wallet to my bank account"
+    ],
+    "typos": [
+      "how do i tranfer money from wallet to bank accout",
+      "need to send walet money back to my bank acount",
+      "where is the send to bank option in payloom",
+      "can u move my wallet balence to my bank",
+      "i want to withdraw wallet money to bank how"
+    ],
+    "hinglish": [
+      "wallet se bank account me paise kaise bheju",
+      "wallet ka balance bank me kaise transfer karun",
+      "payloom wallet se bank account me money send karne ka option kahan hai",
+      "mera wallet balance bank account me kaise nikalein",
+      "wallet se bank me paise bhejne ka process kya hai"
+    ],
+    "minimal_edit": [
+      "How do I move money from my wallet back to my bank account?",
+      "How do I upgrade my wallet to send money back to my bank account?",
+      "How do I add money to my wallet and then send it back to my bank account?",
+      "How much money can I keep in the wallet if I want to send it back to my bank account?"
+    ]
+  }
+}

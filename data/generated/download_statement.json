@@ -1,0 +1,41 @@
+{
+  "intent_id": "download_statement",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "styles": {
+    "formal": [
+      "Could you please tell me how to download my transaction statement in PayLoom?",
+      "I would like to download my payment statement. How can I do that in the app?",
+      "Please guide me on where I can find the option to download my transaction statement.",
+      "How do I get a downloadable statement of my transactions from PayLoom?",
+      "I need to download my account statement for transactions. What is the process in the app?"
+    ],
+    "casual": [
+      "how do i download my transaction statement?",
+      "where can i get my statement in the app?",
+      "need to download my payment statement",
+      "how to save my transaction statement from payloom?",
+      "can i download my statement here?",
+      "want to get my transaction statement pdf"
+    ],
+    "typos": [
+      "How can I dowlond my transaction statement",
+      "I need to downlaod my statment from the app",
+      "Where do I find the option to download my transacion statement",
+      "Can you help me download my trasaction statement?",
+      "I want to get my statment pdf from PayLoom"
+    ],
+    "hinglish": [
+      "Mujhe apna transaction statement download karna hai, kaise karun?",
+      "App me statement kaise download karte hain?",
+      "Mera payment statement nikalna hai, process kya hai?",
+      "Transaction statement PDF kaise milega PayLoom me?",
+      "Hi, statement download karne ka option kahan hai?"
+    ],
+    "minimal_edit": [
+      "How can I download my transaction statement?",
+      "How can I get my transaction statement for tax filing?",
+      "How far back can I download my transaction statement in the app?",
+      "How can I get a transaction statement for one payment?"
+    ]
+  }
+}

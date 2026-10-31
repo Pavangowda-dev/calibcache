@@ -1,0 +1,41 @@
+{
+  "intent_id": "merchant_refund_time",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "styles": {
+    "formal": [
+      "Could you please tell me how long a merchant refund usually takes to reach my bank account?",
+      "I would like to know the usual time it takes for a merchant refund to be credited to my account.",
+      "Please let me know when I can expect a merchant refund to appear in my bank account after approval.",
+      "How many working days does it generally take for a merchant refund to be processed into my account?",
+      "I want to confirm the timeline for a merchant refund to reach my bank account after the merchant approves it."
+    ],
+    "casual": [
+      "how long does a merchant refund take to come back to my account?",
+      "when will the merchant refund reach my bank account?",
+      "any idea how many days a refund from merchant takes?",
+      "merchant refund usually kitne days me aata hai?",
+      "can you tell me the refund timeline from merchant?",
+      "hi, after merchant approves refund, how long till it shows in bank?"
+    ],
+    "typos": [
+      "how long does a merchent refund take to reach my acount",
+      "when will my merchant refund get crediteed to my bank accout",
+      "please tell me how many working days a refund from merchant takes",
+      "how much time does merchant refund need to come in my account",
+      "after merchant approves refund how long does it take to arrive in bank"
+    ],
+    "hinglish": [
+      "merchant refund account me kitne din me aata hai after approval",
+      "refund approve hone ke baad bank account me kitna time lagta hai",
+      "merchant refund kab tak mere bank account me credit hota hai",
+      "approve hone ke baad refund aane me kitne working days lagte hain",
+      "please bataye merchant refund kitne din me account me aa jata hai"
+    ],
+    "minimal_edit": [
+      "How long does a merchant refund take to reach my account?",
+      "How long does a merchant refund take to reach my bank account?",
+      "How long does a merchant refund take to reach my account after approval?",
+      "How long does a merchant refund take to reach my bank account after the merchant approves it?"
+    ]
+  }
+}

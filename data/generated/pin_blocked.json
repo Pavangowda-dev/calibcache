@@ -1,0 +1,41 @@
+{
+  "intent_id": "pin_blocked",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "styles": {
+    "formal": [
+      "Hello, my UPI PIN got blocked after wrong attempts. When will I be able to use it again?",
+      "I entered the wrong UPI PIN a few times and now it is blocked. How long do I need to wait before I can try again?",
+      "My UPI PIN is currently blocked due to failed attempts. Could you please tell me when it will work again?",
+      "After multiple incorrect UPI PIN entries, the PIN has been blocked. What should I do now and when can I use it again?",
+      "My UPI PIN got locked after repeated wrong tries. Is there a waiting period before I can use it again?"
+    ],
+    "casual": [
+      "my upi pin got blocked after wrong tries when can i use it again",
+      "upi pin blocked now how long do i wait",
+      "i entered the pin wrong a few times and it got blocked when will it work",
+      "can i use my upi pin again after it gets blocked",
+      "pin blocked after wrong attempts what to do now",
+      "my upi pin is blocked can i retry today"
+    ],
+    "typos": [
+      "my upi pin got blokced after wrong atempts when can i use it agian",
+      "i enterd the wrong pin few times now its blocked when will it work",
+      "upi pin is blockd after failed tries how long do i wait",
+      "can i use my pin again after it got blokced",
+      "pin blocked after wrong atempts what should i do now"
+    ],
+    "hinglish": [
+      "mera upi pin wrong dalne ke baad block ho gaya hai, kab tak phir se use kar sakta hoon",
+      "3 baar galat pin dala aur ab block ho gaya, ab kab chalega",
+      "upi pin block ho gaya hai, main kitni der wait karun",
+      "galat attempts ke baad pin lock ho gaya hai, ab kya karu",
+      "mera upi pin blocked hai, kya thodi der baad phir use ho jayega"
+    ],
+    "minimal_edit": [
+      "I forgot my UPI PIN. How long do I need to wait before I can use it again?",
+      "How do I change my UPI PIN after it gets blocked?",
+      "How do I set a UPI PIN for a blocked bank account?",
+      "My UPI PIN is blocked after wrong attempts. How can I reset it right away?"
+    ]
+  }
+}

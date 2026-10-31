@@ -1,0 +1,41 @@
+{
+  "intent_id": "report_fraud",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "styles": {
+    "formal": [
+      "I think I have been cheated in a fraud payment. How do I report it in PayLoom?",
+      "Could you please tell me how to report a suspicious fraud payment on PayLoom?",
+      "I believe I sent money in a scam transaction. What should I do to report it?",
+      "How can I raise a fraud report for a UPI payment made through PayLoom?",
+      "Please guide me on reporting a fraudulent transaction and what details I need to share."
+    ],
+    "casual": [
+      "how do i report a fraud payment",
+      "i think i got scammed what do i do",
+      "how can i raise a fraud complaint in the app",
+      "need help reporting a scam payment",
+      "can i report a fake transaction from payloom",
+      "hi how do i report fraud on my payment"
+    ],
+    "typos": [
+      "i think i was cheated in a fruad payment how do i report it",
+      "how do i repot a fraud transaction in payloom",
+      "i got scammed in a payment pls help me report it",
+      "whre do i report fraud in the app",
+      "my upi payment looks like a fraud tranaction how can i report it"
+    ],
+    "hinglish": [
+      "mujhe lagta hai fraud payment ho gaya hai, kaise report karu",
+      "upi transaction me scam ho gaya, report kaise karna hai",
+      "payment fraud hua hai, app me report kahan se karu",
+      "mujhe fraud lag raha hai, transaction report karne ka process kya hai",
+      "kisi ne scam karke paise le liye, kaise complaint karu"
+    ],
+    "minimal_edit": [
+      "I lost my phone. How do I report it as fraud in the app?",
+      "Someone sent me a collect request I do not recognise. Should I report it as fraud?",
+      "How do I put a fingerprint or PIN lock on the app if I think I was cheated in a payment?",
+      "I think I was cheated in a fraud payment. How do I report it and share the transaction ID?"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "intent_id": "history_duration",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "styles": {
+    "formal": [
+      "Hello, could you please tell me how far back I can view my payment history in the app?",
+      "I would like to know the period for which transaction history is available in PayLoom.",
+      "Please confirm how old my past transactions can be and still appear in the app.",
+      "Could you let me know whether older payments are visible in the transaction history?",
+      "I want to check up to how long back my payment records are shown in the app."
+    ],
+    "casual": [
+      "how far back can i see my payments in the app?",
+      "can i check old transaction history in payloom?",
+      "till when does payment history show up?",
+      "how much old history is available here?",
+      "can i see my past upi payments in the app?",
+      "does the app show older transactions too?"
+    ],
+    "typos": [
+      "how far back can i see my payemnt history in the app",
+      "can i chek old transacton history in payloom",
+      "till when does payment histroy show up",
+      "how much old history is avalable here",
+      "does the app show older transctions too"
+    ],
+    "hinglish": [
+      "app me purane transactions kitne time tak dikhte hain?",
+      "main apni payment history kitni purani dekh sakta hoon?",
+      "kya app me old UPI payments bhi show hote hain?",
+      "payloom me transaction history kitni back tak milti hai?",
+      "mere purane payments app me tak kitne time tak available rahenge?"
+    ],
+    "minimal_edit": [
+      "How can I download my transaction history?",
+      "How can I get my transaction history for one payment?",
+      "Where can I get my transaction history for tax filing?",
+      "How can I see my transaction history?"
+    ]
+  }
+}

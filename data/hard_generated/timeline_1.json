@@ -1,0 +1,147 @@
+{
+  "type": "timeline",
+  "batch": 1,
+  "model": "gpt-5.5-2026-04-23",
+  "items": [
+    {
+      "question": "My UPI payment failed but the amount got debited. It has been 2 working days. Should I raise a dispute now?",
+      "topics_used": [
+        "failed_deducted"
+      ],
+      "reference_answer": "Not yet. Failed payments are reversed automatically within 3 working days, and only 2 working days have passed."
+    },
+    {
+      "question": "Payment failed and money was cut from my account 4 working days ago. Refund abhi tak nahi aaya, what to do?",
+      "topics_used": [
+        "failed_deducted"
+      ],
+      "reference_answer": "Raise a dispute in Help > Payments with the transaction ID. The policy says failed payments should reverse within 3 working days, and 4 working days is beyond that."
+    },
+    {
+      "question": "Mera payment pending hai aur paisa deduct ho gaya, 9 hours ho chuke hain. Should I pay again?",
+      "topics_used": [
+        "pending_deducted"
+      ],
+      "reference_answer": "Do not pay again. A pending payment is completed or reversed within 24 hours, and 9 hours is still inside that window."
+    },
+    {
+      "question": "My payment is still pending after 26 hours and the amount was debited. What is the next step?",
+      "topics_used": [
+        "pending_deducted"
+      ],
+      "reference_answer": "Raise a dispute in Help > Payments. The pending payment window is 24 hours, and 26 hours has already passed."
+    },
+    {
+      "question": "Transaction shows successful but my friend says he did not get the money. It has been 1 working day. What should I tell him?",
+      "topics_used": [
+        "success_not_received"
+      ],
+      "reference_answer": "Share the UTR number with the receiver so they can check with their bank. Since only 1 working day has passed, wait until 2 working days before raising a dispute."
+    },
+    {
+      "question": "Successful payment, receiver still says not credited after 3 working days. What should I do now?",
+      "topics_used": [
+        "success_not_received"
+      ],
+      "reference_answer": "Raise a dispute now. The policy says to raise a dispute if it is not credited within 2 working days, and 3 working days is beyond that."
+    },
+    {
+      "question": "I sent money to the wrong UPI ID by mistake 5 days ago. Can PayLoom get it back?",
+      "topics_used": [
+        "wrong_recipient"
+      ],
+      "reference_answer": "PayLoom cannot reverse a completed payment itself. Since 5 days is within 7 days, raise a Wrong Transfer complaint in Help > Payments and contact your bank."
+    },
+    {
+      "question": "I paid the wrong person 8 days back. Can I still use the wrong transfer option?",
+      "topics_used": [
+        "wrong_recipient"
+      ],
+      "reference_answer": "The policy says to raise a Wrong Transfer complaint within 7 days and contact your bank. Since 8 days have passed, it is beyond the stated PayLoom complaint window."
+    },
+    {
+      "question": "Merchant approved my refund 3 working days ago. It is not in my bank yet, is that normal?",
+      "topics_used": [
+        "merchant_refund_time"
+      ],
+      "reference_answer": "Yes, keep waiting. After merchant approval, the refund reaches your bank account in 5 to 7 working days, and only 3 working days have passed."
+    },
+    {
+      "question": "My refund was approved by the merchant 8 working days ago and I still have not received it. What now?",
+      "topics_used": [
+        "refund_not_received"
+      ],
+      "reference_answer": "Raise a dispute in Help > Payments with the refund reference number from the merchant. More than 7 working days have passed since approval."
+    },
+    {
+      "question": "I got charged twice for the same order yesterday, so 1 working day ago. Should I dispute now?",
+      "topics_used": [
+        "double_charged"
+      ],
+      "reference_answer": "Wait for now. A duplicate charge for the same order is normally reversed automatically within 3 working days, and only 1 working day has passed."
+    },
+    {
+      "question": "Same merchant order got charged twice and the extra amount is not back after 4 working days. Please help.",
+      "topics_used": [
+        "double_charged"
+      ],
+      "reference_answer": "Raise a dispute with both transaction IDs. Duplicate charges are normally reversed within 3 working days, and 4 working days is beyond that."
+    },
+    {
+      "question": "I paid a shopkeeper extra by QR and asked him to refund. He has not replied for 6 days. Can I raise dispute?",
+      "topics_used": [
+        "qr_wrong_amount"
+      ],
+      "reference_answer": "Ask the merchant to refund the extra amount and wait a little longer. The policy says to raise a dispute if the merchant does not respond within 7 days, and only 6 days have passed."
+    },
+    {
+      "question": "QR payment me bill se zyada pay ho gaya. Merchant 8 days se reply nahi kar raha. What should I do?",
+      "topics_used": [
+        "qr_wrong_amount"
+      ],
+      "reference_answer": "Raise a dispute in Help > Payments. The merchant has not responded within 7 days, and 8 days have passed."
+    },
+    {
+      "question": "My UPI PIN got blocked after wrong attempts 6 hours ago. When can I try again?",
+      "topics_used": [
+        "pin_blocked"
+      ],
+      "reference_answer": "After 3 wrong attempts, the PIN is blocked for 24 hours. Since 6 hours have passed, you can wait 18 more hours or reset it right away with Forgot UPI PIN."
+    },
+    {
+      "question": "I entered wrong UPI PIN 3 times and it was blocked 25 hours ago. Can I use it now?",
+      "topics_used": [
+        "pin_blocked"
+      ],
+      "reference_answer": "Yes, the 24 hour block period has passed. You can use it again, or reset it with Forgot UPI PIN if needed."
+    },
+    {
+      "question": "I added my bank account 20 hours ago and PayLoom lets me send only small amount. Why?",
+      "topics_used": [
+        "new_user_limit"
+      ],
+      "reference_answer": "New users can send up to Rs 5,000 per day during the first 24 hours after adding a bank account. Since only 20 hours have passed, the first-day limit still applies."
+    },
+    {
+      "question": "I added a new bank account 30 hours ago. Is the Rs 5,000 new user cap still supposed to apply?",
+      "topics_used": [
+        "new_user_limit"
+      ],
+      "reference_answer": "No. The Rs 5,000 new user limit applies only for the first 24 hours after adding a bank account, and 30 hours have passed."
+    },
+    {
+      "question": "I used Wallet > Send to bank 20 minutes ago. Money has not reached bank yet. Should I worry?",
+      "topics_used": [
+        "wallet_to_bank"
+      ],
+      "reference_answer": "Wait for now. Wallet to bank transfers arrive within 30 minutes, and only 20 minutes have passed."
+    },
+    {
+      "question": "Cashback for my successful payment has not come after 36 hours. Is it late?",
+      "topics_used": [
+        "cashback_credit_time"
+      ],
+      "reference_answer": "Not yet. Cashback is credited to your wallet within 48 hours of the payment, and 36 hours is still within that time."
+    }
+  ]
+}

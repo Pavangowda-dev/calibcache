@@ -1,0 +1,41 @@
+{
+  "intent_id": "bill_payment_fee",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "styles": {
+    "formal": [
+      "Hello, could you please confirm whether there is any extra charge for paying electricity and other bills on PayLoom?",
+      "I would like to know if bill payments through PayLoom have any additional fees when I pay from my bank account or wallet.",
+      "Please let me know whether there are any charges for making utility bill payments in the app.",
+      "Could you clarify if paying electricity and other bills on PayLoom is free or if any convenience fee applies?",
+      "I want to understand if there is any fee for paying my bills through PayLoom."
+    ],
+    "casual": [
+      "is bill payment on payloom free?",
+      "any extra charge for electricity bill payment?",
+      "do i pay a fee when i pay bills in the app?",
+      "bill pay me koi charge lagta hai kya",
+      "wallet se bill pay karne pe fee hai?",
+      "bank account se bill bharne pe charge hota hai?"
+    ],
+    "typos": [
+      "is there any extra chage for payng electricity bills",
+      "do bill payments in payloom have any aditional fee",
+      "can you tell me if there is a convienience fee for bill payemnts",
+      "is paying utility bills from the app free or are there charges",
+      "does the wallet add any fee when i pay a bill"
+    ],
+    "hinglish": [
+      "kya electricity aur other bills pay karne pe koi extra charge hai",
+      "bank account se bill pay karne par fee lagti hai kya",
+      "wallet se bill payment karu to convenience charge hai kya",
+      "app me utility bill bharne ka koi charge hota hai kya",
+      "payloom se bill pay karne pe extra paisa lagega kya"
+    ],
+    "minimal_edit": [
+      "Is there a charge for electricity and other bill payments in the app?",
+      "Is there any fee for electricity and other bill payments in the app?",
+      "Do I have to pay any fee for electricity and other bill payments?",
+      "Is there any fee for electricity and other bill payments?"
+    ]
+  }
+}

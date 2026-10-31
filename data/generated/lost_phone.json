@@ -1,0 +1,41 @@
+{
+  "intent_id": "lost_phone",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "styles": {
+    "formal": [
+      "Hello, I have lost my phone. How can I stop anyone from using my PayLoom account?",
+      "My phone is missing. Please tell me how to disable PayLoom on the old device.",
+      "I lost my handset and want to make sure no one can use my UPI app. What should I do?",
+      "Could you guide me on how to remove PayLoom access from my lost phone?",
+      "I need to secure my PayLoom account because my phone was lost. What steps should I take?"
+    ],
+    "casual": [
+      "lost my phone how do i stop payloom on it",
+      "how do i deregister the old device from another phone",
+      "my phone is gone what do i do to block payloom",
+      "can i log in from another phone and remove the old one",
+      "need to stop payloom use after phone loss",
+      "old phone lost how to disable my upi app"
+    ],
+    "typos": [
+      "I losst my phone how do I stop any1 from using PayLoom",
+      "How do I deregister my old devcie after losing my phone",
+      "My phone is missng what should I do to block payloom",
+      "Can I login from another phn and remove the old device",
+      "Please tell me how to secore my upi app after phone loss"
+    ],
+    "hinglish": [
+      "mera phone lost ho gaya hai, PayLoom ko kaise stop karu",
+      "dusre phone se login karke old device deregister kaise karu",
+      "phone kho gaya hai, ab koi mera UPI app use na kare to kya karna hoga",
+      "mere phone ke bina PayLoom access kaise band karun",
+      "phone chala gaya hai, bank aur SIM provider ko bhi block karna hoga kya"
+    ],
+    "minimal_edit": [
+      "Someone sent me a collect request I do not recognise. How do I stop anyone from using my payment app?",
+      "I think I was cheated in a fraud payment. How do I stop anyone from using my payment app?",
+      "Someone sent me a collect request I do not recognise. Should I accept it, or how do I stop anyone from using my payment app?",
+      "I think I was cheated in a fraud payment. Should I accept it, or how do I stop anyone from using my payment app?"
+    ]
+  }
+}

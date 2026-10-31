@@ -1,0 +1,41 @@
+{
+  "intent_id": "add_bank_account",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "styles": {
+    "formal": [
+      "Could you please tell me how to add another bank account to the app?",
+      "I would like to link a second bank account in PayLoom. How can I do that?",
+      "Please guide me on adding a new bank account to my PayLoom account.",
+      "How can I add an additional bank account in the app?",
+      "I want to connect another bank account to PayLoom. What is the process?"
+    ],
+    "casual": [
+      "how do i add another bank account",
+      "can i link one more bank account in the app",
+      "need help adding a second bank account",
+      "how to add a new bank account here",
+      "want to connect another account to payloom",
+      "where do i add another bank account"
+    ],
+    "typos": [
+      "how do i ad another bank acount",
+      "can you help me link anothr bank account",
+      "i need to add a new bank accout in the app",
+      "how can i add another bank accountt",
+      "pls tell me how to add a secnd bank account"
+    ],
+    "hinglish": [
+      "mujhe ek aur bank account add karna hai, kaise karun",
+      "app me dusra bank account kaise link karte hain",
+      "naya bank account add karna hai, process kya hai",
+      "ek aur account jodna hai PayLoom me kaise hoga",
+      "bank account add karne ka option kahan hai"
+    ],
+    "minimal_edit": [
+      "How do I add another bank account to the app?",
+      "How do I remove a bank account from the app and add another one?",
+      "How do I change which bank account is used by default for payments and add another account?",
+      "I changed my phone number. How do I update it in the app and add another bank account?"
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "type": "multi_issue",
+  "batch": 1,
+  "model": "gpt-5.5-2026-04-23",
+  "items": [
+    {
+      "question": "My UPI payment failed but Rs 2400 got debited 4 working days ago. Also I forgot my UPI PIN, how do I reset it?",
+      "topics_used": [
+        "failed_deducted",
+        "forgot_pin"
+      ],
+      "reference_answer": "A failed payment is reversed automatically within 3 working days, so after 4 working days you should raise a dispute in Help > Payments with the transaction ID. To reset your UPI PIN, tap Forgot UPI PIN, enter the last 6 digits and expiry date of your debit card, enter the bank OTP, and set a new PIN."
+    },
+    {
+      "question": "Payment pending hai aur paisa cut ho gaya 2 hours pehle. Should I pay again, and can I send Rs 80000 in one shot if I need to retry later?",
+      "topics_used": [
+        "pending_deducted",
+        "per_txn_limit"
+      ],
+      "reference_answer": "Do not pay again while it is pending. A pending payment is completed or reversed within 24 hours; if it is still pending after 24 hours, raise a dispute in Help > Payments. One transaction can be up to Rs 50,000, so Rs 80,000 must be split into more than one payment within your daily limit."
+    },
+    {
+      "question": "The app says my rent payment is successful but my landlord says he did not get it. I also need a receipt PDF for the same payment.",
+      "topics_used": [
+        "success_not_received",
+        "share_receipt"
+      ],
+      "reference_answer": "Share the UTR number with your landlord so they can check with their bank. If it is not credited within 2 working days, raise a dispute. For a receipt, open the transaction in History and tap Share receipt to get a PDF or image."
+    },
+    {
+      "question": "I sent money to the wrong UPI ID yesterday, and now that person sent me a collect request asking for PIN to return it. What should I do?",
+      "topics_used": [
+        "wrong_recipient",
+        "suspicious_collect_request"
+      ],
+      "reference_answer": "Decline the collect request; you never need to enter your UPI PIN to receive money, and such a request is a scam. For the wrong transfer, raise a Wrong Transfer complaint in Help > Payments within 7 days and contact your bank. PayLoom will ask the receiver's bank to request the money back."
+    },
+    {
+      "question": "My payment got declined but balance was not deducted. I am also a new user and can send only small amount, why?",
+      "topics_used": [
+        "declined_not_deducted",
+        "new_user_limit"
+      ],
+      "reference_answer": "A declined payment means your bank refused it, so no money leaves your account. Check your balance, limit and UPI PIN, and try again; if it keeps failing, contact your bank. New users can send up to Rs 5,000 per day during the first 24 hours after adding a bank account."
+    },
+    {
+      "question": "Amazon charged me twice for the same order, and they also approved a separate refund 8 working days ago but I still dont see it. What now?",
+      "topics_used": [
+        "double_charged",
+        "refund_not_received"
+      ],
+      "reference_answer": "A duplicate charge for the same order is normally reversed automatically within 3 working days. If the extra amount is not reversed after 3 working days, raise a dispute with both transaction IDs. Since more than 7 working days have passed after the merchant approved the refund, raise a dispute with the refund reference number from the merchant."
+    },
+    {
+      "question": "I paid Rs 1200 on a shop QR but bill was Rs 1000 only. Also is there any extra fee if I pay my electricity bill from wallet?",
+      "topics_used": [
+        "qr_wrong_amount",
+        "bill_payment_fee"
+      ],
+      "reference_answer": "Ask the merchant to refund the extra Rs 200, because a completed payment cannot be changed. If the merchant does not respond within 7 days, raise a dispute in Help > Payments. Bill payments from the wallet have a convenience fee of Rs 3 per bill."
+    },
+    {
+      "question": "I lost my phone last night. I had not enabled fingerprint lock in PayLoom; how can I stop app use and how do I enable lock on my new phone?",
+      "topics_used": [
+        "lost_phone",
+        "app_lock"
+      ],
+      "reference_answer": "From another phone, log in with your number and tap Deregister old device. Also call your bank to block UPI on your account and your SIM provider to block the SIM. On the new phone, go to Settings > Security > App lock and choose fingerprint, face or a screen PIN."
+    },
+    {
+      "question": "I added a second bank account but I want it as default, and I also need to set UPI PIN for it first time. Steps?",
+      "topics_used": [
+        "change_default_account",
+        "first_time_pin"
+      ],
+      "reference_answer": "To set the new account as default, go to Settings > Bank accounts, open that account and tap Set as default. To set its UPI PIN, tap Set UPI PIN, enter your debit card's last 6 digits and expiry date, enter the bank OTP, and create a 4 or 6 digit PIN."
+    },
+    {
+      "question": "My mobile number changed. Can I just update it in PayLoom, and how do I remove my old bank account from the app?",
+      "topics_used": [
+        "change_mobile_number",
+        "remove_bank_account"
+      ],
+      "reference_answer": "First update the new number with your bank. Then log in to PayLoom with the new number and verify by SMS to link your accounts again. To remove a bank account, go to Settings > Bank accounts, open the account and tap Remove; finish any pending payments first."
+    },
+    {
+      "question": "Wallet me kitna paisa rakh sakta hu? Mine is basic now, and I want full KYC plus move wallet money back to bank.",
+      "topics_used": [
+        "wallet_limit",
+        "wallet_kyc_upgrade",
+        "wallet_to_bank"
+      ],
+      "reference_answer": "A basic wallet can hold up to Rs 10,000, and with full KYC it can hold up to Rs 2,00,000. To upgrade, go to Wallet > Upgrade KYC and complete video verification with Aadhaar and PAN; it is usually approved within 24 hours. To move money to bank, go to Wallet > Send to bank; it arrives within 30 minutes and has no fee."
+    },
+    {
+      "question": "How do I add Rs 5000 to wallet? If I use credit card is there a fee, and later can I send it back to bank free?",
+      "topics_used": [
+        "wallet_add_money",
+        "wallet_credit_card_fee",
+        "wallet_to_bank"
+      ],
+      "reference_answer": "Go to Wallet > Add money, enter Rs 5000 and pay from your bank account using your UPI PIN. Adding money with a credit card has a 2 percent fee, while adding from a bank account is free. You can send wallet money to bank from Wallet > Send to bank, and there is no fee."
+    },
+    {
+      "question": "Are PayLoom transfers to friends free? Also tell me charges for a Rs 150 mobile recharge and paying gas bill from wallet.",
+      "topics_used": [
+        "p2p_fee",
+        "mobile_recharge_fee",
+        "bill_payment_fee"
+      ],
+      "reference_answer": "Sending money to friends and family from your bank account is free. A Rs 150 mobile recharge is above Rs 100, so the platform fee is Rs 2. Paying a bill from the wallet adds a convenience fee of Rs 3 per bill."
+    },
+    {
+      "question": "I need my transaction statement for last 10 months and also annual statement for tax filing. How far back can I see history?",
+      "topics_used": [
+        "download_statement",
+        "annual_statement",
+        "history_duration"
+      ],
+      "reference_answer": "For the last 10 months, go to Profile > Statements, choose the period and tap Download; the PDF is also sent to your registered email. The annual statement is under Profile > Statements > Annual from 15 April. The app shows the last 24 months of transactions."
+    },
+    {
+      "question": "I referred 12 friends this month. How many rewards can I get, what is the reward amount, and my scratch card came 10 days ago when will it expire?",
+      "topics_used": [
+        "referral_reward",
+        "referral_limit",
+        "scratch_card_expiry"
+      ],
+      "reference_answer": "You can earn rewards for up to 10 referrals per calendar month, so only 10 of the 12 can qualify this month. For each qualifying referral, you and your friend get Rs 100 when the friend completes a first payment of at least Rs 100 within 30 days of joining. A scratch card expires 15 days after you receive it, so one received 10 days ago has 5 days left."
+    },
+    {
+      "question": "I paid yesterday and expecting cashback, but another payment failed and got reversed. Will cashback come for both and when?",
+      "topics_used": [
+        "cashback_credit_time",
+        "failed_deducted"
+      ],
+      "reference_answer": "Cashback is credited to your wallet within 48 hours of the payment. Cashback does not apply to failed or reversed payments, so it will not come for the failed payment. If the failed payment money was deducted, it is reversed automatically within 3 working days."
+    },
+    {
+      "question": "I entered wrong UPI PIN 3 times and now it says blocked. Can I change the PIN or reset it immediately?",
+      "topics_used": [
+        "pin_blocked",
+        "forgot_pin",
+        "change_pin"
+      ],
+      "reference_answer": "After 3 wrong PIN attempts, the PIN is blocked for 24 hours. You can wait 24 hours or reset it right away with Forgot UPI PIN using your debit card details and bank OTP. Change UPI PIN requires entering your old PIN first."
+    },
+    {
+      "question": "What is the max I can pay today: I need to send Rs 1,20,000 in 3 payments and I already did 19 successful payments today.",
+      "topics_used": [
+        "daily_amount_limit",
+        "per_txn_limit",
+        "daily_txn_count_limit"
+      ],
+      "reference_answer": "You can send up to Rs 1,00,000 per day in total, so Rs 1,20,000 is above the daily limit. A single transaction can be up to Rs 50,000, so larger amounts must be split. You can make up to 20 successful transactions per day, and after 19 you have only 1 successful transaction left today."
+    },
+    {
+      "question": "Merchant approved my refund today. How long will it take, and if it still doesnt come what reference should I use for dispute?",
+      "topics_used": [
+        "merchant_refund_time",
+        "refund_not_received"
+      ],
+      "reference_answer": "After the merchant approves the refund, it reaches your bank account in 5 to 7 working days. If more than 7 working days pass and you still have not received it, raise a dispute in Help > Payments with the refund reference number from the merchant."
+    },
+    {
+      "question": "I think I got cheated in a payment and I also lost the phone used for PayLoom. Where to report fraud and how to stop access?",
+      "topics_used": [
+        "report_fraud",
+        "lost_phone"
+      ],
+      "reference_answer": "Open Help > Report fraud, available 24x7, and share the transaction ID. Also contact your bank immediately so it can try to hold the money. From another phone, log in with your number and tap Deregister old device, and call your bank to block UPI and your SIM provider to block the SIM."
+    }
+  ]
+}

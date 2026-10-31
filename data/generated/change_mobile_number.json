@@ -1,0 +1,41 @@
+{
+  "intent_id": "change_mobile_number",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "styles": {
+    "formal": [
+      "I have changed my mobile number. Could you please guide me on how to update it in PayLoom?",
+      "I recently got a new phone number. How should I update my account in the app?",
+      "Please tell me the steps to change my registered number after switching to a new SIM.",
+      "My bank has my new mobile number now. How do I log in again and link my accounts in PayLoom?",
+      "I have updated my number with the bank. What should I do in the app to verify it and continue using my account?"
+    ],
+    "casual": [
+      "changed my number how do i update it in payloom",
+      "new phone number now what do i do in the app",
+      "how do i switch my payloom account to my new number",
+      "i changed sim and need to log in again with the new number",
+      "how to verify my new mobile number in the app",
+      "my bank has the new number already how do i link it again"
+    ],
+    "typos": [
+      "i chnaged my mobile numbr how do i upadte it in the app",
+      "new phone numbr now how to login in payloom",
+      "how can i update my registed number after swtiching sim",
+      "pls tell me how to verify the new number and link my acconts",
+      "my bank has my new moble number now what shold i do"
+    ],
+    "hinglish": [
+      "mera mobile number change ho gaya hai payloom me kaise update karu",
+      "new sim liya hai ab app me kaise login karu",
+      "bank me new number update kar diya hai ab payloom me kya karna hai",
+      "apne app me purana number kaise replace karun",
+      "number change hua hai aur sms verification kaise karna hai"
+    ],
+    "minimal_edit": [
+      "How do I add my new phone number to the app?",
+      "How do I remove my old phone number from the app?",
+      "How do I change which phone number is used by default for payments?",
+      "How do I change my phone number in the app?"
+    ]
+  }
+}

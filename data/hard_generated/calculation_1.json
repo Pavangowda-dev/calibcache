@@ -1,0 +1,152 @@
+{
+  "type": "calculation",
+  "batch": 1,
+  "model": "gpt-5.5-2026-04-23",
+  "items": [
+    {
+      "question": "I have already sent Rs 35,000 and Rs 40,000 today. Can I send another Rs 25,000 now?",
+      "topics_used": [
+        "daily_amount_limit"
+      ],
+      "reference_answer": "Yes. You have sent Rs 75,000 so far, and Rs 1,00,000 - Rs 75,000 = Rs 25,000 is still available today."
+    },
+    {
+      "question": "Need to pay Rs 85,000 to my landlord in one go. I have not sent anything today. Will one UPI payment work?",
+      "topics_used": [
+        "per_txn_limit",
+        "daily_amount_limit"
+      ],
+      "reference_answer": "No, one transaction can be only up to Rs 50,000. You can split Rs 85,000 into more than one payment, as it is within the Rs 1,00,000 daily limit."
+    },
+    {
+      "question": "Aaj maine Rs 60,000 bhej diye. Ab Rs 45,000 ka payment karna hai, possible hai kya?",
+      "topics_used": [
+        "daily_amount_limit",
+        "per_txn_limit"
+      ],
+      "reference_answer": "No. Your remaining daily limit is Rs 1,00,000 - Rs 60,000 = Rs 40,000, so Rs 45,000 cannot be sent today."
+    },
+    {
+      "question": "I completed 17 successful payments today. How many more successful payments can I make before midnight?",
+      "topics_used": [
+        "daily_txn_count_limit"
+      ],
+      "reference_answer": "You can make 20 successful transactions per day. 20 - 17 = 3 more successful transactions are left today."
+    },
+    {
+      "question": "I did 18 successful payments and 2 failed payments today. Can I still do more payments?",
+      "topics_used": [
+        "daily_txn_count_limit"
+      ],
+      "reference_answer": "Yes. The limit is 20 successful transactions per day, so 20 - 18 = 2 successful transactions are still left."
+    },
+    {
+      "question": "I added my bank account 10 hours ago. I already sent Rs 3,200. Can I send Rs 2,000 more now?",
+      "topics_used": [
+        "new_user_limit"
+      ],
+      "reference_answer": "No. During the first 24 hours, the new user limit is Rs 5,000 per day. Rs 5,000 - Rs 3,200 = Rs 1,800 is left, so Rs 2,000 is above the remaining limit."
+    },
+    {
+      "question": "I am a new user and added bank 26 hours back. Today I sent Rs 70,000. How much more can I send today?",
+      "topics_used": [
+        "new_user_limit",
+        "daily_amount_limit"
+      ],
+      "reference_answer": "After 24 hours, the normal daily limit applies. Rs 1,00,000 - Rs 70,000 = Rs 30,000 more can be sent today."
+    },
+    {
+      "question": "My basic wallet balance is Rs 8,500. Can I add Rs 2,000 more to it?",
+      "topics_used": [
+        "wallet_limit"
+      ],
+      "reference_answer": "No. A basic wallet can hold up to Rs 10,000. You can add only Rs 10,000 - Rs 8,500 = Rs 1,500."
+    },
+    {
+      "question": "Full KYC wallet me Rs 1,96,000 hai. Can I keep adding Rs 6,000 more?",
+      "topics_used": [
+        "wallet_limit"
+      ],
+      "reference_answer": "No. With full KYC, the wallet can hold up to Rs 2,00,000. You can add only Rs 2,00,000 - Rs 1,96,000 = Rs 4,000."
+    },
+    {
+      "question": "If I add Rs 3,000 to wallet using a credit card, what fee will PayLoom charge?",
+      "topics_used": [
+        "wallet_credit_card_fee"
+      ],
+      "reference_answer": "Adding money with a credit card has a 2 percent fee. 2 percent of Rs 3,000 is Rs 60."
+    },
+    {
+      "question": "I paid 5 electricity/water bills from my bank account and 3 bills from wallet. Total PayLoom fee kitna hoga?",
+      "topics_used": [
+        "bill_payment_fee"
+      ],
+      "reference_answer": "Bill payments from bank account are free. Wallet bill payments cost Rs 3 each, so 3 x Rs 3 = Rs 9 total fee."
+    },
+    {
+      "question": "I want to do mobile recharges of Rs 80, Rs 100, Rs 101 and Rs 250. What is the total platform fee?",
+      "topics_used": [
+        "mobile_recharge_fee"
+      ],
+      "reference_answer": "Recharges up to Rs 100 are free. The Rs 101 and Rs 250 recharges each have a Rs 2 fee, so the total fee is Rs 4."
+    },
+    {
+      "question": "This month 13 friends joined with my referral and each made first payment of Rs 100 within 30 days. How much reward do I get?",
+      "topics_used": [
+        "referral_reward",
+        "referral_limit"
+      ],
+      "reference_answer": "Rewards are paid for up to 10 referrals per calendar month. You get 10 x Rs 100 = Rs 1,000."
+    },
+    {
+      "question": "Merchant approved my refund 6 working days ago. Should I raise a dispute now or wait?",
+      "topics_used": [
+        "merchant_refund_time",
+        "refund_not_received"
+      ],
+      "reference_answer": "Wait for now. A merchant refund reaches your bank account in 5 to 7 working days, so it is still within the allowed time."
+    },
+    {
+      "question": "My merchant refund was approved 9 working days ago and still not credited. What should I do?",
+      "topics_used": [
+        "refund_not_received"
+      ],
+      "reference_answer": "Raise a dispute in Help > Payments. More than 7 working days have passed, so include the refund reference number from the merchant."
+    },
+    {
+      "question": "A merchant charged me twice, Rs 899 and Rs 899, for the same order. How much should be reversed and when do I complain?",
+      "topics_used": [
+        "double_charged"
+      ],
+      "reference_answer": "The duplicate extra charge is Rs 899. It is normally reversed within 3 working days; if not reversed after 3 working days, raise a dispute with both transaction IDs."
+    },
+    {
+      "question": "QR bill was Rs 720 but I paid Rs 1,000 by mistake. How much extra should I ask the merchant to refund?",
+      "topics_used": [
+        "qr_wrong_amount"
+      ],
+      "reference_answer": "You overpaid by Rs 1,000 - Rs 720 = Rs 280. Ask the merchant to refund Rs 280; if they do not respond within 7 days, raise a dispute in Help > Payments."
+    },
+    {
+      "question": "My UPI payment failed, Rs 2,500 was deducted, and it has been 2 working days. Should I file dispute already?",
+      "topics_used": [
+        "failed_deducted"
+      ],
+      "reference_answer": "Not yet. A failed payment is reversed automatically within 3 working days, so wait until 3 working days are over."
+    },
+    {
+      "question": "Payment is pending, Rs 4,200 deducted, and 26 hours have passed. Should I pay again?",
+      "topics_used": [
+        "pending_deducted"
+      ],
+      "reference_answer": "Do not pay again. A pending payment should complete or reverse within 24 hours, and 26 hours have passed, so raise a dispute in Help > Payments."
+    },
+    {
+      "question": "My payment was successful but receiver says no money. It has been 3 working days. What now?",
+      "topics_used": [
+        "success_not_received"
+      ],
+      "reference_answer": "Share the UTR number with the receiver so they can check with their bank. Since more than 2 working days have passed, raise a dispute as well."
+    }
+  ]
+}

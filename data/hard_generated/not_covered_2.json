@@ -1,0 +1,107 @@
+{
+  "type": "not_covered",
+  "batch": 2,
+  "model": "gpt-5.5-2026-04-23",
+  "items": [
+    {
+      "question": "Can I schedule a UPI payment for next Monday in PayLoom?",
+      "topics_used": [],
+      "reference_answer": "The policy does not cover scheduled or future-dated payments. Please go to Help > Contact support for assistance."
+    },
+    {
+      "question": "How do I cancel an autopay mandate for my OTT subscription?",
+      "topics_used": [],
+      "reference_answer": "The policy does not cover autopay mandates or subscription cancellations. Please use Help > Contact support."
+    },
+    {
+      "question": "PayLoom app ka language Hindi se English me kaise change karu?",
+      "topics_used": [],
+      "reference_answer": "The policy does not cover changing the app language. Please go to Help > Contact support for help."
+    },
+    {
+      "question": "Can I use PayLoom on a rooted Android phone or will it be blocked?",
+      "topics_used": [],
+      "reference_answer": "The policy does not cover rooted devices or device compatibility rules. Please contact support through Help > Contact support."
+    },
+    {
+      "question": "I want to close my PayLoom account permanently, not just remove a bank. What is the process?",
+      "topics_used": [],
+      "reference_answer": "The policy does not cover permanent account closure. Please use Help > Contact support for the correct process."
+    },
+    {
+      "question": "Is PayLoom available on iPad or only mobile phones?",
+      "topics_used": [],
+      "reference_answer": "The policy does not cover supported device types such as iPad or phone-only use. Please go to Help > Contact support."
+    },
+    {
+      "question": "Can I create a separate PayLoom profile for my child who is 15?",
+      "topics_used": [],
+      "reference_answer": "The policy does not cover age requirements or minor accounts. Please contact support via Help > Contact support."
+    },
+    {
+      "question": "Mera PayLoom notifications nahi aa raha, payment alerts off ho gaye kya?",
+      "topics_used": [],
+      "reference_answer": "The policy does not cover notification settings or alert delivery issues. Please use Help > Contact support."
+    },
+    {
+      "question": "Can I change my PayLoom display name shown to other users?",
+      "topics_used": [],
+      "reference_answer": "The policy does not cover changing the display name. Please go to Help > Contact support for guidance."
+    },
+    {
+      "question": "Does PayLoom support UPI Lite, and how do I activate it?",
+      "topics_used": [],
+      "reference_answer": "The policy does not cover UPI Lite activation or support. Please use Help > Contact support."
+    },
+    {
+      "question": "My app keeps crashing on the splash screen after update. What should I do?",
+      "topics_used": [],
+      "reference_answer": "The policy does not cover app crashes or update troubleshooting. Please contact support through Help > Contact support."
+    },
+    {
+      "question": "Can I export my contacts from PayLoom or delete synced contacts?",
+      "topics_used": [],
+      "reference_answer": "The policy does not cover contact syncing, exporting, or deletion. Please go to Help > Contact support."
+    },
+    {
+      "question": "Is there a dark mode option in PayLoom? I cant find it.",
+      "topics_used": [],
+      "reference_answer": "The policy does not cover dark mode or appearance settings. Please use Help > Contact support."
+    },
+    {
+      "question": "How do I change the email ID registered on my PayLoom account?",
+      "topics_used": [],
+      "reference_answer": "The policy does not cover changing the registered email ID. Please contact support via Help > Contact support."
+    },
+    {
+      "question": "Can I block a specific person from sending me payment requests?",
+      "topics_used": [],
+      "reference_answer": "The policy does not cover blocking a user or contact. Please go to Help > Contact support for help."
+    },
+    {
+      "question": "I need PayLoom's GST invoice for the platform fee charged on my recharge. Where is it?",
+      "topics_used": [],
+      "reference_answer": "The policy does not cover GST invoices for fees. Please use Help > Contact support."
+    },
+    {
+      "question": "Does PayLoom work with voice commands or accessibility screen readers?",
+      "topics_used": [],
+      "reference_answer": "The policy does not cover voice commands or accessibility features. Please contact support through Help > Contact support."
+    },
+    {
+      "question": "Can I set monthly spending budgets or alerts in the app?",
+      "topics_used": [],
+      "reference_answer": "The policy does not cover spending budgets or custom alert settings. Please go to Help > Contact support."
+    },
+    {
+      "question": "Why is my profile photo not uploading? It says upload failed again and again.",
+      "topics_used": [],
+      "reference_answer": "The policy does not cover profile photo uploads. Please use Help > Contact support for assistance."
+    },
+    {
+      "question": "Can I merge two PayLoom accounts made with two mobile numbers?",
+      "topics_used": [],
+      "reference_answer": "The policy does not cover merging accounts across mobile numbers. Please contact support via Help > Contact support."
+    }
+  ]
+}

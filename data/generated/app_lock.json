@@ -1,0 +1,41 @@
+{
+  "intent_id": "app_lock",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "styles": {
+    "formal": [
+      "Could you please tell me how to set up a fingerprint or PIN lock on the PayLoom app?",
+      "I would like to enable app lock on PayLoom. How can I add fingerprint, face, or screen PIN protection?",
+      "Please guide me on how to secure the PayLoom app with a biometric lock or PIN.",
+      "How do I turn on app lock in PayLoom so that it asks for fingerprint or PIN every time I open it?",
+      "Can you share the steps to enable fingerprint, face, or screen PIN lock for the PayLoom app?"
+    ],
+    "casual": [
+      "how do i put a lock on payloom app",
+      "can i set fingerprint lock for the app",
+      "need to add pin lock in payloom",
+      "how to enable app lock in payloom",
+      "does payloom support face lock or pin",
+      "tell me how to lock the app with fingerprint"
+    ],
+    "typos": [
+      "how do i put a finger print lock on the app",
+      "can u help me set pin lck on payloom",
+      "i want to enable app lok for payloom",
+      "how to add face or screem pin lock",
+      "please tell me where to find secuity app lock"
+    ],
+    "hinglish": [
+      "PayLoom app me fingerprint lock kaise on karu",
+      "mujhe app lock lagana hai face ya pin se kaise hoga",
+      "settings me security ka option kahan hai app lock ke liye",
+      "app kholte hi fingerprint mange aisa lock kaise set karte hain",
+      "screen pin ya biometric lock enable karna hai kaise karu"
+    ],
+    "minimal_edit": [
+      "Someone sent me a collect request I do not recognise. How do I set a fingerprint or PIN lock on my payment app?",
+      "I think I was cheated in a fraud payment. How do I put a fingerprint or PIN lock on the app?",
+      "I lost my phone. How do I add fingerprint or PIN lock on my payment app?",
+      "How do I stop anyone from using my payment app with a fingerprint or PIN lock?"
+    ]
+  }
+}

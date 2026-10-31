@@ -1,0 +1,41 @@
+{
+  "intent_id": "daily_amount_limit",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "styles": {
+    "formal": [
+      "Could you please confirm the maximum amount I can send in a day on PayLoom?",
+      "I would like to know the daily sending limit on PayLoom across my bank accounts.",
+      "Please tell me how much I can transfer per day using PayLoom.",
+      "Can you explain the total amount I am allowed to send in one day on PayLoom?",
+      "I need clarification on the maximum daily UPI transfer limit in PayLoom."
+    ],
+    "casual": [
+      "whats the daily limit for sending money",
+      "how much can i send in a day on payloom",
+      "tell me the max i can transfer daily",
+      "what's my total send limit for today",
+      "how much money can i send per day",
+      "can you check my day limit for upi transfers"
+    ],
+    "typos": [
+      "what is the max amout i can send in a day",
+      "how much can i trnasfer per day on payloom",
+      "pls tell me the daily send limt",
+      "i want to know my total upi limit for one day",
+      "how much can be sent in a single day"
+    ],
+    "hinglish": [
+      "daily kitna amount send kar sakta hu payloom par",
+      "mera per day transfer limit kitna hai",
+      "ek din me total kitna bhej sakta hoon",
+      "payloom me daily sending limit kya hai",
+      "mujhe apna one day ka upi limit batao"
+    ],
+    "minimal_edit": [
+      "What is the maximum amount I can send per day?",
+      "What is the maximum amount I can send in one day?",
+      "How much can I send in a day?",
+      "What is the daily amount I can send?"
+    ]
+  }
+}

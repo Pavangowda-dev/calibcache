@@ -1,0 +1,41 @@
+{
+  "intent_id": "wallet_add_money",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "styles": {
+    "formal": [
+      "Could you please tell me how to add money to my wallet?",
+      "I need help with adding funds to my PayLoom wallet. How can I do that?",
+      "Please guide me on the steps to add money to the wallet.",
+      "How do I load money into my PayLoom wallet using UPI?",
+      "I would like to know the process to add money to my wallet from my bank account."
+    ],
+    "casual": [
+      "how do i add money to my wallet",
+      "where is the add money option",
+      "can you tell me how to put money in wallet",
+      "i want to top up my wallet how do i do it",
+      "how can i add funds to my payloom wallet",
+      "wallet me paise kaise add karu"
+    ],
+    "typos": [
+      "How do i add mony to my walet",
+      "Pls tell me how to add money in my wallett",
+      "How can I ad money to the wallet",
+      "I need help to add mney to my wallet",
+      "How do I put money in my walet from bank"
+    ],
+    "hinglish": [
+      "wallet me paise kaise add karte hain",
+      "bank account se wallet me money kaise dalu",
+      "mujhe wallet me money add karna hai kaise karu",
+      "hi wallet top up kaise karna hai",
+      "UPI pin se wallet me paise kaise add hote hain"
+    ],
+    "minimal_edit": [
+      "How much money can I keep in the wallet?",
+      "How do I upgrade my wallet to full KYC?",
+      "How do I move money from my wallet back to my bank account?",
+      "How do I add money to my wallet?"
+    ]
+  }
+}

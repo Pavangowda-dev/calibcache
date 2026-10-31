@@ -1,0 +1,41 @@
+{
+  "intent_id": "per_txn_limit",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "styles": {
+    "formal": [
+      "Hello, could you please tell me the maximum amount allowed in a single UPI transfer?",
+      "I would like to know the highest amount I can send in one transaction on PayLoom.",
+      "Please confirm the single transaction limit for sending money through the app.",
+      "May I know the maximum value permitted for one payment transfer?",
+      "Could you let me know the upper limit for an individual UPI payment?"
+    ],
+    "casual": [
+      "what's the max i can send in one payment?",
+      "how much can i transfer at once?",
+      "is there a cap on one transaction?",
+      "max amount for a single payment?",
+      "how big can one upi transfer be?",
+      "can i send a large amount in one go or is there a limit?"
+    ],
+    "typos": [
+      "what is the maimum i can send in one transation",
+      "how much can i transfer at once pls",
+      "is there a limt for one payment",
+      "max amout for a single transaction?",
+      "can i send a big amout in one go"
+    ],
+    "hinglish": [
+      "ek baar me kitna paisa bhej sakta hu?",
+      "single payment me max amount kitna hai?",
+      "ek transaction me zyada se zyada kitna bhej sakte hain?",
+      "kya one time transfer ka koi limit hai?",
+      "bada amount bhejne ke liye ek hi payment me kitna ja sakta hai?"
+    ],
+    "minimal_edit": [
+      "What is the maximum amount I can send in one single transaction?",
+      "What is the maximum amount I can send in a single transaction?",
+      "What is the maximum amount I can send in one transaction?",
+      "What is the maximum amount I can send in one payment?"
+    ]
+  }
+}

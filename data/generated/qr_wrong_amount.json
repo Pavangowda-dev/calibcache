@@ -1,0 +1,41 @@
+{
+  "intent_id": "qr_wrong_amount",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "styles": {
+    "formal": [
+      "I accidentally paid a merchant more than the bill amount through QR. How can I get the extra money back?",
+      "I completed a QR payment to a merchant, but I entered the wrong amount and paid more than required. What should I do now?",
+      "I have already paid a merchant through QR, and the payment amount was higher than the bill by mistake. Can PayLoom help me correct it?",
+      "My QR payment to a merchant went through with an extra amount by error. Please advise how I can recover the excess payment.",
+      "I mistakenly sent more money than the invoice amount in a merchant QR payment. What is the process to resolve this?"
+    ],
+    "casual": [
+      "i paid extra to the merchant by mistake, what now?",
+      "qr payment me bill se zyada amount chala gaya, help?",
+      "paid more than the total by mistake in merchant scan, how to fix it",
+      "i sent extra money to the shop by qr, can it be adjusted?",
+      "wrong amount paid to merchant, need to get the extra back",
+      "merchant ko zyada payment ho gaya by mistake, kya karu?"
+    ],
+    "typos": [
+      "I payed a merchant more than the bill amont by mistake what should I do",
+      "I paid extra amout in a QR payment to the merchant can you help me get it back",
+      "I accidently sent more money to the merchant than the bill amount how do I resolve this",
+      "My merchant QR payment went through with a extra amount by erorr what now",
+      "I made a wrong QR payment and paid more than needed to the shop what can I do"
+    ],
+    "hinglish": [
+      "maine merchant ko bill se zyada paise QR se bhej diye kya karu",
+      "payment karte time extra amount chala gaya merchant ko ab kya hoga",
+      "merchant scan karke zyada paise pay ho gaye kaise wapas milega",
+      "bill se upar payment ho gayi hai by mistake, merchant se refund kaise mangun",
+      "hi maine galti se extra payment kar di merchant ko ab kya process hai"
+    ],
+    "minimal_edit": [
+      "How long does a merchant refund take to reach my account after I paid extra by mistake in a QR payment?",
+      "The merchant approved my refund long ago but I still have not received the extra amount I paid in a QR payment.",
+      "A merchant charged me twice for the same order and I paid more than the bill amount by QR. What do I do?",
+      "How can I track a merchant refund after I accidentally paid more than the bill amount through QR?"
+    ]
+  }
+}

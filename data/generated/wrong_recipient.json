@@ -1,0 +1,41 @@
+{
+  "intent_id": "wrong_recipient",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "styles": {
+    "formal": [
+      "I accidentally sent money to the wrong UPI ID. Can PayLoom help me get it back?",
+      "I made a transfer to the wrong person by mistake. What should I do now to recover the money?",
+      "Is it possible to reverse a UPI payment if I entered the wrong recipient and sent the money already?",
+      "I sent funds to the wrong account by mistake. Please guide me on how to request a reversal.",
+      "Hello, I transferred money to the wrong person. Could you tell me the steps to raise a complaint and get help?"
+    ],
+    "casual": [
+      "sent money to the wrong guy by mistake, can i get it back?",
+      "i paid the wrong person accidentally, what can i do now?",
+      "wrong upi transfer happened, how do i recover it?",
+      "money went to the wrong contact, please help me get it back",
+      "can payloom reverse a payment i sent to the wrong person?",
+      "hi, i sent money to the wrong upi id. what should i do?"
+    ],
+    "typos": [
+      "i snt money to the wrng person by mistake can i get it bk",
+      "i transfered money to wrong person accidently how do i recover it",
+      "can you reverse a upi paymnt if i sent it to the wrong reciver",
+      "money went to the wrong account by mistak please help",
+      "i sent funds to the wrng UPI id can this be fixed"
+    ],
+    "hinglish": [
+      "maine galti se wrong person ko paise bhej diye kya wapas mil sakte hain",
+      "mujhse galti ho gayi aur payment wrong UPI id pe chali gayi ab kya karu",
+      "maine galat vyakti ko paise transfer kar diye kya usse recover kar sakta hoon",
+      "wrong person ko bheje hue paise kaise wapas le sakte hain",
+      "hi maine galti se kisi aur ko money bhej diya help karo"
+    ],
+    "minimal_edit": [
+      "My payment shows successful but I sent it to the wrong person. Can I get it back?",
+      "My payment failed but I sent money to the wrong person. What should I do?",
+      "My payment shows pending and I sent it to the wrong person. What should I do?",
+      "My payment was declined and I sent money to the wrong person. Why?"
+    ]
+  }
+}

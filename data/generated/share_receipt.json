@@ -1,0 +1,41 @@
+{
+  "intent_id": "share_receipt",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "styles": {
+    "formal": [
+      "Hello, how can I get a receipt for one payment from the app?",
+      "Could you please tell me how to download a receipt for a single transaction?",
+      "I need a receipt for one payment. Where can I find it in PayLoom?",
+      "Please guide me on how to share the receipt for one transaction.",
+      "How do I get a PDF or image receipt for a specific payment?"
+    ],
+    "casual": [
+      "how do i get a receipt for one payment",
+      "can i share receipt for a single transaction",
+      "need receipt for one UPI payment",
+      "where is the receipt option for one payment",
+      "how to get pdf receipt for one transaction",
+      "want the receipt for one payment in the app"
+    ],
+    "typos": [
+      "how can i get a reciept for one paymet",
+      "i need a receipt for one transaciton can you help",
+      "where do i tap to shre receipt for one payment",
+      "how to get a pdf or image reciept for one transacton",
+      "need recipt for one payment from history"
+    ],
+    "hinglish": [
+      "ek payment ka receipt kaise milega",
+      "history me jaake ek transaction ka receipt share karna hai",
+      "mujhe ek payment ka pdf receipt chahiye kaise milega",
+      "single payment ka receipt app me kahan se nikalta hai",
+      "ek UPI payment ki receipt kaise download karu"
+    ],
+    "minimal_edit": [
+      "How can I get a receipt for one payment?",
+      "How can I get a receipt for one transaction?",
+      "How can I get a receipt for one payment in the app?",
+      "How can I get a receipt for one payment from History?"
+    ]
+  }
+}

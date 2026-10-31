@@ -1,0 +1,41 @@
+{
+  "intent_id": "p2p_fee",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "styles": {
+    "formal": [
+      "Could you please confirm whether sending money to friends from my bank account on PayLoom is free of charge?",
+      "I would like to know if there are any fees for transferring money to family members through PayLoom.",
+      "Please let me know whether PayLoom charges anything when I send money to someone from my bank account.",
+      "Can you confirm if peer-to-peer bank transfers on PayLoom have any service fee?",
+      "I want to check whether sending money to a friend using PayLoom costs anything extra."
+    ],
+    "casual": [
+      "is sending money to friends free on payloom?",
+      "do i get charged when i send money to family from bank account?",
+      "any fee for transferring money to my friend here?",
+      "does payloom take a charge for sending money to someone?",
+      "hi, is bank to bank transfer to friends free?",
+      "will i pay anything for sending money to my brother on the app?"
+    ],
+    "typos": [
+      "is there any fee for sendng money to frends from bank account",
+      "do i need to pay chargs when i transfer money to family",
+      "will payloom deduct any extra fee for sending money to a friend",
+      "can you check if sending money from my bank accunt is free",
+      "is there any fess for p2p bank transfer"
+    ],
+    "hinglish": [
+      "kya friend ko bank se paise bhejne par koi fee lagti hai",
+      "family ko money transfer karne par kuch charge hota hai kya",
+      "payloom me friend ko paise bhejne ka koi extra charge hai kya",
+      "bank account se dusre ko paise bhejne me fee kat ti hai kya",
+      "hello kya payloom par kisi ko money bhejne ke liye charge lagta hai"
+    ],
+    "minimal_edit": [
+      "Is there any extra charge for sending money to friends?",
+      "Is there a charge for sending money to friends in the app?",
+      "Is there any fee for sending money to family from my bank account?",
+      "Is there a charge for sending money to friends from my bank account?"
+    ]
+  }
+}

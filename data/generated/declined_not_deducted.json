@@ -1,0 +1,41 @@
+{
+  "intent_id": "declined_not_deducted",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "styles": {
+    "formal": [
+      "My UPI payment was declined, and no money was deducted from my account. Why did this happen?",
+      "Could you please help me understand why my payment got declined but my account balance was not debited?",
+      "I tried to make a UPI payment, but it was declined and no amount was taken from my bank account. What should I do?",
+      "Hello, my payment was rejected by PayLoom and nothing was deducted. Can you explain the reason?",
+      "My transaction was declined without any debit from my account. Should I check my balance, UPI PIN, or bank status?"
+    ],
+    "casual": [
+      "my payment got declined but no money was cut, why?",
+      "why did the upi fail if nothing got deducted?",
+      "payment declined and balance is still same, what happened?",
+      "i tried again but it keeps getting declined and no debit happened",
+      "hey my transaction failed but no money left my account",
+      "declined payment no deduction from bank, what should i check?"
+    ],
+    "typos": [
+      "my payment got decliend but no money was deducted why",
+      "upi trnsaction declined and balance not debited what to do",
+      "payment faild no amount deducted from account can you help",
+      "my bank refused the paymnt and nothing got deducted",
+      "no money was cut but the payment was declined what should i check"
+    ],
+    "hinglish": [
+      "mera payment decline ho gaya aur paise bhi cut nahi hue, kyu?",
+      "upi payment fail hua but account se kuch deduct nahi hua, kya reason hai?",
+      "transaction declined ho gaya aur balance same hai, kya check karu?",
+      "payment reject ho gaya lekin money deduct nahi hua, kya karna chahiye?",
+      "hi, payment fail hua aur account se paise nahi gaye, bank ko contact karna hoga kya?"
+    ],
+    "minimal_edit": [
+      "My payment failed but no money was deducted from my account. What should I do?",
+      "My payment shows pending and no money was deducted. What should I do?",
+      "My payment shows successful but no money was deducted. What should I do?",
+      "I sent money to the wrong person by mistake and no money was deducted. Can I get it back?"
+    ]
+  }
+}
